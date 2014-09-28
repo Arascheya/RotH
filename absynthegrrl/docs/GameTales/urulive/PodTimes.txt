@@ -1,0 +1,22 @@
+PODS:
+
+NEXT Times - madtown timezone
+
+Negliahn                Dereno                  Payiferen               Tetsonot
+Middle Level            Lower Level             Lower Level - by Nexus  Middle Level
+--------------------    --------------------    --------------------    --------------------
+Shandi                  Shandi                  Shandi                  Shandi
+Irena                   Irena                                           Irena
+Chani                   Chani
+Katya
+Tyana
+
+Run Predictor tool from G:\DVD_images\uru_data_capts\PodCalcs
+
+* - still need to get this for these chars
+
+
+Ercana Pelet settings:
+try: 25-37-40 about 900; 40-30-26; 45-30-25 - last two around 950
+official: 40-30-20
+try 30-30-30 - supposedly about 950

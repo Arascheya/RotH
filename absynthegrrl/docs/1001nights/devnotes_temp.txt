@@ -1,0 +1,7 @@
+footnote template
+
+in story
+<a href="footnotes.htm#v1_fn1">[FN#1]</a>
+
+in footnotes doc
+<a NAME="v1_fn2">[FN#2]</a>

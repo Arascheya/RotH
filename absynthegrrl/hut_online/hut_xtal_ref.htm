@@ -1,0 +1,660 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <link rel='stylesheet' type='text/css' href='../stylesheets/layout.css' />
+    <title>CtlSysRef</title>
+</head>
+
+<body>
+<!--
+<p>
+    <IMG SRC="imagefile.ext">
+</p>-->
+<p class="pagecaption">Control System Reference</p>
+
+<p class="regtxt5">Must implement a system where the Hut crystal containers dynamically add and change their contents based on current crystal status from the database. Crystals must be tracked in the database because they control Interface movement and power available to the Hell Hand.</p>
+
+<p class="sectioncaption">Crystal Status</p>
+
+<p class="regtxt5">Used in settings table for Campaign</p>
+
+<p class="regtxt5">
+    <table border=1>
+        <tr>
+            <td>
+                Value
+            </td>
+            <td>
+                Meaning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                0
+            </td>
+            <td>
+                Damaged
+            </td>
+        </tr>
+        <tr>
+            <td>
+                1
+            </td>
+            <td>
+                Functional
+            </td>
+        </tr>
+    </table>
+</p>
+
+<p class="sectioncaption">Crystal Status</p>
+
+<p class="regtxt5">
+    <table border=1>
+        <tr>
+            <td>
+                Device
+            </td>
+            <td>
+                Crystal
+            </td>
+            <td>
+                Starting Status
+            </td>
+            <td>
+                RotH Alpha Location of Replacement
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Master Control System
+            </td>
+            <td>
+                Control Crystal 1
+            </td>
+            <td>
+                0
+            </td>
+            <td>
+                <a href="margla32.htm">Bestiary</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Master Control System
+            </td>
+            <td>
+                Control Crystal 2
+            </td>
+            <td>
+                1
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Master Control System
+            </td>
+            <td>
+                Control Crystal 3
+            </td>
+            <td>
+                0
+            </td>
+            <td>
+                <a href="margla57.htm">Treasury</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Master Control System
+            </td>
+            <td>
+                Control Crystal 4
+            </td>
+            <td>
+                1
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Master Control System
+            </td>
+            <td>
+                Control Crystal 5
+            </td>
+            <td>
+                0
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Master Control System
+            </td>
+            <td>
+                Control Crystal 6
+            </td>
+            <td>
+                1
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Master Control System
+            </td>
+            <td>
+                Control Crystal 7
+            </td>
+            <td>
+                0
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Power Regulator 1
+            </td>
+            <td>
+                Power Regulator Crystal
+            </td>
+            <td>
+                1
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Power Regulator 2
+            </td>
+            <td>
+                Power Regulator Crystal
+            </td>
+            <td>
+                0
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Power Tapping System
+            </td>
+            <td>
+                Power Tapping Crystal
+            </td>
+            <td>
+                0
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Stability Field Generator 1
+            </td>
+            <td>
+                Focus Regulator Crystal
+            </td>
+            <td>
+                1
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Stability Field Generator 2
+            </td>
+            <td>
+                Focus Regulator Crystal
+            </td>
+            <td>
+                0
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Stability Field Generator 3
+            </td>
+            <td>
+                Focus Regulator Crystal
+            </td>
+            <td>
+                0
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Stability Field Generator 4
+            </td>
+            <td>
+                Focus Regulator Crystal
+            </td>
+            <td>
+                1
+            </td>
+            <td>
+            </td>
+        </tr>
+    </table>
+</p>
+
+<p class="sectioncaption">Crystals</p>
+
+<p class="regtxt5">
+    <table border=1>
+        <tr>
+            <td>
+                ref
+            </td>
+            <td>
+                ResRef
+            </td>
+            <td>
+                TAG
+            </td>
+            <td>
+                Display Name
+            </td>
+            <td>
+                Appearance
+            </td>
+        </tr>
+        <tr>
+            <td>
+                01
+            </td>
+            <td>
+                hut_ctlxtal_01
+            </td>
+            <td>
+                Hut_CtlXtal_01
+            </td>
+            <td>
+                Control Crystal: Blue
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_049.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                02
+            </td>
+            <td>
+                hut_ctlxtal_02
+            </td>
+            <td>
+                Hut_CtlXtal_02
+            </td>
+            <td>
+                Control Crystal: Deep Red
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_073.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                03
+            </td>
+            <td>
+                hut_ctlxtal_03
+            </td>
+            <td>
+                Hut_CtlXtal_03
+            </td>
+            <td>
+                Control Crystal: Dusty Rose
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_073.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                04
+            </td>
+            <td>
+                hut_ctlxtal_04
+            </td>
+            <td>
+                Hut_CtlXtal_04
+            </td>
+            <td>
+                Control Crystal: Pale Blue
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_049.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                05
+            </td>
+            <td>
+                hut_ctlxtal_05
+            </td>
+            <td>
+                Hut_CtlXtal_05
+            </td>
+            <td>
+                Control Crystal: Pink
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_073.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                06
+            </td>
+            <td>
+                hut_ctlxtal_06
+            </td>
+            <td>
+                Hut_CtlXtal_06
+            </td>
+            <td>
+                Control Crystal: Pink and Green
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_080.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                07
+            </td>
+            <td>
+                hut_ctlxtal_07
+            </td>
+            <td>
+                Hut_CtlXtal_07
+            </td>
+            <td>
+                Control Crystal: Scarlet and Blue
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_079.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                08
+            </td>
+            <td>
+                hut_ctlxtal_dead
+            </td>
+            <td>
+                Hut_CtlXtal_Dead
+            </td>
+            <td>
+                Control Crystal: Damaged
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_010.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                09
+            </td>
+            <td>
+                hut_pwrfocus
+            </td>
+            <td>
+                Hut_PwrFocus
+            </td>
+            <td>
+                Power Focus Control
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_114.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                10
+            </td>
+            <td>
+                hut_pwrfocus_ded
+            </td>
+            <td>
+                Hut_PwrFocus_Dead
+            </td>
+            <td>
+                Power Focus Control: Damaged
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_244.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                11
+            </td>
+            <td>
+                hut_pwreg
+            </td>
+            <td>
+                Hut_PwrReg
+            </td>
+            <td>
+                Power Regulator
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_009.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                12
+            </td>
+            <td>
+                hut_pwreg_dead
+            </td>
+            <td>
+                Hut_PwrReg_Dead
+            </td>
+            <td>
+                Power Regulator: Damaged
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_010.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                13
+            </td>
+            <td>
+                hut_tappingxtal
+            </td>
+            <td>
+                Hut_TappingXtal
+            </td>
+            <td>
+                Power Tapping Control
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_044.jpg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                14
+            </td>
+            <td>
+                hut_tappingxt_dd
+            </td>
+            <td>
+                Hut_TappingXtal_Dead
+            </td>
+            <td>
+                Power Tapping Control: Damaged
+            </td>
+            <td>
+                <IMG SRC="../common/item_images/iit_smlmisc_010.jpg">
+            </td>
+        </tr>
+    </table>
+</p>
+
+<p class="sectioncaption">Control Container List</p>
+
+<p class="regtxt5">
+    <table border=1>
+        <tr>
+            <td>
+                Ref
+            </td>
+            <td>
+                TAG
+            </td>
+            <td>
+                Name
+            </td>
+            <td>
+                Notes
+            </td>
+        </tr>
+        <tr>
+            <td>
+                1
+            </td>
+            <td>
+                hut_navcom
+            </td>
+            <td>
+                Hut Main Control System
+            </td>
+            <td>
+                contains Control Crystals
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2
+            </td>
+            <td>
+                Hut_PwrRegOne
+            </td>
+            <td>
+                Power Regulator 1
+            </td>
+            <td>
+                contains Power Regulator Crystal
+            </td>
+        </tr>
+        <tr>
+            <td>
+                3
+            </td>
+            <td>
+                Hut_PwrRegTwo
+            </td>
+            <td>
+                Power Regulator 2
+            </td>
+            <td>
+                contains Power Regulator Crystal
+            </td>
+        </tr>
+        <tr>
+            <td>
+                4
+            </td>
+            <td>
+                Hut_TappingDevice
+            </td>
+            <td>
+                Tapping Device
+            </td>
+            <td>
+                contains Tapping Crystal
+            </td>
+        </tr>
+        <tr>
+            <td>
+                5
+            </td>
+            <td>
+                Hut_JumpGen1
+            </td>
+            <td>
+                Stability Field Generator One
+            </td>
+            <td>
+                contains Power Focus Crystal
+            </td>
+        </tr>
+        <tr>
+            <td>
+                6
+            </td>
+            <td>
+                Hut_JumpGen2
+            </td>
+            <td>
+                Stability Field Generator Two
+            </td>
+            <td>
+                contains Power Focus Crystal
+            </td>
+        </tr>
+        <tr>
+            <td>
+                7
+            </td>
+            <td>
+                Hut_JumpGen3
+            </td>
+            <td>
+                Stability Field Generator Three
+            </td>
+            <td>
+                contains Power Focus Crystal
+            </td>
+        </tr>
+        <tr>
+            <td>
+                8
+            </td>
+            <td>
+                Hut_JumpGen4
+            </td>
+            <td>
+                Stability Field Generator Four
+            </td>
+            <td>
+                contains Power Focus Crystal
+            </td>
+        </tr>
+    </table>
+</p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5"></p>
+
+<!--<a href=""></a>-->
+<!--<a NAME="eye_first"> sample of how to set up name refs inside a page-->
+
+</body>
+
+</html>

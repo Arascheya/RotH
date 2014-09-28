@@ -1,0 +1,441 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <link rel='stylesheet' type='text/css' href='../../../stylesheets/layout.css' />
+    <title>AngeliqueDev</title>
+</head>
+
+<body>
+<!--
+<p>
+    <IMG SRC="imagefile.ext">
+</p>-->
+<p class="pagecaption"><a href="../../../gm_resources/npcs/mereret.htm">Angelique</a> - Development Notes</p>
+<p class="sectioncaption">Related Dev Links</p>
+<p class="sectrioncaption">General Dev Links</p>
+<p class="regtxt5"><a href="../../docs_index.htm#hut">Hut Story Index</a></p>
+<p class="regtxt5"><a href="../../../gm_resources/npc_index.htm">NPC Index</a></p>
+<p class="sectioncaption">Insertables Links</p>
+<p class="regtxt5"></p>
+<p class="sectioncaption">Specific Dev Links</p>
+<p class="regtxt5"><a href="http://maps.nls.uk/os/london-1890s/info.html">1893-1896 London Survey Maps</a> - can be used as overlay for google maps</p>
+
+</br>
+<p class="sectioncaption">Things to remember throughout</p>
+<p class="regtxt5">/* ANge started out as Mereret - I may think of her more as Ange, but she has been Mereret for 2600 years and Ange for 10 - she will think of herself as Mereret or Mere, as Lestrade calls her - Shan will call her Mere as well */</p>
+<p class="regtxt5">/* Mere is not used to cold and damp, even with overlays, this is hard for her */</p>
+<p class="regtxt5">other data - what happens to a <a href="../../../gm_resources/char_type_info/vampyr.htm">vampyr</a> if they feed on a drugged up host? how does the concentration of organic poisons, drugs, etc. effect them?</p>
+<p class="regtxt5">Imhotep is known as healer and architect - some of the healing jump-started by necklace data?</p>
+<p class="regtxt5">Senmut died in the 16th year of Hatshepsut's reign</p>
+<p class="regtxt5">/* Rosetta stone - written in 196 BCE, found in 1799, deciphered by 1822</p>
+<p class="regtxt5">/* temple at Deir el Bahari - 1881 - awakened by excavations at the mummy cache</p>
+<p class="regtxt5">/* see here for a layout of the complex: <a href="http://www.narmer.pl/indexen.htm">Deir el Bahari</a></p>
+<p class="regtxt5">/* London - <a href="../../../gm_resources/info/1800stimeline.htm">1800s Timeline</a></p>
+<p class="regtxt5"><a href="../../../gm_resources/npcs/angelique.htm">Angelique</a> in 1883 - she starts out named Emily Crooksley from an identity amalgam from her time on the steamer to London</p>
+<p class="regtxt5">between 1883 and 1887 she is a positive force for the neighborhood she is in - removing various truly awful people from the population, including several clusters of <a href="../../../gm_resources/char_type_info/vampyr.htm">vampyr</a></p>
+<p class="regtxt5">the ripper in 1888 - ripper was <a href="../../../gm_resources/npcs/borusa.htm">Jekyll</a> removing several witnesses to body dumping after various experiments on homeless people</p>
+<p class="regtxt5">death of the ripper in 1888 - ripper was <a href="../../../gm_resources/npcs/borusa.htm">Jekyll</a></p>
+<p class="regtxt5">arrival of <a href="../../../gm_resources/npcs/borusa.htm">Borusa</a> in 1889 - setting <a href="../../../gm_resources/npcs/borusa.htm">Borusa</a> up as <a href="../../../gm_resources/npcs/borusa.htm">Jekyll</a></p>
+<p class="regtxt5">the opening of a trans-dim portal always sets her mind to bouncing about even more than usual</p>
+
+<p class="regtxt5">add a mention of Lee's character Natalie from London Dust found near-dead in the Thames near the Wapping stairs, don't do anything more with her than that. she was found by someone <a href="../../../gm_resources/npcs/borusa.htm">Jekyll</a> knows</p>
+<p class="regtxt5">shift Stevenson's writing of <a href="../../../gm_resources/npcs/borusa.htm">Jekyll</a>/Hyde to 1893 - Stevenson knew Petrie and Seward, from them he got some of the tale</p>
+<p class="regtxt5">1895 - time of the Hut</p>
+<p class="regtxt9">need to keep the concept of <a href="../../../gm_resources/char_type_info/vampyr.htm">vampyr</a> killers</p>
+<p class="regtxt9">trace their history back into time - comes through round-about method from Imhotep and his contact with Iskandera</p>
+<p class="regtxt9">van helsing is attached to one of the prime hunters, Princess Maria of Romania</p>
+<p class="regtxt9">Valen still resembles Maria - enough to confuse van helsing, although on closer look Valen is older</p>
+<p class="regtxt5">Ang needs to express her ideas on religion, spirituality, and what she has seen through her various times - starting with her childhood and how her views shofted</p>
+<p class="regtxt5">remember her experiences with how marriages worked in her childhood - they were more balanced and open than she sees in London - for example, there were no racial stigmas or proscriptions - women were considered on equal footing with men, except for becoming Pharaoh, Ang has serious difficulties with the Christian and Muslim strictures on women - fashions are another vexation, mostly for the total levels of discomfort - she is pleasantly surprised by the members of the Hut and the way they have structures themselves - bathing practices are also difficult for her - she bathed often, kept her hair short and had wigs to make up the difference, although long hair is not one of her irritations</p>
+<p class="regtxt9">see <a href="http://www.womenintheancientworld.com/women_in_ancient_egypt.htm">this</a> for a quick overveiw of women in Egypt around the times of Angelique</p>
+<p class="regtxt5">When expanding on the time of Cleopatra, remember the changes brought by Greeks and Romans and the degradation of the status of womem - over time she really resents the severe degradation of women under the sky gods and in London - this contributes to her desire to escape in the Hut</p>
+<p class="regtxt5">Alt earth/London is in the Mega-Corp Ascendency, thus this is the precursor time-line to the Empire, Valen, and the Razaks. This is detailed in the <a href="../../../gm_resources/info/multiverse.htm">Multiverse Overview</a>. Alt Earth/London do not have the Zeltropian artifacts or base, this is before their time</p>
+
+<p class="regtxt5">Need a picture or two over he finding out about the origins of vampyr takes up where Iskandera's story ends, with her "death" and "rebirth" on the Drkzyrkth homeworld</p>
+
+<p class="regtxt5">Mereret wanted children and a family. She might have been infertile before, but the vampyrites rendered her sterile, treating sperm or fertilized eggs as foriegn invaders. It is her one regret.</p>
+
+<p class="regtxt5">Ange's father's brother will take possession of the house and believe he has the right to control Ange's future. At first trying to complete the wedding to Steve, until Steve can't be found, then moving on from there.</p>
+
+<p class="regtxt5">Remember there will be much politics around Lord Wellingham, he is breaking with tradition in many ways and this will piss off those around him that are in power.</p>
+
+<p class="regtxt5">Lestrade may or may not have an affair with Ange - it would not be proper, but is he non-traditional enough to go with it. He is a product of his time and of his aunt - how does the internal conflic play out? This conflict forms him and how he deals with the world around him.</p>
+
+<p class="regtxt5">Ange is frustrated by the backward march of women's rights in an "enlightened" time. She will talk of this with Lestrade if he shows any interest. See <a href="http://en.wikipedia.org/wiki/Women_in_the_Victorian_era">this wikipedia article</a> for an overview</p>
+
+<p class="regtxt5">Ange is used to political manipulations, having seen it while serving with many pharaohs. She will attempt to advise Lord Wellingham if he will listen. She has sown the seeds that Valen can build on.</p>
+
+<p class="regtxt5">How much will Ange tell the Wellinghams about herself? How much is necessary for her to be listened to and how much would cause more trouble than solving?.</p>
+
+<p class="regtxt5">Why does Steve Abernathy want to kill Ange? Is it a plot with Trechwell for something or is it a different agenda entirely? If it is different, how would Ange find out about the situation at her home?</p>
+
+<p class="regtxt5">Poor sections - usual pimps, cut-throats, pinchers, and the like - Ange tends to kill pimps and cut-throats, anyone that abuses women is fair game - using the goods recovered to finance her living expenses</p>
+
+<p class="regtxt5">There is a group attempting to open a gate a Stonehenge to provide a way for the Old Ones, another section of proxy gods, into the world. They will come across a power crystal, needed to repair the Hut, after the first world gates/hell gates are formed by the arrival of Borusa. He was using several of these to power his device.</p>
+
+<p class="regtxt5">remember - telephones go through operators at this stage - self-dial is still a far away dream</p>
+
+<p class="regtxt5">Ange will remember her past fondly - the new ways don't seem better than the ways when she was a child, religion and the treatment of women iritates her - the improvements of the Hut group are welcome after the strange strictures of London and the "modern" world - she will discuss this with Shan and the crew, maybe with Lestrade</p>
+
+<p class="regtxt5">If talks to Lestrade, will give insight into what she knows of the history of the new religion and what she learned from her progenitor about gods. Lived through many segments of the 2000 years from her birth until Cleopatra - no evidence of The Exodus, no Jews were in Egypt at the time, free or enslaved.</p>
+
+<p class="regtxt5">She feels a bit out of place, not knowing where she can contribute, with the new lack of status of women. She knows herbalism, </p>
+
+<p class="regtxt5">Mere's primary focus is steering the nexus to support the <a href="../../../gm_resources/info/mega_ascend.htm">Mega-Corp Ascendency</a> and the Diaspora that gives rise to <a href="../../../gm_resources/npcs/valen.htm">Valen</a>'s empire</p>
+
+<p class="regtxt5">for pre-history - consider a real alliance between Vlad Tepes and Matthias Corvinius in Hungry - maybe they both become vampyr somehow if needed - in this incarnation Vlad is more stable as a ruler. also need to shift things just enough that the Turks are less successful militarily in the Carpathian regions</p>
+
+<p class="regtxt5">start at the Vlad Tepes entry at <a href="http://en.wikipedia.org/wiki/Vlad_III_Dracula">Wikipedia</a> and go from there for the real-space version of events to adjust</p>
+
+<p class="regtxt5">through their alliance they keep a block of states Roumania, Transylvania, Walachia, Moldavia, and Hungry united as a block</p>
+
+<p class="regtxt5">to make all this work the European and eastern european nations need to be balanced in ways that make war less desirable earlier in their history. if need be could even be a cabal of powerful vampyr that work to keep the balance. using anything from political pressure to assassination to maintain the balance of power - this could make any sort of vampyr slaying group not a cut and dried good thing</p>
+
+<p class="regtxt5">the cabal could mis-direct slayers to take down rogue elements or unstable newer vampyr that had no concept of the stakes.</p>
+
+<p class="regtxt5">Vlad is in London to locate a likely Londoner for inclusion in the Cabal.</p>
+
+<p class="regtxt5">dr. Poole - british museum</p>
+
+<p class="regtxt5">look at egyptian discovery on touregypt.net - look for likely suspects to for egypt related things</p>
+
+<p class="regtxt5">Mereret will know when the controlling device has located a nearby "probe"</p>
+
+<p class="regtxt5">need to figure a different mechanism for clearing the necklace, or a different way of backing up the data of profiles to be kept and reloaded.</p>
+
+<p class="regtxt5">beef up the legends of the Origin - these legends have grown over time and should be rather divergent from the truth - that being the Zero Vector randomly infected contacts until her destruction, then Angelique did the same, until she learned from the necklace</p>
+
+<p class="regtxt5">she will spur dev of hieratic</p>
+
+<p class="regtxt5">the mother of Kuhfu, wife of snofru, disappeared from her tomb - only viscera was found...could be used, although Mereret is barren, so would have to work that as well...</p>
+
+<p class="regtxt5">remember there is a Mereret in the 12th dynasty</p>
+
+<p class="regtxt5"><UPDATE></p>
+
+<p class="regtxt5">iunu<br/>
+pharaoh</p>
+
+<p class="regtxt5"><TO></p>
+
+<p class="regtxt5">inbw-hdj (white walls) which became Hwt-k3-pth (after a temple district)  and Ankh-tawy (that which binds two lands) and finally mennefer which became memphis from the greeks after the name of the pyramid of pepi 1
+nesu - older egyptian short term for king/ruler - see also: <a href="">Titles</a> and <a href="http://www.touregypt.net/featurestories/pharaohs.htm">Pharaohs</a>
+</UPDATE></p>
+
+
+</br>
+<p class="sectioncaption">Things to consider revising</p>
+<p class="regtxt5">Ange will teach Lestrade ancient Egyptian and have him teach her Welsh. They will use these to communicate privately.</p>
+
+<p class="regtxt5">/* should be more in line with actual events - revise as needed based on book and historical sources - Mereret is there when Cleopatra dies - need to refine how the last conversation goes, but Cleo should influence Mereret with regard to pro-active actions in changing times */</p>
+
+<p class="regtxt5">decide why Mereret sleeps from Cleo time until 1883 - vision related or other?</p>
+
+<p class="regtxt5">Ange will threaten her uncle after he attempts to reign her in. He will see the gossip headlines about Ange being seen at the theatre with Lestrade and about her leaving the show at the firt intermission. He seeks to remind her of her duty, not realizing who he is dealing with - she will inform him that she will kill him if he tries again and that he will disappear - no body, no crime, no arrests</p>
+
+<p class="regtxt5">In Hut - First Impressions - somewhere near the end of the intrview she realizes she has come home - a world of powerful, secure women, in charge of their own destinies and beholden to no man, and lacking the subservience she has seen in London</p>
+
+
+</br>
+<p class="sectioncaption">General Ideas</p>
+<p class="regtxt5">consider tieing her in with  Senusret III, the 5th King of the 12th Dynasty as well - see Tour Egypt <a href="http://www.touregypt.net/featurestories/senusret3.htm"> Senusret III, the 5th King of the 12th Dynasty</a> - he had a daughter named Mereret as well, Mereret I was a queen of <a href="http://www.touregypt.net/featurestories/amenemhet2.htm"> Amenemhet II, 3rd King of the 12th Dynasty</a></p>
+
+<p class="regtxt5"><a href="http://touregypt.net/historicalessays/hatshepsut.htm">Hatshepsut Maatkare 1473-1458 18th dynasty</a> from Tour Egypt</p>
+
+<p class="regtxt5"><a href="http://community.livejournal.com/little_details/2375291.html">Actresses in London</a> - consider making her cover in London that of an aspiring actress until she takes Angelique outside the Lyceum Theatre in 1887</p>
+
+<p class="regtxt5">Ange illuminating poison - used extensively in the time of Cleopatra, hoping for a way out of the decline of women and the rise of the monotheists</p>
+
+<p class="regtxt5">what happens to Marsters home after Mere leaves? Wellinghams would own it, Ange wouldn't want to go back - the horror of the deaths - keep it in trust for the son of step-mother and father? </p>
+
+<p class="regtxt5">Consider using this, <a href="http://en.wikipedia.org/wiki/Phryne">Phryne</a> for another incarnaton of Mereret between Htshepsut and Cleopatra - 371 to 310 BC</p>
+
+</br>
+<p class="sectioncaption">Insertable Segments</p>
+<p class="regtxt5"><a href="childhood.htm">Childhood</a></p>
+<p class="sectioncaption"><a href="../../../gm_resources/npcs/angelique.htm">Angelique</a> Remembers - Life as a <a href="../../../gm_resources/char_type_info/vampyr.htm">vampyr</a></p>
+<!--
+<p class="regtxt5">/* alternative to consider - might be a bit too weird?</p>
+
+<p class="regtxt5">when i returned she demanded i assume her place. she sited various reasons but in the end i did it for love of her. by then i knew how to make the necklace perform and so i became her. dealing with my disappearance was the hardest part. i had to pretend we had argued and that she had decreed my death for daring believe she would die. i could still take you to the shrine where i had her buried. as a result her tomb has survived the brutalities of the tomb robbers.</p>
+
+<p class="regtxt5">the deception held for the most part. Senmut suspected from the first. we were different her and i. she loved life as i did but she was more restrained even in private. i was passionate and wild, and try as i might, i couldn't hold back enough. he asked me 3 years after the switch. it was easier for him after that, although i could see the factions working on him.</p>
+
+<p class="regtxt5">two years before my "death" Senmut was taken by one of the factions. he didn't come to me that night. he didn't show up for morning audiences either. that night i went hunting. his corpse was still strapped to the torture chair in the faction holdings. their deaths were more merciful than his. i did not drink of them for they were tainted. for long moments i considered terrible revenge.</p>
+
+<p class="regtxt5">love of my lost Hatshepsut stayed my hand. the civil war it would have triggered would have destroyed the kingdom she had worked to hold. at the last i quietly let myself "die" of natural causes. it would have been so easy to live, but it was time to pass on the kingdom.</p>
+
+<p class="regtxt5">Thutmose III was a good a wise ruler. although, toward the end of his reign he went slightly mad. he destroyed the name of my beloved and tried to erase her from history. it didn't work. there was the mystery of the missing body, uncertainty of Hatshepsut's death, and his crazy attempts to remove her name from history. in the end i gave my friend the greatest gift i could, immortality. Sure, Thutmose III is remembered, but no where near the same way as Hatshepsut, strongest of the Egyptian queens.</p>
+-->
+
+<p class="regtxt5">/* add to Hatshepsut photo? */</p>
+
+<p class="regtxt5">remember she will tell her in the garden when asked. need to figure out how this is recieved. how sane is she be this point?</p>
+
+<p class="regtxt5">/* when speaking about Hatshepsut to Lestrade at some point in their relationship */</p>
+
+<p class="regtxt5">"They will find her. In the hidden place we made for her. My queen will see the sun again. Bright lights and lamps, sweating men will touch her. They shall bring her and I will see her again. If only she slept, if only I could wake her to the light and the warmth again. But no, she is cold and brittle and so parched. But I shall see her again.</p>
+
+<p class="regtxt5">/* on London - can be inserted where-ever it fits */</p>
+
+<p class="regtxt5">London, what can I say that will convey my feelings of this place? I loved it and I hated it. There was a throbbing pulse of activity and intensity that was fascinating, yet there was smoke and noise, stench and darkness. The people were dirty, prudish, and repressed. The station of women was an abomination. From the first day I stepped from the ship I longed to return to the brilliant sun and clear skies of Mennufer. The samples I had taken on the voyage had given me the basics of the society, yet I could scarcely bring myself to adopt them. To be a proper woman I was to dress myself in constrictive clothing, walk about as if ashamed of myself, and defer to any man I encountered, regardless of station.</p>
+
+<p class="regtxt5">Still, the visions promised a Door or a way to find the place of my mother. I could not refuse to follow it. So it was with reluctance and despirited acceptance that I began my stay in the belching, wheezing, and clanking metropolis of London.</p>
+
+<p class="regtxt5">I long for the brilliant sun. For the golden light on the monuments. the sound of instruments and children on the wind, the smells of cooking fires drifting through the evening on a cleaner wind. This damp, this dank, dirty and dark grey light is blinding and depressing. Where are the blue skies and greens of life? Here it is all greyness and dark. What life there is seems stunted and twisted from living in the darkness and breathing vapours of death.</p>
+
+<p class="regtxt5">/* time of Ramses?, Time of the "Exodus"? */</p>
+
+<p class="regtxt5">/* the time of the Hut</p>
+
+<p class="regtxt5">/* London - before meeting with Shandi - this is rough cut</p>
+
+<p class="regtxt5">I spent three years in Heliopolis, now called Cairo, dodging the French and English as they battled for the city. The slums were the safest places. These invaders strutted and preened and killed my people with abandon. It seemed of no matter to them that they were the invaders. Then again we didn't think any differently when we took Nubia or put down an invasion.</p>
+
+<p class="regtxt5">I sampled many as I learned of the new times. Little of it made sense. In the end I used the personality overlay capabilities of the necklace to mimic those around me.</p>
+
+<p class="regtxt5">After three years I was ready to understand more. I decided to journey to the city of London. I can't really explain why London rather than Paris or Berlin, but something about London drew me like a magnet. In the early summer I boarded a ship and began my journey.</p>
+
+<p class="regtxt5">I had been on the royal barges and various boats on the Nile but nothing prepared me for the smoking behemoth that greeted me at the docks. We were herded in and expertly shuffled into our rooms. I had taken mid-cost passage. Expensive enough to be comfortable but not so much as to draw unwanted attention.</p>
+
+<p class="regtxt5">The Mediterranean was wonderful. The sun was warm and the ship slid gracefully through the small waves around it. We stopped at several ports however I remained on the ship. I was confused enough just trying to sort out all the data I was getting from sampling other passengers.</p>
+
+<p class="regtxt5">When we reached the Atlantic the weather changed from the warm sunlight I had known all my life into a wild raging thing. Water fell in sheets from the sky. Cold winds buffeted the ship. As we moved toward the north the temperature dropped and a damp chill always seemed to invade my being. I mostly stayed in my cabin, only venturing out to take a random sample once in a while. I kept the coal fire in my stove running as hot as I could to try and stay warm. It didn't help very much.</p>
+
+<p class="regtxt5">I was seriously regretting my decision when the ship arrived at the East London docks. Dark grey clouds blanket ted the city. Smoke belched from tall chimneys and everywhere there was the smell of damp, rot, and too many bodies. Worst of all was the noise. Everything clanked, rattled, squeaked, or groaned. Whistles shattered the night and smoking metal monsters rattled around on metal tracks. What greenery there was appeared industry grey-green from the grime that coated it. I was glad I didn't need to breath because I was certain the air would have killed me it was so thick with noxious vapours.</p>
+
+<p class="regtxt5">People scurried to and fro like ants from a disturbed hive. Yet through the grey I saw shy smiles and heard happy voices. Somehow these people loved this wretched place and their lives in it. Slowly I walked down the gangway and onto the dock. People hurried past, jostling to queue up in a line for the ritual of entry. My two small bags received only a quick glance and then I was through. I joined the throng streaming off the docks and into the streets.</p>
+
+<p class="regtxt5">Once there I was no longer certain where to go. Researches had shown the rich would notice an imposter in their ranks. The new middle class might as well. That left the poor sections once more. I ended up in Whitechapel. Just as in Cairo I found the poor were more friendly as a general rule. They still knew they needed others to help them get by. Amarna, another woman from my lands, let me share a small apartment in the basement of a rooming house. She had a breathing disease of some kind. She shook with rattling coughs and for long minutes at a time could scarcely catch her breath, yet she was happy most of the time.</p>
+
+<p class="regtxt5">Our place was two rooms in the basement of a tumble down row house on Flower and Dean Street. It stank and leaked, but it kept us off the streets and out of the minds of the law. It was also in a section of London where nasty people came and went. It was easy for me to start feeding on the bullies and monsters of the region. They were rarely missed and the local law enforcers didn't bother to investigate.</p>
+
+<p class="regtxt5">Amarna gave me a name to use in the city. She called me Kamilah saying Mereret was too difficult and would make me too remarkable. The trick of the poor, she always said, was to remain invisible to the rich. She taught me her trade as well. She was a washerwoman for a lower middle class family. One that couldn't afford to have live in servants. She explained I was a cousin of hers that had just arrived and she wanted me to learn a trade. The family was understanding, even allowing me to fill in for Amarna on days when she couldn't work.</p>
+
+<p class="regtxt5">It was still hard for me to comprehend the vast wealth of this new place. Anyone not dirt poor had as much or more than most of the nobility of my time. The middle classes and above had more wealth than any of the pharaohs I had known. The only difference was they didn't have the absolute power of a pharaoh.</p>
+
+<p class="regtxt5">/* scene with Amarna - summer of 1884 */</p>
+
+<p class="regtxt5">/* remember her visions - they could intensify when she meets up with Charlotte in a kind of feedback loop that intensifies the visions for both of them */</p>
+
+<p class="regtxt5">We were sitting in our rooms after a long day with Amarna's employers. She was leaned back in her chair, tired and worn. Her eyes opened and she asked, "Who are you?"</p>
+
+<p class="regtxt5">"I'm Kamilah, don't you remember?"</p>
+
+<p class="regtxt5">"I know your name, girl. I mean who are you. You've lived with me for over a year. In that time I have told you about my family, my life before coming here, and everything else. All I know about you is you can't stand body hair, you are tattooed, which no decent Muslim or Christian woman would be, and you came from Cairo."</p>
+
+<p class="regtxt5">"I've told you, there isn't much to tell. My family struggled in the slums of Cairo until sickness took them. I worked hard, scrounged and begged until I could come here."</p>
+
+<p class="regtxt5">"I thought you trusted me. You weren't poor. You don't have the look. I've seen the way you look when you have to deal with the well to do here."</p>
+
+<p class="regtxt5">"I wish you'd leave this alone," I relied with a heavy sigh. When she drew breath to speak I continued, "All right, I came from a wealthy family who lost everything and died poor."</p>
+
+<p class="regtxt5">"Mereret, why won't you tell me the truth?" Her words ripped through me bringing Hatshepsut swirling forward. She had asked the very same thing so incredibly long ago. The words echoed and re-echoed in her voice. Tears slipped down my cheeks while I sat locked in the memories of her. Brilliant moonlight had shimmered in her hair as we stood in the palace courtyard. She had turned to me and asked in her softest, sweetest voice, 'Why won't you tell me the truth?' and in a moment of weakness I had. "Mereret, Mereret, are you ok?" Slowly Amarna's voice broke through the memories. Her arms were around me as she leaned over the stool. "I've never seen you cry before. Please, tell me."</p>
+
+<p class="regtxt5">"You won't believe it."</p>
+
+<p class="regtxt5">"Maybe not, but I think you need to tell it anyway."</p>
+
+<p class="regtxt5">See <a href="childhood.htm">Childhood</a> for what she tells Amarna</p>
+
+<p class="regtxt5">"Maybe not, but I think you need to tell it anyway."</p>
+
+<p class="regtxt5">Amarna dies in mid fall. shortly afterwards Mereret stumbles across <a href="../../../gm_resources/npcs/angelique.htm">Angelique</a> as she lies dying behind the Gaiety Theatre - she takes her personality and immediately is assailed by large numbers of visions based on the Marsters family and the Wellinghams</p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5">/* Whitechapel - there were vampyr living there from the 1870s, leaving an ever increasing body count. The victims were drawn from the entire cross-section of the area. Then, in the summer of 1883 the murders dropped significantly and the victims became pimps, thugs, and suspected murderers, particularly those that were targetting women. The real story is Ange destroyed the vampyr nests and began her own clean up program */</p>
+
+<p class="regtxt5">/* Lestrade and Ange */</p>
+
+<p class="regtxt5">Between their meeting and the Hut in 1895, they should solve several other-worldly events, precipitated by Crowlen's crew and similar minded individuals seeking to release the old ones, summon something, and create chaos through use of magic. They could call on Holmes, however, Holmes has a blind spot to the things they are seeing. Could use this to morph Lestrade into someone who has absorbed some of Holmes skills and applied them to an area Homes and Watson would avoid, be unaware of.</p>
+
+<p class="regtxt5">/* Ripper Killings */</p>
+
+<p class="regtxt5">Ange bites the ripper to try and assimilate data and ID him, she is rendered quite ill by the drugs in his system and he almost kills her, have her almost as cut up as Mary Kelly would have been. During the struggle she will get enough of a sample to track down the Jekyl/Hyde aspect of the killer and remove him. Determine if Lestrade is called in on the case. Abberline could reach out for help. Would Ange recover before being taken to the morgue or after? How would she get away from the morgue and what happens when the last victim's body vanishes? Also, witnesses will see Mary Kelly alive after the fact.</p>
+
+<p class="regtxt5">/* mutilation is similar to canonical report, however, fewer parts are removed. Instead, the killer went crazy, hacking and slashing, leaving gaping wounds, torn flesh, displaced organs, but was too worked up to take or remove any from the body. The face is hacked beyonf recognition. Mary is spotted during the time Ange is in the morgue rebuilding. Lestrade knows what Ange did and might be caught talking to the corpse after hours. */</p>
+
+<p class="regtxt5">/* London - before meeting with Shandi - older, raw version</p>
+
+<p class="regtxt5">i settled in the east end, down in Whitechapel. the crowding and the lack of wealth made it an ideal place. the authorities didn't care about the denizens of that place. in turn i could feast on the nasties that preyed on the rest.</p>
+
+<p class="regtxt5">i spent my days getting to know those around me and taking care of problem people. my life was fairly quiet until the terror of the Ripper killings in the last parts of 1888. like so many i was enraged at the lack of effect by those paid to protect. never had i seen such blatant disregard. after the second killing i joined the search. like so many others i found the trail too cold.</p>
+
+<p class="regtxt5">it took three more killings until i could discover the abomination responsible. it died in shrieking agony in a lonely cellar not far from the torn remains of its last victim. the putrescence of its blood kept me from drinking my fill. some noxious poison coursed its veins. a thorough search of the body gave me an address not far from the London Hospital.</p>
+
+<p class="regtxt5">i stalked the night, avoiding the places where my friends would be. the house was large, dark, and drawn in tight. it had its own carriage barn and back building around a rough courtyard. sometime in its past there had been flowers, now there were only tangled weeds. if the thing were the only occupant i should be able to enter, otherwise my curiosity would remain unfulfilled.</p>
+
+<p class="regtxt5">i slid under the back door in the form of a thick mist. slowly i resumed form inside. the place smelled of old grease, dirty dishes, and unwashed clothes. enough light filtered in from the night to show me a grand house fallen upon ruin. dirty plates were stacked on the side board of the back parlor, books, papers, and various odd items were stacked and placed on every flat surface.</p>
+
+<p class="regtxt5">the front parlor and hall were similar. upstairs was a single man's disaster. yet the clothes showed a certain wealth. i found a notebook and case linking him to London hospital where he worked as a surgeon. i took what moneys i found. you can never have too much of that.</p>
+
+<p class="regtxt5">the kitchen and pantry were in the cellars, a condition i was still not used to. the smell was much worse down there. the pantry held rotting food and a dizzying array of chemical bottles and vials. half the dishes were soiled glass equipment of arcane style.</p>
+
+<p class="regtxt5">seeking more clues i slid into the back building. downstairs was a small teaching amphitheatre and store rooms. upstairs was a lab. bottles, tubes, and potions covered every surface. a small, locked study contained massive notes. i had not the knowledge to understand a tenth of the words. still, the empty syringe and half filled beaker near the notes were clue enough. as was the nearly fresh blood on the needle. the beast was a spawn of this chemistry.</p>
+
+<p class="regtxt5">i struggled through the notes. after several hours it slowly came to me that the chemist and the thing were the same being. maybe the streets would be safer for a while again.</p>
+
+<p class="regtxt5">The place was far better than the rooms i had in the cellar of an old rooming house. that night i moved my meager belongings to the house and set about sorting through the papers. I had learned enough about the workings of this crazy new world to know of mortgages, taxes, land holdings, and all the other trappings. i would have taxes to meet and would have to masquerade as a man once in a while to deal with other legal trappings. Still, it would be better than the uncertainties of a rooming house.</p>
+
+<p class="regtxt5">/* London - in the Hut</p>
+
+<p class="regtxt5">London has been the easiest time i have ever lived in. the isolation and crowding make it easy to select food. the lack of concern by the authorities for any not of the ruling classes keeps their complaints from causing any trouble. still, it is a crazy time for people. my friends struggle all the time.</p>
+
+<p class="regtxt5">"you have friends?" Valen asked.</p>
+
+<p class="regtxt5">"of course i have friends. there are those that live near me that i pass daily. i can't just hide in my cellar rooms and feed off them at night. life is too wonderful for that. i find myself out among them, talking to them, working beside them to keep boredom at bay, and drinking with them after hours. people share amazing stories when they think you're as drunk as they are.</p>
+
+<p class="regtxt5">just the other night i fed on a policeman that was terrorizing my neighbors. the river is so fouled that they will never find the body. petty criminals are another of my favorite foods. the fear of a bully has a tangy sweetness unrivaled by any other.</p>
+
+<p class="regtxt5">"you're crazy, you do know that, right?" Valen? or Krys?</p>
+
+<p class="regtxt5">of course I'm crazy. you have to be crazy to survive 4500 years of watching your friends and lovers die. i could turn them, but the hunger would be so much stronger in them without this necklace. i have killed those that are my descendants because they couldn't control the hunger. it is my only constant regret, well that and not killing Cleopatra, taking her place, and destroying the hated Roman Empire. but in that history has vindicated me slightly. the Romans are no more either.</p>
+
+<p class="regtxt5">Hatshepsut is still there, preserved in the memory of a mimic crystal - every once in a while i pull out her likeness and stare at her face. i loved her the most of any except my scary demon woman</p>
+
+<p class="regtxt5">/* London - Lucy and Mina</p>
+
+<p class="regtxt5">They were right where I expected them to be. Fire and shadow, a vibrant red-head named Lucy and a dark, quiet one named Mina. They were at a table mid way back in the bustling fish shop, about two blocks from the International Transportation Technologies buildings.</p>
+
+<p class="regtxt5">I tried to listen in briefly as I walked by them to a shadowed booth. They were talking gibberish as far as I could tell. Settling into the darkest corner I watched as they ate and talked.</p>
+
+<p class="regtxt5">As so often happened after my latest waking my mind rapidly drifted somewhere else. There were stars, and a city built inside a ring. There was a door, a door that opened between worlds. Lucy's father, Lord Wellingham stood framed in that door. Terror chased him. There were others, three others. A shared name over drinks. A shared secret of something that followed them through the door. They called it Engineer and hid it away.</p>
+
+<p class="regtxt5">So far away was I that it took me many moments to realize the serving girl was tapping impatiently on my table. "Oh, yes. I would like the fish special." I vaguely remembered that from the sign at the entrance.</p>
+
+<p class="regtxt5">"Very good, m'm. Anything else?"</p>
+
+<p class="regtxt5">"Warm bl...uh, tea please."</p>
+
+<p class="regtxt5">"You're order will be here shortly." She stared for an uncomfortable moment before hurrying away. Another image flashed. The serving girl slipping and falling on the way to the kitchen. "Wait, there is something else. Red wine please. I'd like a glass of red wine." The images spun and now she reached the kitchen safely.</p>
+
+<p class="regtxt5">For long minutes I dropped my head into my hands. They were so intense and always true. The visions had led me to the late <a href="../../../gm_resources/npcs/angelique.htm">Angelique</a>. I was there to sample her as she lay dying under the coach wheels. Others had I sampled the same way.</p>
+
+<p class="regtxt5"><a href="../../../gm_resources/npcs/angelique.htm">Angelique</a> who had worked at ITT as a receptionist. She had shown me who Mina and Lucy were. When the time was better I hoped to use her face to let me approach them.</p>
+
+<p class="regtxt5">The girl returned with my order. "Red wine with fish..." she muttered as she placed the dishes.</p>
+
+<p class="regtxt5">"Yes, red wine, red blood. Red blood keeps red wine keeps red blood in and brains together. Not dashed messy to the floor." She turned pale and started to back away. Rapidly I pressed a pound note into her hand. "For the ramblings..." It was getting worse. The words tumbled about like the images in my head. Always true, just not always in any order.</p>
+
+<p class="regtxt5">I forced my attention back on the women at the other table. Gradually I realized my preconceptions weren't quite right. Mina was more reserved than Lucy, but just as passionate about whatever they were discussing. By the end of the meal they both had note books out and were frantically scribbling as they talked. All in all most curious people.</p>
+
+<p class="regtxt5">In the papers Lucy Wellingham was mentioned in relation to her betrothal to Arthur Holmwood, a local rich playboy. Somehow I feared Lucy would be wasted on him. The information I had revealed they were highly placed in the ITT hierarchy. I was struggling to adjust to the data from my latest samplings. There was so much on the world, it's rapidly expanding technologies and social and political events. It was far different from the world I remembered.</p>
+
+<p class="regtxt5">The shop door opened to admit more patrons. Power crashed over me in waves. It spun the world and slammed into my mind. My shaking hand just got the wine glass back to the table before everything dissolved into colors and swirls. Stars, worlds, a metal container floating in black, a peasant hovel of rough logs and straw, an enormous throne room and bone throne, ripped blackness, spilled light, a hard woman, a fighting demon, and a swordswoman fought...something. Pulsing red gem, screams in the dark, screams in the light...</p>
+
+<p class="regtxt5">Slowly the spinning stopped. A group of three women moved across the floor to an empty table. They wore the clothes of noble women, but not with the comfort of people used to the style. The woman in the lead moved with a self assurance I had not seen since Hatshepsut. Her face was older, worn and hard, and her eyes watched everything.</p>
+
+<p class="regtxt5">The second woman moved like a swordswoman. Her movements were controlled and precise. Her eyes cooly assessed everyone around her. Her sword hand hovered where her sword should have been. Every so often a small look of unease would wash across her features as her hand passed through where the hilt should have been.</p>
+
+<p class="regtxt5">The third woman was... I bit my tongue to stop the scream, the third woman was emptiness, scarcely banked rage, and pain. Her feelings tore at me like a high wind. I could almost hear the shrieks in her soul. Her face was bland and wore a curious little half smile while deep in her empty eyes fires raged. She had the same look as the damaged son of my landlady yet her motions were those of a stalking cat or a trained dancer.</p>
+
+<p class="regtxt5">The images hit again. Spiders, metal walls, violet eyes, terror beyond imagining, rigid calm, a woman's face, gaunt with starvation, a shimmering door, water, alleys, confusion, something clawing in my brain. I tasted blood as I bit deep into my tongue. The scream came out as a strangled whimper, barely noticeable beyond my table. Still, the sound was enough for the leader and the damaged one to turn. They stared full at me for long moments before returning to their path. No words were spoken but it was clear they had marked me and would remember this face.</p>
+
+<p class="regtxt5">They moved toward a table where a group of men were starting to rise. One of the men started to talk to the lead woman, looked at her, dropped his head and slunk away. His fellows tripped over themselves to get out of the way. One of the serving girls detoured from her path to immediately see to their needs. The lead woman seemed to be gracious but distant. Their food arrived before several groups who had arrived before them.</p>
+
+<p class="regtxt5">Just when I thought things couldn't get any more interesting the door opened once more. A distinguished foreign gentlemen entered. He started toward Lucy and Mina, spotted the strange women and hesitated. "<a href="../../../gm_resources/char_type_info/vampyr.htm">vampyr</a>," the word whispered through my head as the necklace warmed, ready to accept input from a spy being.</p>
+
+<p class="regtxt5">The man turned and approached the table of women. He bowed respectfully and spoke to the leader, "Hu... Pardon me. I have mistaken you for someone else. Please forgive me." He turned to go.</p>
+
+<p class="regtxt5">"Stay for a moment, good sir." He turned back. "I am curious whom you thought I was."</p>
+
+<p class="regtxt5">"An...acquaintance...of mine. From a country near my own. You resemble Princess Maria Karol of Roumanya. It is a close neighbor to my own land. Now please pardon me. I have an engagement to meet with others. I do not wish to insult them by being late." He bowed again, however he didn't actually move until the woman nodded her head slightly.</p>
+
+<p class="regtxt5">He walked back to the table with Lucy and Mina, bowed, asked if he could join them, and sat. By the conversation it was quickly obvious he was a friend of Mina and an acquaintance of Lucy. I rose slowly and made my way toward the exit. As I passed the table I slowed a bit to see if I could detect <a href="../../../gm_resources/char_type_info/vampyr.htm">vampyr</a> blood in either of the women. Neither were infected and neither wore neck coverings. Slightly puzzled I continued out into the afternoon.</p>
+
+<p class="regtxt5">---------------------------------------</p>
+
+<p class="regtxt5">/* confonting a group of vampyr, too many to easily fight */</p>
+
+<p class="regtxt5">The words rolled from her lips, harsh, dark, and raw, sounding more like the air was shredded and bleeding rather transmitting speach, "Klaraazhkn eztiksh ahmziknaknah." The vampyr dropped to their knees, heads bowed, and hands clasped in front of them. They remained motionless as Angelique stared at them.</p>
+
+<p class="regtxt5">"What did you just do?" Lucy asked.</p>
+
+<p class="regtxt5">"This, Angeligue said, pointing to the intricate tatoo on her chest and neck, "Is the control for what makes vampyr what they are. I have placed them in a state where I can sample what they have seen." She approached the nearest one, placed her hand on his forhead, and concentrated. She repeated this with everyone in the room. "Ahzkna thilikah ahmzikna" she spoke again and they fell forward, turning to powder as they landed. "And they are ended."</p>
+
+<p class="regtxt5">/* for alt. London */</p>
+
+<p class="regtxt5">Find a way for Shandi to spark the naming of the street in the east end and shandy as a drink of beer and ginger beer or lemonaide</p>
+
+<p class="regtxt5">/* consider Mereret as inspiration for goddess Seshat, patroness of scribes */</p>
+
+<p class="regtxt5">Mereret could find out she is called this during the time of Hatshepsut. She will be amused and disturbed by the knowledge. Imhotep had her help with the layout of the pyramid and insisted she choose a symbol for herself, as his chief assistant. Seshat lit. means female scribe. Consider: is there a reason for the leopard skin dress on the goddess that comes from Mereret, or did it just evolve as part of the mythos?</p>
+
+<p class="regtxt5">See these links for data on Seshat and time-frame of Mereret's origins:</p>
+
+<p class="regtxt5">
+<a href="http://en.wikipedia.org/wiki/Seshat">Seshat</a> - Wikipedia<br/>
+<a href="http://www.thekeep.org/~kunoichi/kunoichi/themestream/seshat.html">Seshat</a> - by Caroline Seawright of Your Egypt<br/>
+<a href="http://www.shmoop.com/seshat/">Seshat</a> - Schmoop<br/>
+<a href="http://en.wikipedia.org/wiki/Third_Dynasty_of_Egypt">Third Dynasty</a> - time of Mereret, Imhotep, and Djoser - wikipedia<br/>
+<a href="http://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt">Fourth Dynasty</a> - dynasty immediately after Mereret's time - wikipedia<br/>
+<a href="http://en.wikipedia.org/wiki/Imhotep">Imhotep</a> - wikipedia
+</p>
+
+<p class="regtxt5"></p>
+
+<p class="sectioncaption">Fragments</p>
+
+<p class="regtxt5">These can be reused, discarde, or updated</p>
+
+<p class="regtxt5">/* Henry Babbage at the theatre with Polly Tanner */</p>
+
+<p class="regtxt5">"Come with me, please. We can talk more discretely in the ITC lounge." He pulled the rope and waited until an usher arrived. "Please take our drinks to the ITC lounge and bring food." He took my arm to lead me out of the box and images spun out of control again. He led me slowly, leaning against him, head lolled on his shoulder, through blurred hallways to a private room. My vision cleared slowly when he settled me into a luxurious leather chair. More leather chairs were placed around several small teak tables. A gas fire burned cheerfully in a large grate, decanters of various beverages waited on a sideboard, and thick drapes were pulled back from large windows, revealing the busy street outside. After seating me in one of the chairs he settled in the one across. "There is more to these fits than you let on, isn't there?"</p>
+
+<p class="regtxt5">"Yes, but it's all craziness and craziness is dangerous here."</p>
+
+<p class="regtxt5">"Craziness also results in great things. Lord Wellingham of ITC is a good example of crazy working out well. I will listen if you wish to talk."</p>
+
+<p class="regtxt5">"I..." I stopped while an usher placed a large tray of cheeze, meats, bread, and soup on the table near us, then resumed, "My fits tell me things about what might happen." If I hadn't been disoriented, confused, and numb from the intensity of the visions, I wouldn't have said anything. As it was, once I started, I found I couldn't stop. The visions poured out, more detailed than I had realized.</p>
+
+<p class="regtxt5">When I finished, he sat silently for a moment and then asked, "So the girl who bumped you is at the heart of these? Have you encountered her before?"</p>
+
+<p class="regtxt5">I tried to explain, and with each attempt the images shifted a bit more until a larger picture formed. She was a nexus point around which world events revolved. The only path that led to good outcomes was to take her place and become her. All other paths led to devastating wars, massive death, and political upheavals. I told him some of what I was realizing, but left the vampyr and necklace related things out of it.</p>
+
+<p class="regtxt5">He stared at me for many long moments. When I nervously took a sip of Amontillado, he said softly, "There are more things in heaven and earth..." Then trailed off into silence.</p>
+
+<p class="regtxt5">"I should go. The play will be over soon and I need to find the girl."</p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5">"I must have meant save her."</p>
+
+<p class="regtxt5">"No, you said save her and become her right after each other. What are you</p>
+
+<p class="regtxt5">The images kept bouncing around in my head, confusing and distracting my thoughts. "I need you to believe and trust me so I am going to show you something that is impossible." I dipped into the red pool before I could think about what I was doing and shifted to my true form. The worn but fancy dress that fit Polly perfectly hung loose from my smaller and thinner self. Brown har had turned black, skin to darker tan, and my features from generic Englishwoman to Egyptian. I opened my eyes to his started gasp and found him leaned back in his chair, fear and curiosity warring on his features.</p>
+
+<p class="regtxt5">"What...what are you? How did you do that?" His voice grew stronger and more curious as he asked his questions. I handed him a large glass of gin and waited while he downed it in a gulp.</p>
+
+<p class="regtxt5">"I am..I was... That is to say, I don't know exactly what I am. I have an artifact, for lack of a better term, that allows me to change how I look. This is what I looked like when I found the item in the land you call Egypt."</p>
+
+<p class="regtxt5">"Can you, change back?" I nodded and slipped back into Polly Tanner. "And part of this gives you these prophetic visions you speak of?"</p>
+
+<p class="regtxt5">/* Mere and Shan */</p>
+
+<p class="regtxt5">/* better yet - have wellingham only mention the shop fight the second day - the second day the same two women fight in a shop near the first incident and this time walk out arm in arm. */</p>
+
+<p class="regtxt5">/* in both cases if anyone really looks at Shandi they will notice she is more awake, aware, and happy - this will modify Valen's responses when she finally realizes Shan and Angelique are hanging out together  - also remember, "it's not our damn planet monkey-people" */</p>
+
+<p class="regtxt5">/* after biting each other they will both tend to unconciously rub their bites every once in a while. usually with a kind of dreamy expression - the "just incredibly well fucked" look, their kissing and hugging will have a hungry, predator-predator, alien kind of feel/look */</p>
+
+<p class="regtxt5">/* shandi may talk to valen about angelique before she includes the party. valen does not completely trust the party because they aren't very seasoned */</p>
+
+<p class="regtxt5">/* after angelique and shandi kiss - third fight - she will approach valen through shandi about an alliance - this will be regardless of what the party desires - valen will accept and use shandi as the courier. angelique will also provide an address for Jekyll - valen may go with shan to see him if she can't figure a way to manipulate the party into going */</p>
+
+<p class="regtxt5">/* later the first day Lucy is in the Hut the watcher that the party first dealt with will come to the manor. he will have info to share, including an appology/explanation that vanhelzing is being petty mostly because he is used to being the one in the know - i don't understand what he was ranting about, but it was good to see him knocked down a bit. need to remember what he was going to tell them and stick it in these notes...?? might have been a bit of history on angelique, might have been some history on the egyptian stuff - maybe that Imhotep was a Watcher in his day  - also, history on Dru - about 80 years old, turned by Angelus - a particularly nasty vamp - did the unthinkable in vampyr society, killed her sire - also - factions within watchers council - one wants to control the slayer, the other views as partnership */</p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5"></p>
+<p class="regtxt5"><a href="../docs_index.htm">Writings Index</a></p>
+<!--<a href=""></a>-->
+
+</body>
+
+</html>

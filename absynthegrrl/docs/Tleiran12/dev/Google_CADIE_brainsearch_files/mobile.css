@@ -1,0 +1,1009 @@
+/**
+ * @fileoverview This is the standard CSS file for Google Mobile across
+ *    all domains.
+ */
+
+@import url("http://www.google.com/css/gcs.css");
+@import url("http://www.google.com/css/layout.css");
+@import url("http://www.google.com/css/modules/buttons/g-button-chocobo.css");
+@import url('mobile.stp.css');
+
+/**
+ * Page title
+ */
+
+div.mgc-p {
+  padding-right:2em;
+}
+p.bulletpoints {
+}
+div.mgc-wrapper .title {
+  width:60%;
+}
+div.mgc-wrapper .box {
+  width:40%;
+}
+div.mgc-title.product .g-unit.g-first {
+  width:87%;
+}
+div.mgc-title.product .g-unit.icon {
+  width:12%;
+}
+div.mgc-title {
+  margin-bottom:1.5em;
+}
+div.mgc-title span {
+  font-size:.85em;
+}
+div.mgc-title h3 {
+  font-size:140%;
+  font-weight:normal;
+  padding:0;
+}
+h3.intro {
+  font-size:140%;
+  font-weight:bold;
+  padding:0 0 .5em 0;
+}
+div.mgc-title h3 strong {
+  white-space:nowrap;
+}
+div.mgc-title .g-unit {
+  margin:0 0 0 70px;
+}
+div.mgc-title .g-unit.g-first {
+  margin:0;
+  width:70px;
+}
+div.stp-wrapper {
+  margin-bottom:2em;
+}
+
+.stp p.textonly {
+  font-size:1.4em;
+  text-align:center;
+  padding:0;
+}
+.stp .textonly img {
+  float:left;
+  margin-right:.5em;
+}
+
+div.title-icon {
+  width:50px;
+  height:50px;
+  float:left;
+  overflow:visible;
+}
+div.title-icon img {
+  position:relative;
+  top:-5px;
+  margin:0 0 2em 0;
+}
+div.title-title {
+  margin:0 0 0 65px;
+  height:60px
+}
+div.title-title sup {
+  font-weight:normal;
+  font-size:.5em;
+}
+div.title-title h3 {
+  font-weight:bold;
+  font-size:18px;
+  padding:0 0 .15em 0;
+}
+div.platform-title h3 {
+  font-weight:bold;
+  font-size:18px;
+  padding:0 0 .15em 0;
+}
+div.platform-title span {
+  font-size:.85em;
+}
+div.platform-title {
+  margin-bottom:1.5em;
+}
+div.title-title span {
+  font-size:.85em;
+}
+div.title-title h3 strong {
+  white-space:nowrap;
+}
+
+/**
+ * Blog listing on platform and product pages
+ */
+
+a.blog-feed-link
+{
+  float: right;
+  display: inline;
+}
+
+a.blog-feed-link img
+{
+  margin-right: 8px;
+  text-decoration: none;
+}
+
+/**
+ * Original Mobile CSS files
+ */
+
+/* Mobile CSS */
+h2 { font-size: 1.2em; }
+.header { padding-bottom: 20px; }
+
+/* BEGIN search box */
+.search input { font-size: 83%; }
+
+input.query
+{
+  color: #666;
+  padding-left: 5px;
+}
+
+input.go
+{
+  color: #333;
+  padding: 0 5px;
+}
+
+/** END search box */
+
+/**
+ * BEG: Top navigation
+ */
+
+.top-nav-title
+{
+  color: #333;
+  padding-right: 10px;
+}
+
+#top-nav li a.selected {
+  text-decoration:none;
+  color:#333;
+}
+
+.top-nav-sub { width: 5em; }
+
+#top-nav-container ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+#top-nav-container li{
+  float: left;
+  position: relative;
+  padding-right: 15px;
+}
+
+#top-nav-container li ul
+{
+  display: none;
+  position: absolute;
+  top: 1.7em;
+  left: 0;
+  background: #fff;
+  border: 2px solid #ccc;
+}
+
+#top-nav-container li ul li
+{
+  background: #fff;
+  padding: 0 30px 5px 2px;
+  width: 7em;
+}
+
+#top-nav-container li ul li:hover { background: #eee; }
+
+#top-nav-container li > ul
+{
+  top: auto;
+  left: auto;
+}
+
+#top-nav-container li:hover ul { display: block; }
+#top-nav-container li.over ul { display: block; }
+
+.padder {
+  padding:1em;
+}
+
+.more_link
+{
+  background: url('/mobile/images/drop_arrow.gif') no-repeat right;
+  padding-right:20px;
+}
+
+/**
+ * END: Top navigation
+ */
+
+div.phone_item
+{
+  padding: 0;
+  margin: 0;
+}
+
+div.phone_item
+{
+  width: 85px;
+  height: 115px;
+  display: block;
+  margin: 0 20px 0 0;
+  padding: 0;
+  float: left;
+  text-align: center;
+}
+
+div.phone_item img
+{
+  border: 1px solid #eee;
+  padding: 5px;
+  background: #fff;
+  display: block;
+}
+
+div.phone_item img:hover
+{
+  border: 1px solid #00c;
+  cursor: pointer;
+  display: block;
+}
+
+div.phone_item div
+{
+  font-size: 83%;
+  padding-top: 5px;
+}
+
+.hover-container {
+  margin-top:2em;
+}
+.hover-container .g-first {
+  width:45%;
+}
+
+.hover-section {
+  padding: 20px 0 0 5px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+  background: #c9e1fc;
+  z-index: -1;
+}
+
+.hover-section ol {
+  list-style-type:none;
+}
+
+.hover-section ol.default {
+  margin:0 1em 0 130px;
+}
+
+.hover-section li {
+  padding-left:40px;
+  margin-bottom:10px;
+  height:30px;
+}
+
+.ctaTitle {
+  margin:1.5em 0 0 1.5em;
+  padding:0;
+}
+.hover-homepage .hover-section {
+  height:150px;
+}
+
+.hover-section li.one { background: url('/mobile/images/1.gif') no-repeat; }
+.hover-section li.two { background: url('/mobile/images/2.gif') no-repeat; }
+.hover-section li.three { background: url('/mobile/images/3.gif') no-repeat; }
+
+.hover-section.alt {
+  z-index: -1;
+}
+.hover-section.alt li {
+  margin:0;
+  line-height:30px;
+}
+.hover-section.alt h4 {
+  text-align:center;
+}
+
+.hover-section h2 {
+  padding: 0 0 5px 0;
+  margin: 0;
+  padding-left: 20px;
+}
+.hover-section.alt h3 {
+  color:#000;
+  margin:0 0 0 10px;
+}
+.hover-section p {
+  padding-right:20px;
+  font-weight: normal;
+  color:#333;
+  font-size:85%;
+}
+
+.hover-section.alt .phone-hover {
+  float:right;
+  position:relative;
+  top:-45px;
+  right:-15px;
+}
+
+.phone-hover {
+  float:left;
+  position:relative;
+  top:-45px;
+  left:-15px;
+}
+
+/**
+ * END: Phone selector
+ */
+
+/**
+ * BEG: Device info
+ */
+
+.device-info
+{
+  margin: 0;
+  padding: 0;
+}
+
+.device-info dl
+{
+  float: left;
+  display: inline;
+  /* fixes IE/Win double margin bug */
+  width: 373px;
+  padding-bottom: 20px;
+}
+
+.device-info dt
+{
+  float: right;
+  width: 303px;
+  font-size: 140%;
+  padding: 0 0;
+}
+
+.device-info dd
+{
+  margin: 0;
+  padding: 0;
+  font-size: 85%;
+  float: left;
+}
+
+.device-info dd.img img
+{
+  float: left;
+  padding-right: 5px;
+}
+
+.device-info2
+{
+  margin: 0;
+  padding: 0;
+}
+
+.device-info2 dl
+{
+  float: left;
+  display: inline;
+  /* fixes IE/Win double margin bug */
+  width: 307px;
+  padding-bottom: 20px;
+}
+
+.device-info2 dt
+{
+  float: right;
+  width: 247px;
+  font-size: 140%;
+  padding: 0 0;
+}
+
+.device-info2 dd
+{
+  margin: 0;
+  padding: 0;
+  font-size: 85%;
+  float: left;
+}
+
+.device-info2 dd.img
+{
+  display: block;
+  height: 50px;
+}
+
+.device-info2 dd.img img
+{
+  float: left;
+  padding-right: 12px;
+}
+
+.device-info2 dd.choosephone { padding-left: 2px; }
+
+/**
+ * END: Device info
+ */
+
+/**
+ * BEG: Footer
+ */
+
+.footer
+{
+  border-top: 1px solid #999;
+  padding-top: 5px;
+  font-size: 83%;
+  text-align: center;
+  margin-top: 3em;
+}
+
+/**
+ * END: Footer
+ */
+
+/* BEGIN misc styles */
+.fineprint
+{
+  font-size: 85%;
+  color: #666;
+}
+
+.hr
+{
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+  margin-top: 10px;
+}
+
+.hr-bottom
+{
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 2em;
+}
+
+.more
+{
+  padding-top: 10px;
+  font-size: 85%;
+}
+
+.onmobiledevice
+{
+  margin: 0 0 20px 5px;
+  font-size: 85%;
+}
+
+.imagead
+{
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin-bottom: 20px;
+  height: 100px;
+  background-color: #eee;
+}
+
+#tbl_light
+{
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  background: #fff;
+  font-size: 83%;
+}
+
+#tbl_light td
+{
+  margin: 0;
+  padding: 4px 10px;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  color: #333;
+}
+
+#tbl_light th
+{
+  margin: 0;
+  padding: 8px 8px 8px 8px;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  text-align: left;
+  color: #000;
+}
+
+#tbl_light .desc { color: #333333; }
+#tbl_light .nametitle { text-align: left; }
+
+#tbl_light .name
+{
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  font-weight: bold;
+}
+
+.padul { margin-left: 20px; }
+sup { color: #FF0000; }
+
+.new
+{
+  color: #FF0000;
+  font-weight: bold;
+}
+
+/** END misc styles */
+/* BEGIN diff products list */
+.hero_products { margin-bottom: 50px; }
+
+.hero_products div.product {
+  clear:both;
+  margin-bottom:30px;
+}
+
+.hero_products div.product img { float:left; }
+.hero_products div.product p { padding:5px 0 0 45px; }
+
+.other_products div.product {
+  float:left;
+  width:120px;
+  padding-bottom:10px;
+}
+
+.other_products div.product img { float:left; }
+
+.other_products div.product p {
+  padding: 2px 20px 2px 40px;
+  font-size: 85%;
+}
+
+/** END products list */
+
+/**
+ * BEG: StpBox
+ */
+
+.stp-hidden { display: none; }
+
+.stp-content {
+}
+
+.stp-content h3 {
+  padding:0 0 .25em 0;
+}
+.stp-content h3.short {
+  padding:0 0 .25em 0;
+  font-size:18px;
+  font-weight:bold;
+}
+
+.stp-number input {
+  padding:5px;
+  width:273px;
+}
+
+.clearer {
+  clear:both;
+}
+
+.stp-number {
+  clear:both;
+}
+
+.stp-content .g-button {
+}
+.stp {
+  border: 1px solid #93b4d9;
+  background-color: #cadef4;
+}
+.stp.with-icon {
+  text-align:left;
+  padding:20px;
+  font-size:14px;
+  font-weight:bold;
+}
+.stp.with-icon .icon {
+  margin:0 0 0 20px;
+  float:right;
+}
+
+.stp-content {
+  margin:1.5em 2em 0 2em;
+}
+
+.btn-flextoolbtn input { color: #666; }
+
+.or
+{
+  font-size:1.1em;
+  background-color: #cadef4;
+  padding:.5em 2em 1.5em 2em;
+  font-weight: bold;
+}
+.or img {
+  margin-bottom:1.5em;
+}
+
+.disclaimer {
+  font-size: 85%;
+  color: #666;
+}
+
+#stp-carrier {
+  margin-bottom:10px;
+}
+
+#stp-success { padding-top: 20px; }
+
+#stp-captcha-image
+{
+  padding-top: 10px;
+}
+
+.error
+{
+  display: block;
+  color: #FF0000;
+  font-weight: bold;
+}
+
+#stp-number
+{
+  color: #666;
+  margin-bottom: 5px;
+}
+
+#stpBuilder-input
+{
+}
+
+#stpBuilder-carriers select { margin-bottom: 5px; }
+#go, .go { color: #00c; }
+
+/**
+ * END: StpBox
+ */
+
+p.see-all  {
+  margin-top:1.5em;
+  clear:both;
+  display:block;
+}
+
+.g-section ul.blog {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.help ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+
+/** END help module */
+
+/**
+ * Custom page-specific styles
+ * Earth
+ */
+
+.big-and-bold { }
+
+.big-and-bold .stp-content
+{
+  font-size: 1.4em;
+  font-weight: bold;
+  padding: 1em;
+}
+
+.big-and-bold img.remote
+{
+  float: right;
+  margin-left: 1em;
+}
+
+#stpBuilder-errors { display: inline; }
+
+/**
+ * Custom page-specific styles
+ * Gmm
+ */
+
+#gmmfeatures
+{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#gmmfeatures li
+{
+  padding: 0 0 5px 30px;
+  margin-bottom: 6px;
+}
+
+#gmmfeatures li.mylocation { background: url('http://www.google.com/mobile/images/gmm/blue_dot.jpg') no-repeat 0 20%; }
+#gmmfeatures li.local { background: url('http://www.google.com/mobile/images/gmm/placemarker.jpg') no-repeat 0 20%; }
+#gmmfeatures li.driving { background: url('http://www.google.com/mobile/images/gmm/directions.jpg') no-repeat 0 20%; }
+
+/**
+ * Custom page-specific styles
+ */
+
+/**
+ * Goog-411
+ */
+
+.goog411-banner {
+  font-weight:bold;
+  padding:1.5em 0 1.15em 0;
+  text-align:center;
+  font-size:1.25em;
+}
+
+/**
+ * SMS Demo
+ */
+
+.demo-iframe
+{
+  background-image: url(../images/phone_demo.gif);
+  background-repeat: no-repeat;
+  background-position: top right;
+  height: 476px;
+  width: 290px;
+  padding-right: 23px;
+  padding-top: 56px;
+  margin-top: 8px;
+}
+
+/* Adjustments/hacks to to 50/50 width */
+.phone-select-div .g-unit
+{
+  width: 55% !important;
+  _width: 50% !important;
+  /* adjustment fix for IE6 */
+}
+
+.phone-select-div .g-first
+{
+  width: 43% !important;
+  _width: 44% !important;
+  /* adjustment fix for IE6 */
+}
+
+/** END hacks */
+.feat h4
+{
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.feat p
+{
+  padding-top: 0;
+  margin-top: 0;
+}
+
+/**
+ * The Big Blue Button.
+ */
+
+div.btn-flextoolbtn
+{
+  line-height: 1.2;
+  width: 20em;
+  text-align: center;
+  margin: 0 auto;
+}
+
+div.btn-flextoolbtn div
+{
+  background: url("/mobile/images/btn-flextoolbtn1.gif") no-repeat 0% 0%;
+  font-size: 1.3em;
+  margin: 0;
+  padding: 0;
+}
+
+div.btn-flextoolbtn div span a
+{
+  display: block;
+  color: #FFF!important;
+  background: url("/mobile/images/btn-flextoolbtn2.gif") no-repeat right bottom;
+  padding: 8px 18px 10px 13px;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+}
+
+div.btn-flextoolbtn div p
+{
+  background: url("/mobile/images/btn-flextoolbtn1.gif") no-repeat right -400px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+div.btn-flextoolbtn div p span
+{
+  display: block;
+  background: url("/mobile/images/btn-flextoolbtn1.gif") no-repeat left bottom;
+  margin: 0;
+  padding: 0;
+}
+
+p.btn-description
+{
+  text-align: center;
+  margin: 10px 0px 0px 0px;
+}
+
+div.btn-flextoolbtn p
+{
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.stp.sms {
+  padding-top:1em;
+}
+
+/**
+ * Tbl_light style, used for SMS search page
+ */
+
+#tbl_light {
+  margin-bottom:2em;
+}
+
+/**
+ * Terms of Service (TOS)
+ */
+
+.tos-frame {
+  width:100%;
+  height:300px;
+  border:1px solid #999;
+}
+.tos-selector {
+  float:right;
+}
+
+.vid {
+  margin-bottom:1.5em;
+}
+
+/**
+ * Stp
+ */
+
+#stpbox {
+  height:130px;
+}
+.bulletpoints-android {
+  padding-top:30px;
+}
+.bulletpoints ul {
+  padding-left:20px;
+}
+li {
+  line-height:1em;
+}
+#top-nav li {
+  line-height:1.5em;
+}
+#help-center li {
+  line-height:1.25em;
+}
+
+/**
+ * Product-specific pages
+ */
+
+.caption {
+  font-size:1.25em;
+  margin-right:3em;
+  color:#555;
+}
+
+/**
+ * g-button-chocobo Override
+ */
+
+div.g-button {
+  border:0;
+  background-color:none;
+  padding:0;
+}
+.g-button div {
+  font-size:1.05em;
+  cursor:pointer;
+}
+/*
+.g-button div {
+  background-image:url(/mobile/images/g-button-chocobo-down.gif);
+  background-image:url(/mobile/images/g-button-chocobo-down-2.gif);
+  background-image:url('http://www.google.com/images/modules/buttons/g-button-chocobo-1.gif');
+}
+
+.g-button div:hover, .g-button-basic div:hover {
+  cursor:pointer;
+}
+.g-button div:active, .g-button-basic div:hover {
+  background-image:url(/mobile/images/g-button-chocobo-down.gif);
+  cursor:pointer;
+}
+.g-button div:active span, .g-button-basic div:hover span {
+  background-image:url(/mobile/images/g-button-chocobo-down.gif);
+  cursor:pointer;
+}
+.g-button div:active span span, .g-button-basic div:hover span span {
+  background-image:url(/mobile/images/g-button-chocobo-down.gif);
+  cursor:pointer;
+}
+.g-button div:active span span a, .g-button-basic div:hover span span a {
+  background-image:url(/mobile/images/g-button-chocobo-down-2.gif);
+  cursor:pointer;
+}
+*/
+.overviewScreenshot {
+  padding:7px;
+  margin:0 auto;
+}
+.overviewScreenshoter img {
+  margin:0 auto;
+}
+.overviewSmallVideo {
+  border:1px solid #cccccc;
+  -webkit-border-radius:7px;
+  -moz-border-radius:7px;
+  width:334px;
+  margin-bottom:1em;
+}
+.overviewSmallVideo object {
+  height:240px;
+  width:320px;
+  margin:7px;
+}
+.overviewLargeVideo {
+  border:1px solid #cccccc;
+  -webkit-border-radius:7px;
+  -moz-border-radius:7px;
+  width:360px;
+}
+.overviewLargeVideo object {
+  height:280px;
+  width:346px;
+  margin:7px;
+}
+.promo {
+  float:left;
+  padding:0 .5em 0 0;
+}
+
+.top-selector {
+  float:right;
+}
+.phone-pulldown {
+  float:right;
+}
+.alert {
+  background:#FFF9CA url(http://www.google.com/help/hc/images/alert18.gif) no-repeat scroll 0.5em 0.3em;
+  border:1px solid #888888;
+  color:#2E2E2E;
+  padding:0.5em 0.5em 0.5em 2.5em;
+  margin-right:5px;
+}

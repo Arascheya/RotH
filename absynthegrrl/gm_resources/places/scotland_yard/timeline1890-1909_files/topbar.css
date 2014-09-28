@@ -1,0 +1,29 @@
+/*----------------------------------------------------
+  TOPHEADBLOCK sets up the cell (background, line height 
+  etc) that sits at the top of the page and contains the 
+  Met logo and MPS site navigation links)
+  TOPHEADTEXT is the style for the MPS site navigation links
+  TOPHEADCURRENT is the style for 'greyed out' links in the
+  corporate MPS navbar
+  ---------------------------------------------------*/ 
+
+.topheadblock {  background-color: #000066; color: #FFFFFF; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; clip:    rect(   ); height: 26px; vertical-align: middle}
+
+.topheadtext {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; font-weight: normal; line-height: 10px}
+
+.topheadcurrent {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #999999; font-weight: normal; line-height: 10px}
+
+
+/*----------------------------------------------------
+  The following styles deal with rollovers for menus and
+  other links
+  The A and A:HOVER styles set up the basic effect
+  The A.HEADER2:VISTED styles prevent header 2 links
+  changing colour after they become visited
+  ---------------------------------------------------*/ 
+
+a.topheadtext {  text-decoration: none}
+
+a.topheadtext:visited { colour: #3333cc}
+
+a.topheadtext:hover {  background-color: #3333cc; color: #FFFFFF}

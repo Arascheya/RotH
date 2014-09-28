@@ -1,0 +1,38 @@
+Myst Embassy - game sequence
+
+After entering the number 5
+
+The D'ni seem to have a cultural obsession with the number 5, and their numbering system reflects this.
+
+D'ni numbering is actually base 25. That is, there are digits that represent 0 - 24. After 24 is reached in a certain column, then it resets to zero and a one is carried into the column to the left, like the Arabic numerals we use. That means that '10' for us is ten, but '10' for the D'ni is twnety-five.
+
+The numerals for D'ni numbers can be grouped by fives. There are unique symbols for 1, 2, 3, 4 and 5. Then again at 10, 15 and 20. Numbers higher than 5 consist of the symbol for the multiple of 5 superimposed over the one of the first four symbols. For example, 6 is the symbol for 5 and the symbol for 1 merged together. 18 is the symbol for 15 and the symbol for 3 merged together.
+
+There unique symbols for zero and for 25 (only used when you mean exactly 25 - it's never used as a digit) as well. Also, there is a 'wraparound' symbol, used for zero when in a circle, like the 12 on a clock.
+
+Code:
+of years the
+yy
+
+Next Step:
+http://www.mystembassy.net/eu/tiles.pdf
+
+After Tile Puzzle
+
+The D'ni Restoration Council (DRC) was formed in 1997 as an archeological organization dedicated to the restoration of the D'ni cavern. Originally funded by money left to the project by the late Elias Zandi, the DRC was headed up by Dr. Richard Watson. The DRC cleared many parts of the cavern, compiled research on the D'ni, and began exploring the linking books left in the Cavern.
+
+In 2003, DRC began to focus on ensuring the safety of the waves of explorers who began to unexpectedly find their way to D'ni. They began restricting access to the city of Ae'gura and many Ages. Their policy of erring on the side of safety brought them into conflict of many of the new 'unauthorized' explorers. These explorers embraced the elements of Yeesha's 'journey', lead by DRC engineer Douglas Sharper and a gathering of explorers calling themselves the Great Tree.
+
+In 2004, Dr. Watson disappeared and the DRC suddenly lost funding. The DRC dissolved, though they left much of the machinery in D'ni active. 
+
+In 2006, members of the DRC (Dr. Victor Laxman, Dr. Ikuro Kodama, Dr. Marie Sutherland and Michael Engberg) managed to arrange limited funding to return to the Cavern and open parts of it to explorers. In an effort improve commincation with the explorers, the DRC have begun working with a committee of community-elected Liaisons.
+
+For more information, see http://www.dpwr.net/archive.php?showarticle=513
+
+Code:
+there was
+bQh
+
+Next:
+http://www.mystembassy.net/eu/treekiller.pdf
+

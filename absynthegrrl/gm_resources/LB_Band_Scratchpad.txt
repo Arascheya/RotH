@@ -1,0 +1,78 @@
+Band
+
+Margaux - base off Sandy and see if she likes it
+
+Juliquayan - base off Juli and see if she likes it
+
+Maggie - base a bit off Pam and don't check with her...:)
+
+Ask and ye shall receive. I have a place for you in stories about Death City. You can provide character sketches and descriptions, or you can leave it up to my twisted mind. I have included a small description of Death City below and the names I created. You can change the names if you like something better. The aliases are the stage names and are currently incorporated into stories, but can be changed if you really hate them. :)
+
+"Dreaming in Death City"
+
+Death City. The Ageless. City of Power. East of Heaven and west of Hell, it stands at the center of Eternia, the realm between. The city has many sides, and many stories, tales of wonder and tales of woe.
+
+The "what" of Death City
+Death City is in central Eternia. It was formed by one of the Greater Powers at the dawn of time. It exists to salvage the creative efforts of the various sentient races of the multiverse and make them available to newer races. When a race is dying, or when a significant treasure of a race is to be destroyed, the Death City crews sweep in to rescue it by moving it out of that realm and storing it until it can be given to another.
+
+Eternia recruits from the dead and the displaced of all the worlds of the multiverse.
+
+Love's Bitch
+Love's Bitch is a Goth band that plays at a club in Death City called The Devil's Cathouse. The band is serious about their music, but they are also serious about campy theatrics while performing. For those familiar with the Goth music genre, they are a cross between Cruxshadows, Abney Park, Evanescence, and Within Temptation in terms of sound.
+
+Devil's Cathouse
+For the interior design of the cathouse think a cross between an opulent whore house and a mad scientist's lair. Specialty drinks are served from a glass monstrosity that resembles every weird set piece from such a lab. It is a split level club, built into the shell of an old brewery, with a dance floor below the main entry floor. The upper floor has tables, a bar, and the entrance. The dance floor has tables scattered around the edges, a second bar, a large stage, and a large dance area.
+
+Sandy - would you like to do a character sketch of Margaux Ellaine Sommers (stage name - Nightshade)
+
+Julie - would you like to do a character sketch of Juliqayan (Juli) Bethany Demryths (stage name - Belladonna)
+
+I can send you a copy of the most finished of the Dreaming in Death City stories, if you are interested.
+
+Note to Sandy and Julie
+
+The process is:
+Download both items, absynthegrrl and hod. These will end up as zip files.
+    Note: absynthegrrl is fairly large and will take a while to download
+Create an empty directory.
+Unzip the files into this directory. You should end up with absynthegrrl and hod subdirectories
+Go to the absynthegrrl/docs/docs_index.htm file and open it. It will open in a browser and has links to current works. The file structure will have been placed correctly for the various links to work.
+
+For a very quick overview, select the "Multiverse" link in the "Realms of the Hut Multiverse - Overview" line of text near the top of the Writings Index page.
+
+Poke around, there are links to backgrounders, data, and other stories from most pages.
+
+The stories seeing the most active development are (in descending order)
+Angelique
+Keepers of the Balance - under Gamer Tales
+Iskandera
+Alexandra
+
+Not all stories are in Death City, however, they are all in the multi-verse that includes Death City.
+
+If you want to see the profile file for your character, open absynthegrrl/gm_resources/npc_index.htm and look for Nightshade in the Death City section
+
+General note:
+Entry points:
+There are two main entry points to the writing data. The first is a link to the Stories themselves, the second is to backgrounders, data, and misc itesm.
+
+Stories Index:
+This will be found in the following directory. The root Drop Box directory will contain two folders, absynthegrrl and hod. the Story index is docs_index.htm located in this directory path absynthegrrl/docs
+
+For a very quick overview, select the "Multiverse" link in the "Realms of the Hut Multiverse - Overview" line of text near the top of the Writings Index page.
+
+Information Index:
+The Information Index is gm_rsc_inx.htm located in this directory path absynthegrrl/gm_resources
+
+I would recommend starting with the Stories Index. The items seeing the most updates lately are Angelique: Still Life with Vampyr and Alexandra, starting with Chapter 1. Feel free to poke around and send questions. The Drop Box system will make sure files update as I update them.
+
+Note to Sandy:
+
+I can come up with a back-story for Margaux as a succubus, however, if you want to take a stab at some ideas, here are a few things to think about when doing so.
+
+Check the section on "multi-verse", accessible from the writings index page, the one that links to all the stories. This will explain the basics of how the story universe is defined.
+
+Check the listings on absynthegrrl/gm_resources/gods_inx.htm for an overview of how gods, powers, and other things work. You can disregard the "Scenario Notes: Madison" section, this was for a table top role playing game and is not really relevant to the Death City stories and Love's Bitch.
+
+One of the primary differences between "real space" and the story verse is all sentients have choice. To illustrate, demons tend toward various modes of evil, but they don't have to remain locked into that. Some have chosen different paths, an example would be Margaux. Based on this, you have two options for how she entered Death City - she could die and be recruited, or she could be recruited and come in alive, as what is referred to as a Shadow Walker, your choice.
+

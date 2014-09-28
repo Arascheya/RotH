@@ -1,0 +1,275 @@
+/********************************************************************************************
+data for Andrew - Andrew is playing Sergei Dracul
+/********************************************************************************************
+
+/********************************************************************************************
+Common data for Andrew
+/********************************************************************************************
+
+In this version of the 1890's: Charles Babbage invented the Difference Engine and Lord Wellingham financed its construction. Vampires are real. Sherlock Holmes exists. The watcher's Council is alive and well with the current slayer being Princess Maria of Roumania. Her watcher, Dr. Abraham von Helzing was killed recently in a vampire attack.
+
+Lord Willem Wellingham is an adventurer businessman. He began young, easily convincing his father, Lord Artemis Wellingham, of his abilities as he seemed to have an excellent sense of what to buy or sell and exactly when. He was given control of his father's stocks in a continental rail company, Compagnie Internationale des Wagon-Lits. He rapidly parleyed his father's stocks into controlling interest and bought out the other holders in 1892.
+
+His father had also invested in an obscure bit of technology known as the Difference Engine. Willem immediately saw the potential of this device and in 1889 found a way to produce gears and components of sufficient quality to build functioning units. By 1892 he had the process inexpensive enough that he could sell commercial units. He spun off International Computing Machines to handle the new business.
+
+In 1894 he formed another business unit, Computational Solutions International. This business division produces programs for the new Computational Engines. His wife, Anne, is the Chief Programmer and Chairwoman of this new venture. Lucy Wellingham, his daughter is Senior programmer of the Engineering Science Solutions group. Her friend Wilhelmina Murray is Project Manager for the Coordination Control Program, the resource management part of the engine code.
+
+
+/********************************************************************************************
+Prince Sergei Dracul
+/********************************************************************************************
+
+Prince Sergei Dracul - Born Vlad Tepes - now vampyr
+
+Prince Sergei Dracul uses a brother's name to avoid recognition by western leaders. He was a hero of the Wallachian/Moldavian/Transylvanian people and was killed by the Turks after his wife was tricked into committing suicide. As vampyr he is working under existing politics to undo the reigns of terror inflicted after the death of Stephen, his brother, and himself. He seeks the re-incarnated soul of his lost love as well. An old gypsy seer told him he would meet his love once more in a great city to the west. This inspired his move to London.
+
+Sergei meets Mina when she is about in the city. He strikes up a conversation with her and things proceed from there. Soon they are dating, even though Mina had been pledged to marry Jonathan Harker, an up and coming young solicitor. By the time the game is in full swing these two are very close.
+
+Jonathan Harker had visited Sergei at castle Bran shortly before Sergei's departure. Jonathan left and as far as Sergei knew had successfully returned to London. In actuality Jonathan was way-laid by brigands and murdered for his papers and money. Sergei did not hear of his fate until a letter arrived for Mina.
+
+Not content to remain in Transylvania Prince Sergei originally started acquiring properties in Budapest and then in Prague and Bucharest. In all cases he favored hotel/ inn type properties. This allowed him secure places to reside when travelling. It was while travelling in Roumania that he encountered Princess Maria and became her friend.
+
+In 1879 Sergei invested heavily in a theatre and hotel interest started by Richard D´Oyly Carte whom he knew of through a solicitor, R. M. Renfield, he had engaged for other business interests. He also purchased Carfax Abbey, located next to Jack Seward's sanatorium.
+
+/********************************************************************************************
+Lord Willem Wellingham
+/********************************************************************************************
+
+Lord Willem Wellingham - Born 1847 to Lord Artemis Wellingham.
+
+Willem has always been an adventurer, starting as soon as he was able. His father was forever extricating him from scrapes at school and later throughout the country-side.
+
+His adventurous nature extended into his dealings with money and stocks. Once he demonstrated his abilities his father turned over control of his stocks to Willem. By 1884 he had parleyed his father's part interest in Compagnie Internationale des Wagons-Lits (CIWL) into controlling interest. In 1892 he has used his fortunes to buy out Georges Nagelmackers and take complete controller interest in the company.
+
+In the early 1860's Lord Willem's father, Lord Artemis, used some of his money to buy the concept of Babbage's Analytical Engine. Lord Artemis was using it as an excuse to give an old friend money, however young Willem immediately saw the true potential of this device and became obsessed with creating a working version. It was through this invention that he met his wife, Anne. By 1888 he has exhausted all avenues of research aimed at fabricating the precision parts necessary to build a fully functional unit.
+
+In 1889 a fluke accident at the WL headquarters in London gives him the answer. A mysterious doorway opens in the basement of the facility and Willem along with several trusted companions go through. One of the trusted companions is Andrew Murray, Mina's father and the comptroller of CIWL. They find themselves in beautiful downtown Centrys, actually rather a hell-hole of a place with weird beings scurrying about. After a couple of narrow escapes from run-ins with the locals they rescue one of the odd beings who becomes the ICM chief engineer. This being has a tremendous knowledge of mechanical engineering and materials fabrication. With its knowledge the CIWL company produces the first working full scale Babbage Engine. Soon they are building them on contract and selling these Computational Engines world wide. In 1893 Lord Willem creates International Computing Machines to handle production, distribution, programming, and maintenance of the new Computational Engines. Using ideas and knowledge from his chief engineer these machines rapidly evolve from Babbage's beginning concepts.
+
+Lord Willem, Andrew Murray, and Artemis Harker form the basis of the Keepers of the Doors soon after their return with the Chief Engineer.
+
+Anne Wellingham becomes involved as soon as Lord Willem mentions the computing machines to her. Using her mother's notes she develops the basic language for programming these new systems. Once this occurs Lord Willem begins on his most audacious undertaking, the creation of a Channel Tunnel. Once again he relies heavily on his chief engineer for materials designs to support his developments. Using the recent developments of electricity the plans are to run electrically powered helper engines to move trains through the "Chunnel".
+
+/********************************************************************************************
+Lady Anne Isabella Wellingham
+/********************************************************************************************
+
+Anne Isabella Noel King was born in 1837 to Ada King, Lady Lovelace. She was her mother's daughter, constantly picking her mother's brain about mathematics and Babbage Engine programming. Also like her mother she was greatly disappointed when Babbage could not get a working engine going. She had all but given up hope until Lord Artemis Wellingham bought the concept from an aging Babbage. His son, Willem, had as much enthusiasm for the machine as she did. Together they worked every angle to try and get a working prototype.
+
+She is older than Lord Wellingham by ten years, however they are very much in love. One of the things she finds most attractive about him is his ability to see her as a person rather than just a woman. This is one of her lessons to Lucy and her friend Mina, demand the respect due all people, particularly in potential mates. She was extremely disappointed when Lucy had planned to marry Arthur Holmwood. In him she saw the usual condescension of a typical man of the time. She has greater hopes for her daughter's current suitor, the enigmatic, but charming Dr. Jekyll.
+
+She has always encouraged Lucy to excel in the sciences, paying for tutors and additional resources when the local schools wouldn't accept that girls could learn those things. Mina was another beneficiary of this attitude. As the daughter of the Wagon Lit comptroller and close friend of Lucy she also benefited from this situation.
+
+/********************************************************************************************
+Daughter Lucy
+/********************************************************************************************
+
+Lucy is a study in contrasts. As a senior programmer at ICM she is hard working and brilliant. Yet outside work she comes across as a typical distracted socialite. Arthur has seen some of this, although he is secretly plotting to remove her from the "degradation" of work once they marry.
+
+Lucy had chosen Arthur Holmwood from the list of suitors including Jack Seward, Quincy Adams (an American), and Arthur. Now she is rethinking her decision since she has met Henry Jekyll. Jekyll treats her as an adult and intelligent individual. Where Arthur secretly envisions her settling down and becoming his wife and mother of their children, Jekyll sees her as becoming a partner in his affairs.
+
+She and Mina have been close since childhood, sharing everything except men friends. Mina is torn over the new beau in Lucy's life, on one hand he seems much more capable of appreciating her brains, yet he is an unknown factor. He introduced Lucy and Mina to a friend of his, Drusilla. They have been doing many social things in the evenings and the nights.
+
+Lucy will inherit CIWL from Willem. Currently there are no male heirs. She has no problems with this. In preparation for this she is training with Andrew Murray in the concepts of business. She will ask Mina to assist her as Mina is more capable as a manager of people.
+
+/********************************************************************************************
+Wilhelmina Murray - close friend of Lucy and almost daughter of Wellinghams
+/********************************************************************************************
+
+Mina is the only daughter of Andrew Murray, comptroller of CIWL and one of the founding members of the Keepers of the Doors. She has been friends with Lucy Wellingham since they were children. Mina's mother died when she was young and Anne Wellingham became her second mother. As a result she was exposed to the same schooling as Lucy. Andrew hoped his daughter would follow in his footsteps as comptroller, however her aptitude is more toward programming and project management. Once Andrew realized this he pushed her in directions that would strengthen her abilities in these fields. As a result Mina is one of the best Project Managers in the company.
+
+Mina met Jonathan Harker at a CIWL event. Jonathan was working as a junior partner in the law firm retained by CIWL for their legal issues. They are engaged to be married when he returns from Transylvania. Recently Mina has been seeing Prince Sergei, whom she met in downtown London. She is torn between her sense of duty toward Jonathan and her infatuation/ deep passion for Prince Sergei. Only recently has she learned that Jonathan is missing in Transylvania. Prince Sergei has promised to contact people there to find out what has happened.
+
+/********************************************************************************************
+Keepers Of The Doors
+/********************************************************************************************
+
+This group of people make it their responsibility to secure any trans-dimensional gates or doors they find. So far they have secured two. One in the basement of CIWL headquarters and a second one in Istanbul under the Blue Mosque.
+
+Lord Willem, Andrew Murray, and John Sebastion are the founders of the Keepers. They were the first three to experience a Door when they entered the one in the basement of CIWL headquarters. This Door took them to Centrys, where the came across the future chief engineer of CIWL.
+
+Currently their are 20 members of the Keepers. Each member is responsible for monitoring world events to see if there are more Doors that need sealing.
+
+/********************************************************************************************
+Timeline for Andrew
+/********************************************************************************************
+
+1791 - Charles Babbage born
+
+1800-1810
+1800- Volta produces first battery of zinc and copper plates
+1800- Eli Whitney makes muskets with interchangeable parts
+1807- Fulton’s paddle steamer "Clermont" navigates on Hudson River
+1807- Street lighting by gas in London
+1807- England prohibits slave trade
+1810- Appert develops techniques for canning food
+1810- Charles Babbage enters Trinity College, Cambridge
+
+1811-1820
+1812- Savoy Group - Lord William Beauclerk leases a house in Brook Street with permission to turn it into a hotel, which subsequently operated under the name of Mivart´s and later Claridge´s.
+1813- Last gold guinea coins issued in England
+1814- Savoy Group - Foundation of Claridge´s
+1815- Davy invents miner's safety lamp
+1815- Augusta Ada Byron (Ada Lovelace) born
+1816- Brewster invents kaleidoscope
+1816- Laennec invents stethoscope
+1814- Charles Babbage graduated Peterhouse
+1817- Charles Babbage received MA from Cambridge
+1818- First professional horse racing in US
+1819- Napier constructs the flat-bed cylinder press for printing
+1819- Maximum 12 hour working days for juveniles in England
+1820- Charles Babbage founded the Analytical Society with Herschel and Peacock
+
+1821-1830
+1821- US population- 9.6 million
+1822- Streets of Boston lit by gas
+1822- London's Sunday Times is founded
+1823- Charles Babbage started work on the Difference Engine through funding from the British Government
+1824- Erie Canal is completed
+1825- London has horse drawn busses
+1825- Stockton-Darlington Railroad is the first to carry passengers
+1827- John Walker introduces sulfur friction matches
+1827- Charles Babbage published a table of logarithms from 1 to 108000
+1828- Savoy Group - Simpson´s-in-the-Strand opens
+1828- Charles Babbage appointed to the Lucasian Chair of Mathematics at Cambridge (never presented a lecture)
+1829- First US patent on typewriter is granted to William Burt
+1830- Savoy Group - The Lygon Arms re-named after its new owner, General Lygon
+1830- 26 steam cars running in London
+1830- first pizza parlor opens in Naples Italy
+1830 - George Stephenson begins rail service between Liverpool and London.
+
+1831-1840
+1831- Horse drawn buses appear in NY
+1831- Charles Babbage founded the British Association for the Advancement of Science
+1832- Horse drawn trolleys in NY
+1832- Charles Babbage published "Economy of Manufactures and Machinery"
+1833- Charles Babbage began work on the Analytical Engine
+1833- Ada Byron (Ada Lovelace) meets Charles Babbage
+1834- Two-wheeled, one-horse Hansom cabs introduced in London
+1834- Charles Babbage founded the Statistical Society of London
+1835- Ada Byron marries William King
+1836- Cooke patents electric telegraph
+1837- Anne Isabella Noel King born to Ada Lovelace and William King (Lord Lovelace)
+1838- First traveling post office runs in England
+1838- William King inherits title, he and Ada become Lord and Lady Lovelace
+1839- Steinheil builds the first electric clock
+1840- Penny postage established in Great Britain
+1840 - Samuel Cunard begins transatlantic steamship service.
+
+1841-1850
+1841- First university degrees granted to women in US
+1841- Ada Lovelace publishes article describing benefits of the Analytical Engine
+1843- World's first nightclub opens in Paris (Le Bal des Anglais)
+1844- First public bath houses open in Liverpool, England
+1844- Keller invents wood-pulp paper
+1844- S.B.F. Morse’s telegraph is used for the first time between Baltimore and Washington
+1845- Texas and Florida become states
+1846- Iowa becomes a state
+1846- Sewing machine is patented by Elias Howe, improved in 1851 by I.M. Singer
+1847- US forces capture Mexico City
+1847- Evaporative milk is made for the first time
+1847- Willem Wellingham born
+1848- First women’s rights convention meets in Seneca Falls, NY
+1848- First safety matches
+1850- California becomes a state
+
+1851-1860
+1850- R.W. Bunson produces first gas burner
+1851- Isaac Singer devises the continuous stitch sewing machine
+1851- Maine and Illinois begin to enforce prohibition against liquor
+1852- Franklin Pierce elected 14th president of the US. Inaugurated in 1853
+1852- Wells Fargo & Co founded
+1852- Ada Byron, Lady Lovelace dies of cancer
+1855- London sewers modernize after an outbreak of cholera
+1856- Pure cocaine extracted from cocoa beans
+1856 - Henry Bessemer develops the Bessemer converter.
+1858- Felice Orsini’s attempt to assassinate Napoleon III
+1858- Ottowa becomes the capital of Canada
+1859- Steamroller invented
+1859 - The first commercial oil well is drilled in Pennsylvania.
+
+1861-1870
+1861- Abe Lincoln inaugurated at 16th president of US
+1861, April 12- Outbreak of civil war
+1861- T.S. Mort builds first machine-chilled storage until
+1861- US introduces first passport system
+1863- Lincoln issues Emancipation Proclamation
+1863- Ebenezer Butterick develops first paper dress patterns
+1863- Roller skating introduced to America
+1864- "In God We Trust" first appears on US coins
+1864- Charles Babbage published Passages from the Life of a Philosopher
+1865- Abraham Lincoln assassinated on April 14. Succeeded by Andrew Johnson
+1865- US Civil War ends
+1865- Thirteenth Amendment of US Constitution abolishes slavery
+1865- Joseph Lister initiates antiseptic surgery by using carbolic acid on a compound wound
+1865- First carpet sweeper comes to use
+1865- Ku Klux Klan founded
+1865- first Fish and Chips shop opens in London, by 1875 there are hundreds of shops
+1866- Alfred Nobel invents dynamite
+1866- The Siemens brothers improve steelmaking by developing the open hearth furnace.
+1866- Cyrus Field lays the first successful transatlantic cable.
+1867- Gold discovered in Wyoming
+1867- Willem Wellingham marries Anne Isabella Lovelace
+1868- Ulysses S. Grant elected president of US
+
+1871-1880
+1871- PT Barnum opens his circus
+1871- Charles Babbage dies.
+1872- Brooklyn Bridge opened
+1872- Georges Nagelmackers founds the "Compagnie Internationale des Wagons-Lits" (CIWL)
+1873- American Football Clubs adopt uniform rules
+1873- Color photographs first developed
+1875- London’s main sewerage system is complete
+1875- London Medical School for Women founded
+1875- First roller skating rink opens in London
+1876- Alexander Graham Bell invents the telephone
+1876- US National Baseball League founded
+1877- Edison invents phonograph
+1877- Willem convinces his father, Lord Artemis Wellingham, to buy into CIWL
+1877- Lucy Wellingham and Wihelmina Murray born
+1878- First use of iodoform as an antiseptic
+1878- Electric street light is introduced in London
+1879- London’s first telephone exchange established
+1879- Savoy Group - Impresario Richard D´Oyly Carte opens his Savoy Theatre in London´s Strand for performances of Gilbert-Sullivan operas - lit entirely by electric lights - Sergei Dracul is the silent partner and money behind the operation
+
+1881-1890
+1880- The game of Bingo is established from the Italian lotto game of tumbula
+1880- Canned fruits and meat first appear in stores
+1880- New York streets are first lit by electricity
+1880- Lord Artemis Wellingham dies peacefully in his sleep at 70 years of age
+1881- Lord Willem has used his skills at stocks and investments and his considerable fortune to buy interests in all British rail systems
+1881- Roumanian independence from Turkey
+1882- American Baseball Association founded
+1883- Northern Pacific Railroad line completed
+1883- Brooklyn Bridge is opened to traffic
+1883- The first sky scraper is built in Chicago (10 stories)
+1883- W.F. Cody (Buffalo Bill) organized his "Wild West Show"
+1884 - CIWL becomes "Compagnie Internationale des Wagons-Lits et des Grands Express Européens", Lord Willem buys controlling interest
+1884- Savoy Group - Construction of The Savoy begins
+1885- Sir Francis Galton proves the individuality of fingerprints
+1885- Karl Benz builds single-cylinder engine for motor car
+1886 - CIWL obtains the organization of official journeys of the French Republic and most European Royal Courts. The Compagnie is renowned over the world by its golden logotype, the two lions holding the intertwined " WL ".
+1887- Edison and Swan combine to produce Ediswan electrical lamps
+1888- George Eastman perfect "Kodak" box camera
+1888- Football League founded
+1888- Whitechapel murders - Jack the Ripper
+1889- Your TARDIS crashes near London. Needing a base of operations you take over Jekyll's abandoned place at the urging of your friend Drusilla.
+1889- Lord Willem and CWIL engineers perfect a method of precision allowing the creation of the first working Difference Engine.
+1889- Savoy Group - The Savoy Hotel’s glittering opening on August 6 - Celebrated Swiss hotelier, Cesar Ritz, appointed The Savoy’s manager
+
+1891-1900
+1890- Savoy Group - Auguste Escoffier joins The Savoy as Maître Chef des Cuisines
+1890-Global Influenza epidemics
+1890- Rubber gloves are used for the first time in surgery
+1891- Beginnings of wireless telegraphy
+1891- W.L. Hudson invents clothing zipper (not practical use until 1919)
+1892- First cans of pineapple
+1892- Willem Wellingham buys out Georges Nagelmackers and now has complete control of CIWL
+1892 - Rudolf Diesel patents the diesel engine
+1892 - CIWL achieves economical production of Analytical Engines and begins commercial sales of them.
+1893- Karl Benz constructs his four-wheel car
+1893- Henry Ford builds his first car
+1893- Internation Computing Machines (ICM) founded as a wholy owned subsidiary of CIWL
+1894- Computational Solutions International (CSI) founded as a wholy owned subsidiary of CIWL. CSI takes over creating software for ICM machines. The CEO says, "A Computational Machine in every office within the next 30 years"
+1894- Savoy Group - Richard D’Oyly Carte buys Claridge’s at the suggestion of Cesar Ritz
+1895- this is place of current game events
+

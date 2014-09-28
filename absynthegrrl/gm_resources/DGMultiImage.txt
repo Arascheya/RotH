@@ -1,0 +1,73 @@
+AbsyntheGrrl: multiple -attachments: if this can take a 
+week or two to come on-line i can write an add-in to 
+handle this it will take this time to make sure the 
+multi-attachment add-in doesn't break single images that 
+have already been uploaded.
+Devious Girlsz: ?
+Devious Girlsz: come again?
+AbsyntheGrrl: multiple images per post - if that is a 
+desired behavior - and if you haven't found the add-in 
+mod you were using before
+Devious Girlsz: hmm...
+Devious Girlsz: we can re submitt the previous images.
+Devious Girlsz: If we know where they are.
+Devious Girlsz: each post,
+Devious Girlsz: moderators can edit.
+Devious Girlsz: at least, I can.
+AbsyntheGrrl: true enough - i believe they ended up in 
+the uploads folder...
+Devious Girlsz: but...
+Devious Girlsz: when you click it,
+Devious Girlsz: you get an error?
+Devious Girlsz: are they even in the uploads folder?
+Devious Girlsz: or did they get wiped somehow?
+AbsyntheGrrl: i'm not sure - i  thought they were - but 
+having not seen them, ever i can't say for certain - just 
+that there seemed to be quite a few images in there...
+AbsyntheGrrl: more images than it seemed were 
+showing in existing topics
+AbsyntheGrrl: what gets written would work going 
+forward - recovery would require the re-posting you are 
+describing
+Devious Girlsz: I can have my boy to the tedious work. 
+:P
+AbsyntheGrrl: the design parameters would be: for 
+display: check for multiple images - display them, check 
+for single image, display it
+AbsyntheGrrl: design for posting: present multiple post 
+section of dialog - up to ten say - process and store each
+AbsyntheGrrl: for admin: add a switch to the control 
+panel to turn off multiple file posting if desired - turning 
+off multiple images would not kill display of existing 
+multiple images in their existing posts - it would just make 
+all new posts single image
+Devious Girlsz: ok, check it out...
+Devious Girlsz: can u make it so...
+Devious Girlsz: when someone posts an image, a 
+thumbnail goes to a external page?
+Devious Girlsz: like deviantARK
+Devious Girlsz: It goes to the front page.
+AbsyntheGrrl: possibly - i will need to see where/how 
+the post thumbnail is getting created and see if it can be 
+copied to file at the same time - i winder if they are using 
+the gallery add-in at deviant?
+Devious Girlsz: lol
+Devious Girlsz: deviantART is intense coding.
+AbsyntheGrrl: they have how many coders working on 
+it? seems like a lot from the admin journals...:-)
+AbsyntheGrrl: the external page - where/how would 
+you see it bening displayed?
+Devious Girlsz: 4X4
+AbsyntheGrrl: would it hijack part of the forum main 
+page or be something seperate?
+Devious Girlsz: ...
+Devious Girlsz: Sure.
+Devious Girlsz: It would be like,...
+Devious Girlsz: we'll scratch that.
+Devious Girlsz: We'll do that later.
+Devious Girlsz: As long as we can change it.
+AbsyntheGrrl: we can - especially since we decided to 
+allow for it up front - that way the code can be set up 
+with this in mind for later
+DEV-NOTE:add thumbnail locator field to multi-table - maybe hijack the single image data and replicate it in the multi-table? maybe in single image mode the data is set in the posts table and replicated in the multi table for thumbnail location? need to know where the thumb is, unless set a system var to track where to stash a hard-coded thumb...
+Devious Girlsz: cool.

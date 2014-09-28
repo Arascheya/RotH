@@ -1,0 +1,9 @@
+Data Screen text:
+Interface System off-line
+Control system damage
+Autorepair
+    Running
+        .........
+    Halted
+        FAILED
+

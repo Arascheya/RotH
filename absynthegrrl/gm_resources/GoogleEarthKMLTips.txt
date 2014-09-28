@@ -1,0 +1,60 @@
+Google Earth KML formatting tips:
+
+Main KML reference available at: https://developers.google.com/kml/documentation/kml_tut
+
+How to display a Label only when the user hovers over the icon
+
+The first placemark in example below has its name shown in the places panel but hidden from the map using the LabelStyle. The second placemark #2 uses a StyleMap to hide the label until the user highlights or mouses over the icon in which it activates the highlight style showing the label. The third placemark #3 uses the default style that always shows the label.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Hide and show labels</name>
+        <Style id="sn_hide">
+            <LabelStyle>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="sh_style">
+            <LabelStyle>
+                <scale>1.1</scale>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="msn_hide">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#sn_hide</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#sh_style</styleUrl>
+            </Pair>
+        </StyleMap>
+
+        <Placemark>
+            <name>Placemark 1</name>
+            <description>Label hidding</description>
+            <styleUrl>#sn_hide</styleUrl>
+            <Point>
+                <coordinates>-119.232195,36.016021</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Placemark 2</name>
+            <description>Hover over place to show label</description>
+            <styleUrl>#msn_hide</styleUrl>
+            <Point>
+                <coordinates>-119.2324,36.0155</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Placemark 3</name>
+            <description>Always show</description>
+            <Point>
+                <coordinates>-119.232672,36.014837</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

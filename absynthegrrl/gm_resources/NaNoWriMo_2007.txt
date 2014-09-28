@@ -1,0 +1,474 @@
+/* use this compilation file for NaNoWriMo for the month of Nov. - see how many words i do on an average month of updating things */
+
+REMINDER:
+even in the Valen Empire - Centrys and the Powers are involved
+
+look at Vampyrites, Creation Team, and related concepts for additions and coherence - CT is ref'd in the description of T and Z, need to determine a bit more about them and tie it in to the Icicle Find and Valerie
+
+
+
+Hut link points for NWN and online games - consider linking to rooms off the gate chamber outside machine ruins instead of the warehouses. this will allow the players to enter the city after scoping out the area rather than being thrown cold into the middle of it.
+
+remember - don't need a lot of Hut Links in any one area - these will function like Uru hoods - a small number of Hut instances link to each link chamber, then each link chamber attaches to the Gate Room - the Hut Link to Gate attachments would be dynamic - each hut group would go to their specific linking chamber
+
+
+
+Shelley's character is a student at the School of Magic - need backgrounders on what each character starts out knowing. the student will know a bit about the school and there are rumors it is inter-world.
+
+rumors: school has multi-world students, there is a Gate somewhere on the school grounds, the headmistress disappears from time to time,
+
+thoughts: priests are loosers - seriously, disdain for the god-magic followers; sense of pride in magic use
+
+son/daughter knows a bit of mom's story - about the Hellgate Wars and that she was in them. she hasn't told anyone about her status in the Lotus Empire heirarchy, just that she fought in the wars. Ahkmed hasn't revealed anything about that time either.
+
+consider these plans for basis of School
+    1620-MirtsMansion - as headmistress quarters, office, and special studies areas
+    
+just before the adventure Lucy will tell her son/daughter about the war and her place in it. she will also tell of following a stranger who came from the mountains. this was Irena. she will retain friendship with the crew of the River Wind and can get the players passage on that ship if they choose to go anywhere on the river
+
+she has heard from Anya Ravenbone, related to her through her mother. Anya's mother was Alucinia's mother's sister. the message came through the school of magic, from an arcane they met during the wars. name is not important - create if needed. this should be after the players return to Miskaton from the trip up river.
+
+Pag's contact in Azkelon - contact point is the Line and Hook tavern, near the docks, a river-runners bar - it is dingy, rough, and rowdy and it is run by the Froy family as an information gathering spot. Kheron Froy is the owner and the contact given to Bill - Kheron's side of the family moved to Azkelon a while ago to expand the family influence and to set up trading contacts there
+
+could use the traffic of Xtase as another thread, if needed. it would be a recent addition to the list of illegal substnaces and would be part of Aztol's plan to undermine current setups
+
+Riverwind - the party plus one other - a strange woman who keeps to her quarters during the day, but emerges at night to eat with the crew and watch the river go by - this is Angelique, slumming and watching. she will get off in Azkelon as well, to make some quick checks around town on Aztol and his influences - in this thread Irean is the Balance Keeper and has been told of Aztol's goals by She... She... could go by Cenefalys to Irena and the Void Mistress - this appearance by Angelique should be basically a cameo - a walk-thru to prompt a bit of interest but give no real data or hints of the Hut
+
+
+in Azkelon - see groups of orange and black wearing guards, rumors of power shifts in the darker corners, should be hints and such so far
+Ivan's char remembers seeing clots of the black and orange crowd in the darker places of Miskaton
+by the time they return, there should have been a few mysterious deaths among the lesser power blocks of Miskaton - in each case consolidating power into a larger bloack by who inherited the pieces.
+Aztol is using the spider-charm assassin tools in Miskaton - they are untraceable and hard to detect prior to the attack
+he has a small force in Miskaton, scouting the situation and looking for a base of ops.
+
+using map of Azkelon - map out areas of nobility influence and then figure out where Aztol has begun his incursions. the spider ship is parked outside town somewhere - could give an audio clue to the party if appropriate - may not be necessary at this point though - it is still early in the game
+
+Tolaz family was wiped out by a coalition of Merchanters and Arcanes two generations ago because they were sacrificing locals to some dark and evil thing, trying to gain power and abilities through these. _ Tolaz (Aztol) claims to be from an off-shoot of the family that was living in a remote area of the valley. his parents finaly told him of his heritage and he has come back to claim it.
+
+Aztol was the only survivor of the purge of the old Tolaz family - it is one of the things that twisted him into the madness he now exhibits. update Aztol background to reflect this - they were involved in dark gods and dark things. figure out how Aztol found tech - the drawback to the Valley would be - where would he find the tech? the cryo-pods, StratCom facility? - StratCom facility and from there access to the Tube Trains - following the Sphinx path, to a degree - enough to find some other way to access
+
+how did he aquire enough knowledge to create the tech complex and the World Gate Controller? where is the tech complex and where does Krystal come from? Lotus Empire? if Aztol had the facilities Ghunayya acquired after his departure - need tube link to her base and the technology for it - the base should be cross of Indian architecture and tech
+
+Krys - daughter of Margla, placed somewhere - her story as written doesn't work well in the Empire - she would be in the primary gender instead of the secondary - how should it play out? 
+
+Krys became the adopted daughter of the owner of a House of Pleasures, Ghaniyah Feyrsitha - her biological daughter, Dassouse, is a Seer, the one who ends up in the employ of the Empress at the time of the Hell Gate Wars
+
+Alucinia Tomarasdan - born in Stratmore-upon-Comcrash in the Valley of Exper. Her life was fairly routine until strange visitors caused her to leave when she was 18. She followed this group of people to the Empire, trying, like the ones she followed, to find one of their missing companions. She would have met your mother, Barake Milzithin, when she was a member of the Elites. Your mother put down a group of raiders that had a ttacked a caravan. Alucinia was the only survivor from the caravan. She showed great skill and your mother had her inducted into the Elite training program. She progressed rapidly through the ranks, demonstrating an exception skill at tactics and group command.
+
+She remained obsessed over the years with finding a woman named Irena, the one she had been hunting when arriving in the Empire. At the height of the Hell Gate Wars Irena re-appeared with a powerful magic device. She was instrumental in the battles and reduced losses to only horrific instead of almost total. By the time the Wars were over, only one in ten of the military forces survived. Your mother rarely speaks of the actual Wars because of how awful they were. She speaks of Alucinia, but not of what happened after she left her command. She was happy when she learned Alucinia survived and was living in the Valley. It was one of the reasons she sent you, to see how her old friend was getting along.
+
+Lucy is beginning to long for the Empire - particularly as the influence of Tozal grows in the north and the agitation for more control and patriarchal systems grows.
+
+NEW - for Pag in a series of dreams as the adventure continues:
+Dream 1:
+
+others will know a bit about the Valley of Experiment
+
+need to make a decision on the River Wind for this incarnation - if Kara is on it, then is there a link from the River Wind to the Hut? The concept is Valen is now the Balance Keeper Avatar
+
+Kali
+need to make her a sleeper singer. the lyrics she has done she can sing with amazing power and passion. it surprises her more than it does the rest of the band. the songs she brings in will be a mix of ones from her life in the realms and what she has seen on extractions. her songs aren't terribly happy, but they are powerful and heart wrenching, starting with the unsettledness of Dead Girl Living
+
+remember to add a local market to Death City and another one in Goth City. these are fed by farms around the cities and brought in by local trains. most food in the cities come from these markets, including food at the various eating places wheree many go.
+
+
+Uru
+need to involve Chani in Irena's story. Chani also likes the hill sides of Ercana, tending to spend time with Irena there when they both need to talk, or just be, away from the rest of the world.
+
+Uru - Irena
+
+Hut
+transform Koria into Kyira for the Hut campaign and NWN games. Kyira is a succubus that has renounced her ways and seeks to better herself. Kyira becomes the Librarian when Klktzash retires. figure out how she connected with Valen and her crew as Irena in this incarnation.
+
+Hut - Sophia
+update Hut NWN versions of the Hut Documents and make sure can link to them from the blog entries. will want to link them as add more about Sophia
+
+after reading the books she will want to step out of the Hut and into the attach point below the Gate Level outside the Machine Ruins.
+
+Lady Ayrthane is already in the Mchine Ruins, hanging out in one of the taverns - consider if it is the one that links to the Caverns or not. Should probably rename Shardra if using the Caverns, just to not step on Hargrave's toes. or, just leave the name, but keep her history mysterious and only talk of her fearsome appearance behind the bar.
+
+Cavern of Dark Delights
+the first thing you notice is the noise. after that it is the low ceilings and obvious underground aspects of the place. the Caverns are exactly that, a series of link caverns carved out of volcanic stone. the walls vary from glossy black obsidian to rough reddish lava depending on the room. this is most noticeable in the rooms for rent, of which there are 30. these are broken out as 20 four person chambers, 5 two person chambers, and five suites. room prices are 4 gold for a bed in one of the large rooms, 10 gold for a room in one of the two person rooms, and 20 gold for the use of a suite.
+
+conversations crash about the place and sometimes musicians are playing in a covern or two. the place is dimly lit by candles and oil lamps, the air thick with clashing smells of food, drink, body odor, and the smoke of various legal and illegal substances.
+
+the primary bar keep will be one of three 6 foot plus amazons. Shardra is dark skinned, black haired, with hazel eyse. The other two are her closest friends Anyanka and Jezira. Anyanka is blonde and blue eyed and looks very much like Anya from Buffy. Jezira is blonde with hazel eyes and looks half crazy most of the time. think Calisto for general attitude and actions, although she won't come across the bar and randomly kill patrons.
+
+serving boys flit from table to table, serving food, replenishing drinks, and seeing to the needs of the crowd that constantly fills the place.
+
+clientel is mostly women adventurers from the Empire. will need several hints and scenarios to point the players on.
+
+Lady Ayrthane is sitting in a dark corner, nursing a dark brew, and waiting for someone. She is actually waiting for Sophia, or someone with the signature of the Hut on them. She will wave over a Hut crew person and engage them in conversation. For the Madison Game she will consider any party carrying Hut artifacts as crew, because they will have the magic signatures even if they are unaware of it.
+
+Sophia will definitely recognize the concept of Lady Ayrthane once she mentions anything about her origins or her involvement with the Hut.
+
+
+
+Tools of Statecraft
+consider blogging about conversations with Bill about the workings of the tools as applied by the rethuglicans to completely subvert political discourse, and the demorats inability to understand the tools let alone apply them to shift discourse back away from the ugly edge rapidly approaching.
+
+sound bites, unreasonable talking point so that slightly less outragious talking points can be viewed as "reasonable", sow dissent by talking up the dangerers of any non-male, non-white people, control of information flow into the general populous.
+
+Alt. London
+look up Cody's Wild West Show and when it played in London and other European cities. Also look up Annie Oakley and her time line.
+
+Lotus Empire
+the Lotus Empire came to be from the remains of the Karatoum Empire after the collapse. Kharatoum itself became Akhalt and the seat of the Hand. Nygroth had the Hand and Eye of Azeloth before the great battle outside Kharatoum. These items were blasted loose from Nygroth during the battle with Tesch mar. The current Hand found the Hand of Azeloth a decade after the battle, while searching for artifacts in the wreckage.
+
+So far the Eye of Azeloth hasn't surfaced.
+
+the first calipha is a direct descendant of the sultan of Kharatoum's blood lines. she gathered the scattered survivors of the fall and slowly rebuilt an empire based on law and duty. the empire started small, and built slowly as scattered cities and tribes were added over the years. the matriarchy was established at this time, as was the mechanism of succession. the Lotus Empress is always a powerful weilder of magic.
+
+the empress holds a Shadow Ord of Harmony. this is one of the items that allows the rule of law and the rule of the empress to permeate the empire. only the Lotus Mother and the Empress know the where abouts of this itme. it is one of the tests of the succession. the new empress must be able to go to the orb without help or prompting. if the suspected successor cannot do this, she is not the true empress and will be returned to the populace. this is tested early enough in the process that the rejected successor is not even aware of her selection as possible new empress.
+
+all ritualistic sections of the empire have been carefully crafted to promote harmony and continuance of the empire in the current state. threats to this order are investigated quickly and efficiently. if they are found to be true threats, drastic steps are taken to mitigate and remove the sources as quickly as possible.
+
+consider updating Tesch Mar's story - he did combat and imprison something, but it doesn't have to be the Lizard race, could have been an artifact or similar, something that was threatening his world.
+
+the battle between Nygroth and Tesch Mar was the death of Kharatoum. Nygroth wanted to take over and control the Sultanate, Tesch Mar and the sultan opposed this. Nygroth's final strategy was to kidnap the oldest twin daughters of the sultan to bring pressure on him and to find the Star Stones, items of great power said to reside somewhere in the sultanate.
+
+Lotus Empire - Soul Traps
+a concept pioneered by Nygroth and used against Kalyana ni Raizul as part of his actions to get the Star Stones. the knowledge of how to create a Soul Trap is confered by the Hand of Azeloth and has been taken to higher levels by the Hand. the Hand has trapped the souls of Nygroth and Tesch Mar in Soul Traps and drains their energies to power his magic. Kalyana will recognize the feel of her old mentor and nemesis if she gets close enough to the city at the center of Akhalt.
+
+Lotus Empire - Star Stones
+these are a set of control and power crystals from a hyperdrive system. in magical circles they can be used to focus vast amounts of magical power in the same way they can be used to focus the titanic energies in a hyperdrive system.
+
+Tesch Mar sealed these away after recovering them from a group of arcanes attempting to use them to dominate the sultanate. access to them is through a magical gate requiring the Tears to activate. the gate is hidden in one of the ruins scattered about the Lotus Empire. pick something fun from the various FR maps of zakara as a place.
+
+the ruins of Akhalt are based on the Dark Sun stuff, in particular the City on the Silt Sea
+
+Lotus Empire - Tears of Kharatoum
+a set of power crystals, thought resonant crystals whose owners had died. Tesch Mar used these when hiding the Star Stones. anyone seeking the Star Stones will need the Tears to recover them. One of Tesch Mar's last actions during the battle with Nygroth was to fling the Tears far and wide, scattering them around the fringes of the Kharatoum Sultanate. this places them in the environs of the current Lotus Empire.
+
+there are nine tears scattered about the Lotus Empire. all nine are required for getting the Star Stones. The Star Stones are required to fix the Hut control systems.
+
+Lotus Empire - Caerulea
+this is the capital city of the Lotus Empire - it is named for the blue water lillies that are prevalent in its foutains and water areas. regular lotus flowers and the various magic varieties also grow throughout the city. it is considered a sacriledge to harvest the magical flowers from the city. instead the plants are also grown by the priesthood for the needs of the priesthood and other magical groups within the empire.
+
+Lotus Empire - Lotus Flowers
+need to concentrate the Lotus Flower, Lotus Root, and Lotus Seed "magical" and potion style items into a master listing. these are found in the ADD, Arduin, and Monster Listings from Fairbanks. The first three Arduins and the ADD books are available as ESDs that can be converted, the rest will need to be dug out and scanned. The Arduin ESDs are just image scans of the books - might be simpler just to transcribe once found in the paper versions instead of messing with the ESD versions.
+
+Death City - Love's Bitch Song
+
+Apocalypse - based on the calling of the 4 horsemen, the death city recovery teams, and the new war between the angels and demons. this is another Kali written song, after she has been performing with them for a while
+
+look up sophia myles and see if she is in a television offering
+
+
+look up repossessions around Madison for small farms and the like, with a thought toward a larger chunk of land
+
+Movie to look up
+add second Lara Croft movie to netflix list
+
+add Foo Fighters to rotation
+look at Who song-list see what else to add to rotation
+
+keep eye out for The Who documentary from VH1
+
+DATA TO ADD - to Campaign Docs on web page
+add .png images of character sheet to wiki, add links to RQ simple rules and wiki page to the data index
+create table with stats to percentages and brief statement of how to add them to the character sheet
+
+add the data on gods and goddesses - remove links and vet out any data the Players won't have
+
+add the hellgate wars page - this is common knowledge
+
+add Magic Theory doc
+
+add character types and adjust data to only what Players would know of themselves
+
+add Zeltopian world data
+
+Links for Campaign:
+
+RQ QuickRules: http://www.basicrps.com/core/index.html - external, quick reference to the basics of the Rune Quest rules. it does not contain any of the modifications for this campaign
+
+Campaign wiki: http://www.hintofdementia.com/cgi-bin/campaign.pl - Player and gm updatable repository of knowledge and evolving campaign notes
+
+Campaign Data: http://www.hintofdementia.com/campaign/gindex.htm - data the Players already know, including character types, creation info, etc.
+
+BIOWARE - as listed on PennyArcade
+I got an interesting mail this morning from Daniel Erickson the principal lead writer over at Bioware Austin. He says they have an opening in their writing staff and he's having a hard time filling it. Daniel wanted to know if he could put the word out here on Penny Arcade and I'm more than happy to help. So do you want to write for the new Bioware MMO?
+
+----------------------------
+
+Hey Guys,
+
+So here's the situation we're in. BioWare games require a great deal of
+writing. Storylines, world building, characters, journals - and about a
+bazillion lines of dialogue. What makes my job harder is not only does
+all of this writing have to be high quality - something not always
+demanded in our industry - it can only be done by writers who understand
+the complexities of interactive fiction. Take the average screenwriter
+who doesn't play RPGs, place him in front of the writing tool from
+Neverwinter Nights and you'll get a linear story with a complete lack of
+Player agency and no interesting decisions. Just trying to explain the
+concept behind writing without a protagonist to someone who has never
+even been a dungeon master can be like showing card tricks to a dog.
+
+Which brings me to the current problem. The BioWare MMO is the largest
+thing we've ever done by leaps and bounds. We're talking a double digit
+writing staff working for years (yes we've already been working for well
+over a year). Now I've realized I need even more writers and I've got no
+reliable way of predicting where they're going to come from. In the
+history of the company, we've had published fantasy authors,
+screenwriters and editors all wash out of BioWare's training program. On
+the flip side, we've had fantastic kids right of college, an ex CNN
+producer and a former gift wrapping clerk from Singapore all succeed in
+the BioWare writer family. Previous job of lead writer for Baldur's Gate
+2, the highest rated PC RPG in history? Travelodge manager.
+
+So yes, we're shaking the usual trees and our HR folks are turning over
+all the rocks they can think of but I had to go through over three
+hundred qualified candidates to find the team I have now so a lot of
+those trees have done already been shook. With that level of challenge
+around finding writers, I want to throw out an open invitation for
+anyone out there that thinks might be the strange combination of RPG
+fiend and talented writer to grab a copy of Neverwinter Nights and start
+putting together a writing sample. I don't care if you can script, just
+put three guys in a field and attach conversations to them. Make the
+plot compelling, write the NPCs as real people who could exist in a
+believable world even if the PC wasn't there, give me an interesting
+choice or two and you're done -- easily something can be done over a
+weekend and there's a ton of great community support online if you're
+really tech deficient.
+
+Anyone out there want to write for the game company with three of the
+top five rated RPGs of all time on their biggest project ever?
+
+Head here: BioWare Jobs
+
+
+Cheers,
+
+Daniel Erickson
+Principal Lead Writer
+BioWare Austin
+------------------------------
+
+BIOWARE dialog submission
+
+guideline: http://www.bioware.com/bioware_info/jobs/positions/austin_writer.html
+Here are the guidelines for the module:
+
+    * Make the module short. It should be a short, interesting story that can be played within 15 to 30 minutes.
+    * Start the story off with a bang! If it doesn't catch our interest with the first character, your submission will likely be discarded.
+    * There should be at least 3000 words of dialogue within the module.
+    * We will be judging your ability to write dialogue that is interesting and has personality. The characters you are writing have to be engaging in a manner that immediately draws in the reader.
+    * The dialogue must be fun and easy to read, not overly verbose.
+    * We will also be judging the structure of your dialogue. Does the dialogue flow logically? Does the player feel in control of the conversation?
+    * Avoid creating an entire adventure module with combat, puzzles, and so on. Focus your efforts on dialogue.
+    * Remember, this module is not being judged on scripting. A simple set of characters with dialogue that can be played in-game is something anyone with basic computer skills can figure out how to set up in under an hour.
+
+Examples of the style of game dialogue that we are looking for: Baldur's Gate 2, Planescape Torment, Neverwinter Nights.
+Common writing submission mistakes:
+
+   1. Overly verbose dialogue. Dialogue should be succinct and easy to read.
+   2. Dialogue where the player has very little interaction. The player should feel that he is talking to an NPC, not being talked at.
+   3. Modern sounding dialogue. Do not use modern anachronisms or slang. Fantasy characters shouldn't sound like they come from the 21st century.
+   4. Boring first character. The first character the player talks to sets the tone for the entire module.
+
+
+Ideas:
+Welcome to the Dreaming Lands
+
+What brings you to my fire this night?
+
+That's the one. I saw him/her near the fire.
+
+comics
+clancats    20031107b.jpg
+
+Zune - songs to kill off
+
+
+comics to screen-cap
+look at orgymania.net
+
+
+maps to consider mofifying/using
+0430 Drakosa Estate
+
+
+anime - search for on youtube: Denno Coil
+
+
+mod - templates to have spaces between paragraph codes
+
+
+need to figure out vampyrites, effects, operation, and drives
+how does alt. London play out in the RotH 'verse? 
+    is there an echo of the zeltropian base in this iteration of the earth realm
+        does it play into the timeline in any way
+    this realm has functioning world gates and links to Centrys through them
+    Mina and Sergei
+        do they retain controller interests in ITC throughout history?
+        learned of binary computational tech from Irena and the Hut
+            used this to expand ICM/CSI offerings
+            began offering "managed solutions"
+                renting time on vast machines
+                contract computation for involved projects
+                upgrade and repair agreements with those choosing to buy their own systems
+        or does Sergei ask Mina to end him
+        is Mina the reincarnation of Elizabeta
+        Mina and Lucy know of the world gates through Lucy's father
+        they will let the engineer go in exchange for it teaching them as much as possible before leaving
+    Lucy and Borusa - what happens with Borusa and device and between the two of them
+        would Mina nd Sergei turn one or both of them to help with the company continuity
+        Borusa is another with knowledge of extreme tech
+            would be another resource for ITC
+    rights of women and evolution of social structures based on power blocks of nascent mega-corps
+    Angelique
+        gifts Sergei and Mina with items that somewhat stabilize the vampyrites
+            if go that direction
+    Irena
+        gifts Mina with a Summoning Crystal
+            allows continued input from Hut crew
+            explains how additional stabilizers could be obtained if Mina and Sergei turn Lucy and Borusa
+
+    evolution into Mega-Corp and Cyber world of the Chatsubo
+        ITC
+            does ITC remain a viable player through this period
+            goes on to figure in the space flight era
+        brief of how other mega-corps come into the mix - ITC cannot remain only one
+
+
+
+DAHLIAS: http://www.thegardenhelper.com/dahlia.html
+Digging, Dividing and Storing Dahlia Tubers
+Some gardeners choose to leave their Dahlia tubers in the ground over the winter. In certain regions, this can be very risky but if you have decided to follow this path, make sure that your Dahlias are growing in very well drained soil and apply a minimum of 6"-12" inches of mulch to the planting area before the ground freezes.
+The best plan is to dig the tubers and store them in a cool, dry place for the winter.
+Prior to digging, your Dahlias will need about a week to produce new sprouts on the tuber. The production of these new eyes can be stimulated by cutting the stem back to a 6" stub, or will occur naturally when the majority of the plant has died back due to frost.The tubers will be easiest to divide if they are harvested after this one week period.
+Using a garden fork to prevent damage, dig a circle about 12 inches around the plant stub, and lift the clump carefully out of the ground. (Be careful not to damage the tender new sprouts) Use a gentle spray from your hose to clean and remove the remaining soil from the clump. Allow the clump to dry for a day in a cool dry place. You are now ready to divide the clump, then store the individual tubers or store the clump and do your dividing in the spring.
+To produce a new plant, each tuber must have an eye (the new growth bud) which appears at the point where the tuber connects to the main stalk. (Each tuber on the clump will not necessarily have an eye.) Using a sharp clean knife carefully separate tubers. Discard any damaged tubers and any that don't contain an eye. Place the tubers in a bed of sawdust or vermiculite, inside a cardboard or wooden box.
+Store them in a dry area where the temperature will remain at about 40 degrees F.
+Check your tubers periodically during the winter for signs of shriveling (moisten the storage medium), or mildew (treat with a dry fungicide such as Captan) 
+
+
+CAMPAIGN - GM Data - campaign_notes.htm file
+
+remove hut_odbc_inc.nws - hut_odbc_inc.nss is the current version
+remove hut_utils.nws - hut_utils.nss is the current version
+
+create west and east port sections of Miskaton for feeding the areas on the land. add griphon hill house as Stephanos base, add tegel as haunted place
+could be a north port, where the shadow storm and the feeders have set up operations. norht port is mostly swamp and has been superceded by ports on the two rivers north of the swamps
+
+
+
+also - remember the Karanal computer systems and the Well/Gate
+
+http://talesofmu.nfshost.com/story/book03/76
+http://talesofmu.nfshost.com/story/book03/81
+http://talesofmu.nfshost.com/story/book03/82
+
+check out free MMO mythos.com
+
+sartorifoods.com - cheese from mom with salt crystals and excellent nutty flavor, slightly crumbly texture
+
+For Literotica - maybe
+
+    main character
+        Ashley Adners
+            she goes by Ash, thinking Ashley is much too valley girl
+            was student worker, now permanent employee
+            is sex neutral to positive
+            is bi
+            hasn't had an encounter with a man before other than one with a friend in college
+                she and friend tried oral and anal play, no intercourse
+                could use as a "flashback" story
+
+    use concept of support services for a research group
+        base this off electronics shop and machine shop of GI in Fairbanks, but functioning as a "unified" group
+        modify characters, but use arch-types of the crew
+
+    main character starts as a permanent employee after being a student hire for a while
+
+    use trip up river for fish monitor for lesbian encounter with biologist
+
+    use a near miss helicopter story for the kali/petrov style relationship
+
+    consider an encounter with Hal of the SAR group
+
+    she rents a small cabin from Sheryl, who lives in a slightly larger cabin in back
+        she may end up with Sheryl at the end of the stories
+        first time they have sex is after drinking and watching movies
+
+http://elle.comicgenesis.com/d/20061227.html
+
+Look at Chapel of Silences and consider a modified version of Sisterquest as part of something - also check scans to see what I have of Isengard and find data on Star Powered mages in case that would be of use.
+
+Add DragonMag PDFs to local drive of laptop.
+
+Irena will sometimes just go to the Core and sit, feeling the throbbing power of the systems around her. Her two mosts common forms of relaxation are either the Core room or up on the mountainside near Shandi's caves.
+
+Dragon Magazine Index - use for items in DMG PDF compendium
+http://www.aeolia.net/dragondex/
+
+Consider re-visiting the Ship of Ishtar concept, have etext of book, and some lovecraft as well...for Ship of Ishtar make the two contenders of the ship the Creator and the Destructor, vying to get a proxy to free them
+
+for Kaltereth's tower key - split the key into several pieces and give Goraze the initializer piece, the center piece with the primary geas on it
+
+create scatter spell - takes a group of objects and scatters them to the winds, it creates an initializer object containing a low level geas that leads to the scattered items and embeds a trigger into the initializer. until the trigger is tripped, the item has no majikal aura at all.
+
+there is an even higher level version of this spell that will take a single item, render it down into a variety of parts, and scatter those
+
+treacle mining - look up on wikipedia - it could be amusing to use somewhere
+
+
+
+Bill - new questions:
+
+- Ask after any evidence of Tolaz involvement in the more shadowy networks of under-the-table commerce. Tolaz's people were very overt in Azkelon - even when dealing with the poor people under the city. Obvious orange-and-black armor with spider motifs; obvious loitering guys not really troubling to pretend they had something real to do. That sort of thing. However, that doesn't necessarily mean that there aren't some agents, more effectively covert, operating, especially in Miskaton. Here Tolaz is not, after all, a nobleman; nor has the nobility in general as strong a political influence as they do in Azkelon.
+
+- Ask family and other contacts to trace the weapon-and-drug shipments that are coming into the "Libertarian" warehouse (sorry to invoke the dumb joke, but I don't think that warehouse has a real name or handle - or if it does, I've forgotten it). The weapons should be easier to find out about: drugs are easier to conceal than swords, hatchets, pikes etc. Still, the drug trade tends to have its own liabilities - in particular, established dealers are *very* observant of anyone trying to cut in on their turf. And I think it's reasonable that Pag's contacts would include at least some middlemen for illicit drug shipments? Such folks would provide a possible line onto some street wholesalers, or possibly even dealers.
+
+- Any further info on the green-and-black liveried folks.
+
+I think that should do it. Info on the murdered man is something she already tried to find out, and I think that may be as much as she could get - although anything else would be welcome.
+
+46.00 cash card - gas
+
+Ian Rankin mysteries - particularly - Rebus
+    knots and crosses
+    hide & seek
+    tooth & nail
+    good hanging and other stories
+    strip jack
+    black book
+    mortal causes
+    let it bleed
+    black & blue
+    hanging garden
+    death is not the end (novella)
+    dead souls
+    set in darkness
+    the falls
+    resurrection men
+    question of blood
+    
+    fleshmarket alley
+    
+    others
+        witch hunt
+
+
+online storage reviews - http://online-storage-service-review.toptenreviews.com/
+
+use p4 info to get current info
+try running the checkpoint call with the flags to not update the journal files and see what it does
+check p4 server logs for errors or interesting data points
+verify checkout from command line to see what, if anything, it can tell me
+
+look at batch file checkouts for PodThang, to quickly reset standard dev conditions
+
+more cards for bill's eromancer stuff
+    pregnancy
+        Entity
+            pregnant woman playing with herself, milking a breast and playing with her cunt
+        Tableau
+            two pregnant women in lesbian encounter
+        Tableau
+            pregnant woman and man, she is buggeing him with a clit stimulating strap-on while hands manipulate her breasts and smear the milk into her skin
+    auto-asphixia
+        death aspect of as well
+

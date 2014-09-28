@@ -1,0 +1,125 @@
+Goals:
+
+   Create a MORG style game around the currently existing gaming world. In this world Player Character actions will alter the course of events for future Player Characters and for the overall gamne story line. This will be a strategy, tactics, and discovery game rather than an FPS.
+
+   Allow for GM style characters to interact to provide information, hints, and missions. These should be able to function as server side NPCs or GM(admin) Avatars.
+   
+   Support First Person and Third Person camera angles for Player Avatars.
+   
+   Shoot for:
+      Simple UI/lower learning curve
+      
+      Avatar skills so I don't have to be a joystick wiz to enjoy the game, also so I can get a little "help" with some of the puzzles without having to find the "cheats"
+      
+      Freeform with a few constraints, story line(s) available
+      
+      Puzzle/story based game - there can be some combat as needed, however it shouldn't be the driving aspect of the game
+
+   Allow two styles of combat system.
+      Style one: allow hands on management for those that enjoy the mechanics of combat
+      Style two: system will complete combat with reasonable results for Players that aren't interested in managing combat.
+      
+         thoughts from Sean:
+            Interesting idea.  I've seen two main variations of each style:
+            
+            1) Hands-On
+                A) Real-time - Battles happen in real time.
+                   If you sit on your doofus, you will be killed quickly.  This can mean using mouse/keyboard to wield your weapon ala swing short-range weapon or aim and fire projectile weapon (Prince of Persia, Ultima 8-10 for PC, Zelda for Nintendo, etc.).
+                
+                   Alternately, this can mean selecting an option from a menu - select Attack, pick target, computer attacks on your behalf (Final Fantasy 10 pt 2 for Playstation 2). 
+                
+                   Typically this technique utilizes speed/movement-related stats (ala AD&D) under the hood to determine when players and enemies can attack.
+            
+               B) Turn Based - Battles do not happen in real time.
+                  If you leave the computer, nothing happens.  Generally these fall into two categories.
+                  
+                  The first is similar to 1A, where each PC/NPC gets a turn (or more than one, based on speed).  Once it's your turn, you get a menu and nothing happens until you select an action.  The second is more typical for board-style strategy games, where everybody picks an action and then the entire game state is updated in one fell swoop.  Final Fantasy 1-10 all employ the first technique.
+            
+            2) Hands-Off
+               A) Watch Combat - You set reasonable actions for each of the PCs in your party (attack, attack strongest, attack weakest, defend, use range weapon, etc.). Once you stumble into an encounter, you just watch the battle play out.
+            
+               B) Just View Results - Same as 2A, but you don't have to watch the battle play out... You just see what happened in the end.
+            
+            In a MORPG, things most likely need to be real-time, since you have
+            different people who all need to interact together.  Let's say Pete and I are campaigning together.  Pete wants to fight the battles and I just want
+            to see the results.... that's a problem.  However, that's not to say that you couldn't use a technique like 2A to solve this.  I could tell my
+            character to find the closest and most powerful enemy, attack it until it dies and then go on to the next enemy.  Better still if I could tell my character to pursue this course of action unless my health drops below some point, at which time I want to retreat (or cast a healing spell or blah blah).
+
+   Emphasis on story and adventure over "Leveling Up" at all times. Whatever level/experience/progress system we decide on should be informative to the user but not the end-all-be-all of the game. The overall story and missions should drive Character involvement.
+
+   Design a clean, easy to use, interface for the user. Try to minimize bloat on screen real estate at most times.
+   
+   Should have some type of journaling system for both Players and parties that they can use if they want. Maybe a basic system that keeps track of what they have done. Then an additional manual system for those that want to add more detail.
+
+Wish List:
+   Support multi-monitor systems, allowing status and data screens to be moved off the main screen if desired. Particularly things like inventory, character sheet style data, and other informative but not critical to survival items.
+
+Missions:
+   I am using missions as the catch phrase for things to do and goals to pursue. This can be as simple as buying another/better weapon in the market place, to solving the riddle of Aztol.
+
+   Missions will come in many shapes and sizes. Ideally there will be enough variety that most Players will find something to be interested in.
+
+   Here are additional thoughts in no particular order. All of this can be expanded as we go.
+
+Current Starting Point:
+   Start the Player(s) in an echo of the Hut. There first goal will be to figure out what they are in and where they are. Some world data will be available at the start in the library.
+
+Hut Concepts: (this is a rough sketch - subject to much modification)
+   There is a Master Hut where Valen and her crew are trapped. When the adventures open the Player(s) spawn into an echo of the Master Hut. As the story progresses they should work toward fixing there echo. Once an echo is fixed then Valen and company are released from their trap.
+   
+   This situation could be hinted at by having a frozen, ghostly echo, of Valen and Margla locked together in the Control Room. Standing over them would be the shadow of She Who Must Not Be Named. Swirling around them would be the Consumer Demon.
+
+   At this point the crew that actually fixed their device may be invited for a visit. This could be used for a point at some interesting missions to pursue.
+
+   The Hut is disguised as a hovel in the poor quarter of the Machine Ruins. The thought was to introduce them to the main world where many of the missions will point. Once they get the Hut back online the first mis-jump should take them to London. This would be a good way to demonstrate some of the power of the Hut.
+   
+   Keep the Hut non-op until the semi-long term goal of repairing it is finished. At that time the players can only load Nav-Sys data for the current world by sending crew member(s) to the target location and jumping the Hut there. For each person linked with a Sharing Crystal the chances of this being completely successful increase. Only NPCs can load off-world Nav-Sys locations for various missions.
+   
+   from Pete:
+      Yeah...the hut is sort of a bootstrapped transportation system...i.e. you need to know where you want to go in order to get there, vs a car or an airplane in which you can just point in one direction and discover a completely new place eventually.  That isn't to say that there aren't individuals (NPC's) who have figured out how to create new jump points by magical or technical means.  I think that's a good model to follow as it does allow new world creation at a later time.
+
+Unresolved issues with the echo idea:
+   How do we allow Players to form into teams if each one spawns in their own Hut?
+      one thought would be to have a Hut owner be able to invite others into his Hut
+   Do we unlock all Huts when one is fixed or have each Hut require seperate repair?
+   If Players form a Hut crew will there be serious issues over the fact only one of them has the Hut Control Key?
+
+Multi-Player Hut Crews
+   There would be a few advantages to this. The first is true of all MORGs, the ability to combine skills to increase chances of success. The second is the first way a Hut can add new locations to its Nav System is for someone to take a Hut Summoning Gem to the target location and then call the Hut there. This would have a better chance of working if the Hut Controller were in the Hut and another crew member was at the Target Zone.
+
+Library:
+   Player information can be deposited and discovered here. One thought would be a schema for releasing new data based on what the Player(s) have done into the library.
+
+Librarian:
+   Base her on a Naga of Sanskrit legend (snake body, human torso and head). She is one of our links to the Players and could be used to feed them additional data.
+   
+Hut Sharing Gems: (based on Pete's thoughts)
+   There would be an equal number of these to number of Player(s) in each Hut. These items would allow the various crew to communicate with each other, share images with each other, drop Way Point markers for resuming a particular mission, and allow adding a Nav-Sys location to the Hut. The more people at the same spot using the Sharing Crystals to lead the Hut, the better chance for a successful jump and location import
+   
+Technical:
+   Current Engine: Torque - inexpensive for non-commercial use, seems reasonably complete, and should allow us to get going more quickly.
+
+
+Pyhton and Torque
+http://www.garagegames.com/index.php?sec=mg&mod=resource&page=view&qid=3345
+
+Conversations:
+extensible
+open ended
+MORG planning from the beginning
+some missions alter the world permanently
+some are repeatable but not by the same party
+central server model
+skill improvement in small increments rather than level jumps
+following RQ training model to slow down the advancement
+offline can do training and healing run in background
+cannot mess with offline players - return to hut then go back to mission waypoint
+in case of disconnect - have a fe minutes to reconnect before being returned to hut
+what happens if AFK - place in AFK for an interval, then dump after a second interval if no activity - while in AFK attacks won't work
+campers to kill respawned characters - can do it twice then hut will kill camper before occupant(s) emerge
+group compleats mission - how are rewards handled?
+balance of missions between combat and story, ways for non-combat oriented players to have fun
+trade, barter, smuggling, piracy
+persistence of dropped items - depends on where dropped, if in a busy section will be picked up rather quickly, if in private section, remains
+
+

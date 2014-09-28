@@ -1,0 +1,10 @@
+Data Screen text:
+Interface System off-line
+Control system damage
+Autorepair
+    Running
+        .........
+    Halted
+        FAILED
+
+See diagnostic station in Room 0 for detailed report.

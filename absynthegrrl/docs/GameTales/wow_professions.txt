@@ -1,0 +1,40 @@
+WoW Professions List - Farstriders - Horde
+
+Alchemy
+    Shaunyalla
+
+Blacksmithing
+    Kazbyrttok
+    Svetyala
+
+Enchanting
+    Teschyan (+10 racial advantage)
+
+Engineering
+    Kazbyrttok
+
+Herbalism
+    Irislaynya
+    Shaunyalla
+    Svetyala (+15 racial advantage)
+
+Inscription
+    Irislaynya
+
+Jewelcrafting
+    Arascheya
+
+Leatherworking
+    Zroteyla
+
+Mining
+    Arascheya
+    Svetyala
+    Tazeyla
+
+Tailoring
+    Teschyan
+
+Skinning
+    Tazeyla
+    Zroteyla

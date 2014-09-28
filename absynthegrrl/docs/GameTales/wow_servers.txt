@@ -1,0 +1,239 @@
+Role Play - PvE
+    Argent Dawn         (RP) 
+    Blackwater Raiders  (RP)    
+    Cenarion Circle     (RP)    
+    Earthen Ring        (RP)    
+    Farstriders         (RP)    
+    Feathermoon         (RP)    
+    Kirin Tor           (RP)    
+    Moon Guard          (RP)    
+    Scarlet Crusade     (RP)    
+    Sentinels           (RP)    
+    Shadow Council      (RP)    
+    Silver Hand         (RP)    
+    Sisters of Elune    (RP)    
+    Steamwheedle Cartel (RP)    
+    The Scryers         (RP)    
+    Thorium Brotherhood (RP)    
+    
+Normal - PvE
+    Aerie Peak          Normal  
+    Aggramar            Normal  
+    Alexstrasza         Normal  
+    Alleria             Normal  
+    Aman'Thul           Normal  
+    Antonidas           Normal  
+    Anvilmar            Normal  
+    Arathor             Normal  
+    Area 52             Normal  
+    Arygos              Normal  
+    Azjol-Nerub         Normal  
+    Azuremyst           Normal  
+    Baelgun             Normal  
+    Blackhand           Normal  
+    Blade's Edge        Normal  
+    Bladefist           Normal  
+    Bloodhoof           Normal  
+    Bronzebeard         Normal  
+    Caelestrasz         Normal  
+    Cairne              Normal  
+    Cenarius            Normal  
+    Dalaran             Normal  
+    Dath'Remar          Normal  
+    Doomhammer          Normal  
+    Draenor             Normal  
+    Dragonblight        Normal  
+    Draka               Normal  
+    Drenden             Normal  
+    Durotan             Normal  
+    Duskwood            Normal  
+    Echo Isles          Normal  
+    Eitrigg             Normal  
+    Eldre'Thalas        Normal  
+    Elune               Normal  
+    Eonar               Normal  
+    Exodar              Normal  
+    Fenris              Normal  
+    Fizzcrank           Normal  
+    Garona              Normal  
+    Ghostlands          Normal  
+    Gilneas             Normal  
+    Gnomeregan          Normal  
+    Greymane            Normal  
+    Hellscream          Normal  
+    Hydraxis            Normal  
+    Hyjal               Normal  
+    Icecrown            Normal  
+    Kael'thas           Normal  
+    Kargath             Normal  
+    Khadgar             Normal  
+    Khaz Modan          Normal  
+    Khaz'goroth         Normal  
+    Kilrogg             Normal  
+    Korialstrasz        Normal  
+    Kul Tiras           Normal  
+    Lightbringer        Normal  
+    Llane               Normal  
+    Lothar              Normal  
+    Madoran             Normal  
+    Malfurion           Normal  
+    Malygos             Normal  
+    Medivh              Normal  
+    Misha               Normal  
+    Mok'Nathal          Normal  
+    Moonrunner          Normal  
+    Muradin             Normal  
+    Nagrand             Normal  
+    Nazgrel             Normal  
+    Nordrassil          Normal  
+    Norgannon           Normal  
+    Perenolde           Normal  
+    Proudmoore          Normal  
+    Quel'dorei          Normal  
+    Quel'Thalas         Normal  
+    Ravencrest          Normal  
+    Rexxar              Normal  
+    Runetotem           Normal  
+    Sen'Jin             Normal  
+    Shadowsong          Normal  
+    Shandris            Normal  
+    Shu'halo            Normal  
+    Silvermoon          Normal  
+    Skywall             Normal  
+    Staghelm            Normal  
+    Stormrage           Normal  
+    Suramar             Normal  
+    Tanaris             Normal  
+    Terenas             Normal  
+    Terokkar            Normal  
+    Thrall              Normal  
+    Thunderhorn         Normal  
+    Trollbane           Normal  
+    Turalyon            Normal  
+    Uldaman             Normal  
+    Uldum               Normal  
+    Undermine           Normal  
+    Uther               Normal  
+    Vek'nilash          Normal  
+    Velen               Normal  
+    Whisperwind         Normal  
+    Windrunner          Normal  
+    Ysera               Normal  
+    Zangarmarsh         Normal  
+    Zul'jin             Normal  
+
+PvP
+    Aegwynn             (PvP)   
+    Agamaggan           (PvP)   
+    Akama               (PvP)   
+    Altar of Storms     (PvP)   
+    Alterac Mountains   (PvP)   
+    Andorhal            (PvP)   
+    Anetheron           (PvP)   
+    Anub'arak           (PvP)   
+    Archimonde          (PvP)   
+    Arthas              (PvP)   
+    Auchindoun          (PvP)   
+    Azgalor             (PvP)   
+    Azshara             (PvP)   
+    Balnazzar           (PvP)   
+    Barthilas           (PvP)   
+    Black Dragonflight  (PvP)   
+    Blackrock           (PvP)   
+    Blackwing Lair      (PvP)   
+    Bleeding Hollow     (PvP)   
+    Blood Furnace       (PvP)   
+    Bloodscalp          (PvP)   
+    Bonechewer          (PvP)   
+    Boulderfist         (PvP)   
+    Burning Blade       (PvP)   
+    Burning Legion      (PvP)   
+    Cho'gall            (PvP)   
+    Chromaggus          (PvP)   
+    Coilfang            (PvP)   
+    Crushridge          (PvP)   
+    Daggerspine         (PvP)   
+    Dalvengyr           (PvP)   
+    Dark Iron           (PvP)   
+    Darkspear           (PvP)   
+    Darrowmere          (PvP)   
+    Deathwing           (PvP)   
+    Demon Soul          (PvP)   
+    Dentarg             (PvP)   
+    Destromath          (PvP)   
+    Dethecus            (PvP)   
+    Detheroc            (PvP)   
+    Dragonmaw           (PvP)   
+    Drak'thul           (PvP)   
+    Drakkari            (PvP)   
+    Dreadmaul           (PvP)   
+    Dunemaul            (PvP)   
+    Eredar              (PvP)   
+    Executus            (PvP)   
+    Firetree            (PvP)   
+    Frostmane           (PvP)   
+    Frostmourne         (PvP)   
+    Frostwolf           (PvP)   
+    Garithos            (PvP)   
+    Gorefiend           (PvP)   
+    Gorgonnash          (PvP)   
+    Gul'dan             (PvP)   
+    Gurubashi           (PvP)   
+    Hakkar              (PvP)   
+    Haomarush           (PvP)   
+    Illidan             (PvP)   
+    Jaedenar            (PvP)   
+    Jubei'Thos          (PvP)   
+    Kel'Thuzad          (PvP)   
+    Kil'Jaeden          (PvP)   
+    Korgath             (PvP)   
+    Laughing Skull      (PvP)   
+    Lethon              (PvP)   
+    Lightning's Blade   (PvP)   
+    Magtheridon         (PvP)   
+    Maiev               (PvP)   
+    Mal'Ganis           (PvP)   
+    Malorne             (PvP)   
+    Mannoroth           (PvP)   
+    Mug'thol            (PvP)   
+    Nathrezim           (PvP)   
+    Nazjatar            (PvP)   
+    Ner'zhul            (PvP)   
+    Onyxia              (PvP)   
+    Ragnaros            (PvP)   
+    Rivendare           (PvP)   
+    Sargeras            (PvP)   
+    Scilla              (PvP)   
+    Shadowmoon          (PvP)   
+    Shattered Halls     (PvP)   
+    Shattered Hand      (PvP)   
+    Skullcrusher        (PvP)   
+    Smolderthorn        (PvP)   
+    Spinebreaker        (PvP)   
+    Spirestone          (PvP)   
+    Stonemaul           (PvP)   
+    Stormreaver         (PvP)   
+    Stormscale          (PvP)   
+    Thaurissan          (PvP)   
+    The Forgotten Coast (PvP)   
+    The Underbog        (PvP)   
+    Thunderlord         (PvP)   
+    Tichondrius         (PvP)   
+    Tortheldrin         (PvP)   
+    Ursin               (PvP)   
+    Vashj               (PvP)   
+    Warsong             (PvP)   
+    WildHammer          (PvP)   
+    Ysondre             (PvP)   
+    Zuluhed             (PvP)
+
+Role Play - PvP
+    Emerald Dream       (RPPvP) 
+    Lightninghoof       (RPPvP) 
+    Maelstrom           (RPPvP) 
+    Ravenholdt          (RPPvP) 
+    The Venture Co      (RPPvP) 
+    Twisting Nether     (RPPvP) 
+
+Other
+    Arena Tournament 1      

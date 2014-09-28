@@ -1,0 +1,126 @@
+@media screen
+{
+
+#tooltip TD {FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: tahoma, verdana}
+.myPurple {FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #a335ee}
+.myBlue {FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #0070dd}
+.myGray {FONT-SIZE: 9pt; COLOR: #c9c9c9}
+.myGreen {FONT-SIZE: 9pt; COLOR: #00ff00}
+.myYellow {	FONT-SIZE: 9pt; COLOR: #ffd517}
+.myRed {FONT-SIZE: 9pt; COLOR: #d80000}
+.myTable {FONT-SIZE: 9pt; COLOR: #ffffff}
+
+#dhtmltooltip{
+position: absolute;
+width: 150px;
+border: 1px solid gray;
+padding: 4px;
+background-color: black;
+visibility: hidden;
+z-index: 100;
+WHITE-SPACE: nowrap;
+}
+
+A{ COLOR: #FFBA00; TEXT-DECORATION: none;}
+A:hover {COLOR: #FF0000; TEXT-DECORATION: underline}
+img {border:0px}
+body {  margin: 0px; padding: 0px; font-family: Tahoma, Arial; font-size: 8pt; background-color:#000000;color:#FFFFFF;SCROLLBAR-FACE-COLOR:#800707;SCROLLBAR-HIGHLIGHT-COLOR:#931717;SCROLLBAR-SHADOW-COLOR:#000000;SCROLLBAR-ARROW-COLOR:#ffffff;SCROLLBAR-TRACK-COLOR:#000000;SCROLLBAR-BASE-COLOR:#931717;scrollbar-3d-light-color:#931717;scrollbar-dark-shadow-color:#000000;}
+table {font-family: Trebuchet MS,Tahona, Arial; font-size: 10pt;}
+.titlebar {background-color: #000000; width: 100%; text-align: center; height: 115px; background-image: url(../gfx/top_image.jpg); background-repeat: repeat-x;margin-top:5px;}
+.f1st { height:430px; background-image: url(../gfx/wow_1st_back.jpg); background-repeat: no-repeat}
+.titlebar2 { margin:0;width: 100%; height: 5px; background-image: url(../gfx/top_image2.jpg); background-repeat: repeat-x;background-color:#232323}
+.backr{padding:15px}
+hr {height:1px;border:0px;color:#454545;margin-top:5px;margin-bottom:5px}
+.searchb{height:14pt;background-color:#FFC000;border:#C0C0C0 0px solid;font-weight: bold;}
+.searchb1{font-size:17pt;background-color:#FFC000;border:#C0C0C0 0px solid;font-weight: bold;}
+
+.tit0 {font-family:Trebuchet MS, Tahoma,Arial;font-size:21pt;color:#FF0000;font-weight: bold;}
+.tit1 {font-family:Trebuchet MS, Tahoma,Arial;font-size:14pt;color:#FFBA00;font-weight: bold;}
+.tit2 {font-family:Trebuchet MS, Tahoma,Arial;color:#C0C0C0;font-size:12pt;font-weight: bold;}
+
+.qm {color:#8EE0EF}
+.qt {background-color:#031519;border-collapse: collapse}
+.qt1{background-color:#134144}
+.qt2{background-color:#133739}
+
+.nm {color:#DFDC9E}
+.nt {background-color:#031519;border-collapse: collapse}
+.nt1{background-color:#464419}
+.nt2{background-color:#393713}
+
+.im {color:#92DC90}
+.it {background-color:#031519;border-collapse: collapse}
+.it1{background-color:#1C4C1B}
+.it2{background-color:#163F15}
+
+.sem {color:#EF8E8E}
+.set {background-color:#190303;border-collapse: collapse}
+.set1{background-color:#441313}
+.set2{background-color:#391313}
+
+.mom {color:#E87AED}
+.mot {background-color:#150715;border-collapse: collapse}
+.mot1{background-color:#3F1641}
+.mot2{background-color:#371339}
+
+.szm {color:#D8D8D8}
+.szt {background-color:#191919;border-collapse: collapse}
+.szt1{background-color:#424242}
+.szt2{background-color:#343434}
+
+.om {color:#EF8E8E}
+.ot {background-color:#190303;border-collapse: collapse}
+.ot1{background-color:#441313}
+.ot2{background-color:#391313}
+
+.lm {color:#9E8DF0}
+.lt {background-color:#060319;border-collapse: collapse}
+.lt1{background-color:#1B1345}
+.lt2{background-color:#181238}
+
+.switch {color:#000000;background-color:#FFC600;padding: 5px;text-decoration:none}
+.switch:hover {color:#FFBA00;background-color:#000000;text-decoration:none}
+.plaque {background-color:#000000}
+.seemore {font-family:Tahoma;font-size:8pt;font-weight: bold;color:#777777}
+.l11 {line-height:12pt;font-size:9pt}
+.level{color:#868686;font-size:8pt;font-family:Tahoma}
+
+.horde{color:#FF0000}
+.alliance{color:#1ED700}
+.contested{color:#FF9000}
+
+.QL0{color:#7F7F7F}
+.QL1{color:#FFFFFF}
+.QL2{color:#01DE01}
+.QL3{color:#0A67E7}
+.QL4{color:#CA57FF}
+.QL5{color:#FF5757}
+
+.yellow {color:#FFBA00 }
+.red {color:#FF0000}
+
+.fostyle {padding:0px;margin:0px;spacing:0px}
+
+.men {padding:2px;width:100;text-decoration:none;font-size:7pt;font-family:tahoma;text-align:center;border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.m0 {width: 10px;height:8px;margin-right:6px;background-color:#DFA417}
+.m2 {width: 10px;height:8px;margin-right:6px;background-color:#008703}
+.m4 {width: 10px;height:8px;margin-right:6px;background-color:#AD0000}
+.horde:hover,.alliance:hover,.contested:hover,.m2:hover {background-color:#FFAE00;color:#000000; border-color: #FFAE00 #FFAE00 #FFAE00 #FFAE00;}
+
+#menubar {position:relative;background-color:#000000;padding:3px;}
+#menubar a {color:#FFFFFF;background-color:#680008;border-color: #C30B0B #7A0000 #7A0000 #C30B0B;background-image: url(../gfx/interface/menu_button.gif);background-repeat: repeat-x;border-style: solid;border-width: 1px 1px 1px 1px;text-decoration:none;padding:3px;padding-left:4px;padding-right:4px;font-weight: bold;text-align: center;}
+#menubar a:hover {background-image:none;color:#000000;background-color:#FFB400;border-color: #E5A200 #E5A200 #E5A200 #E5A200;text-decoration:none;}
+#menubar a.active { }
+.menu .options {padding:4px;margin-right:1px;margin-bottom:1px;border:1px solid #000000;background-color:#E6DDB2;}
+.menu a {color:#0A0A0A;display:block;padding:1px 4px;text-decoration:none;background-color:transparent;}
+.menu a:hover {	color:#FFFFFF;background-color:#695628;}
+#about {position:relative;left:5px;top:200px;}
+
+.switchcontent{display:none;}
+  }
+
+
+@media print {
+body {  margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-family: Arial; font-size: 8pt; background-color: #FFFFFF}
+.noprint{display:none}
+  }

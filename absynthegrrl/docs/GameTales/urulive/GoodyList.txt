@@ -1,0 +1,1046 @@
+*****************************************************************************************
+start - LIVE SERVER BASED LIST
+*****************************************************************************************
+Latest Additions
+October Sparkly - Phils' Relto !
+
+
+
+Feather Collection
+Note: You must do these in order.
+Procedure: Type “/get feather” to pick them up and type “look/in pocket” to confirm your collection
+Age....................Number........Color
+Eder Gira .................7..............Plain
+Eder Delin ...............1...............Red
+Dereno.....................1...............Blue
+Payiferin...................1...............Black
+Er’cana.....................1...............Silver
+Jalak........................1...............Duck
+
+For fun: type “/get object” and see the result
+
+Sparklies
+Passing through these will generate an altar with a flame on the large Relto Island you get from the fire pit in Cleft. A new one is available each month as the previous one disappears.
+Date.............Age..................Location
+Jan 2007......Gahreesen........The Maintainer's Building; in an alcove in the outer ring.
+Feb 2007......Kadish..............On top of the third pillar
+Mar 2007......Eder Gira..........In the lower pool
+Apr 2007......Gahreesen.........In the Prisoner's cell
+May 2007.....Descent.............On a wall in the main room
+Jun 2007......Minkata.............In cave #2
+Jul 2007.......Er'cana..............Behind the broken train track support
+Aug 2007.....Jalak.................On top of pillar
+Sep 2007.....Teledahn...........Next to hidden niche
+Oct 2007......Phil's Relto.........On the dock
+
+Yeesha Pages (These add cool stuff to your Relto)
+Age................Page.....................Location
+Ae'gura............Sun and Moons........In the Museum, on a pedestal
+Bevin...............Islands...................On side of a window in the light garden (intermittently available)
+Cleft...............Rain.......................Imager in Yeesha’s workroom
+......................Pillars....................On a pedestal in the back of the tree-cave
+......................Birds......................By the Broken Riven Star Viewer in dry Cleft
+......................Bridge....................In a fire pit near Zandi’s trailor
+Descent............Music player...........On a sleeping/sitting ledge
+Eder Delin........Bench ....................On a bench of course! Near the linking book to Bevin.
+.......................Autumn Trees.........On the bench in the upper gazebo
+Eder Kemo......Hut Décor................On a cliff you must jump to via a puffer plant
+Eder Tsogal......Grass ....................On the side of rock opposite of the link-in area
+Er'cana.............Mushroom Plants .....In the alcove with the plants near the link-in spot
+.......................Firemarbles..............First pipe to the left; need to empty/disable the mixer and go in the back way
+Gahreesen.....Logs & Stones.........In a crevasse on the first floor; past the Nexus book
+......................Waterfall................On the bed in the prisoner’s cell
+...................................................(reached from Teledahn via a Bahro Stone hidden behind a crate
+....................................................on the lower floor of The War-Shroom)
+GZO.................Imager..................Under the stairs
+Kadish.............Growing Pine Tree...On a cliff you jump to just before the
+........................................................Pyramid
+.......................Butterflies...............On the upper walkway in the Empty Vault
+......................................................(reached via the Linking Book in the Full Vault)
+Negilahn...........Lush Relto..............On one of the upper decks
+Teledahn........Hut Roof..................On the floor near the fish tank crate in the Baron’s Bedroom
+......................Dock.......................Via the Bahro Stone in the Ferry Terminal tunnel (intermittently available)
+
+Clothing Items
+Age...............Item.........................Location
+Ae’gura...........First Month Shirt........First landing on the Great Stair (not currently available)
+Cleft...............Goggles...................In a bedroom alcove after you finish Cleft
+......................Zandi Shirt...............On the left awning rail of Zandi’s trailer in Rainy Cleft
+......................Yeesha Shirt.............Gift from Yeesha when you finish Cleft
+......................Hard Hat...................On several tables in the Takotah Rooftop
+Eder Gira.........Pith Helmet...............On the ground by the Journey Cloth in the last cave
+Er'cana............Backpack/vest/shirt...On the ground on the terrace above the pellet room
+Kadish.............Helmet.....................Empty Vault (not currently available)
+Kirel.................Guild T-shirts...........One for each of 5 official guilds
+Minkata............Hiking boots.............On the ground in the night version of cave #4
+Phil's Relto........DRC shirt................On the second bookshelf
+Relto Closet......Santa Hat.................Christmas 2006 (not currently available)
+.......................St. Patrick's Day hat...March 2007 (not currently available)
+.......................March Madness shirt...March 2007 (not currently available)
+Teledahn..........Tie Dye Shirt............On top of a crate in the upper War-Shroom
+
+Rotating Stone Disks in Relto (purpose unknown)
+Pieces....Symbol..............How to obtain the Pieces
+5............Hand...................Collect Bahro poles from Teledahn, Eder Gira, Eder Kemo, Gahreesen, and Kadish
+2............Spiral..................Solve the group puzzles in Eder Delin and Eder Tsogal
+4............Reverse Spiral......Enter the portals that regularly appear in Negilahn, Dereno, Payiferen, and Tetsonot
+1.............4 Dots & Bolt....... Complete Minkata’s cage/sky puzzle
+½............Shell....................Touch the seven Er'cana Shell cloths
+
+Other Cool Items
+Music player
+In the gallery that adds a new song to your Relto music player's playlist
+Soccer ball
+In Minkata - Out in the desert somewhere near hole #4, the southernmost hole. Traveler says it can be found 30 seconds running due south from cave #4. Just run into the southern sun, shadow vertical behind you.
+
+Great Zero Calibration Marker Locations
+Guild of Greeters GZMO locations
+http://www.guildofgreeters.com/index.php?option=com_content&task=view&id=91&Itemid=38
+
+UO Mission Marker locations
+http://www.uruobsession.com/?page=D%60ni%20-%20Rezeero%20CGZM%20Mission%20Guides
+
+Here is a beautiful set of maps showing marker locations.
+http://home.comcast.net/~mark_af/urumaps.html
+
+Basic Red and Green Marker Locations
+We have found 33 so far.
+
+Great Zero Locations (2):
+1 - GZO
+1 - GZ - under the stairs
+
+City Proper (19):
+1 - Ferry Terminal tunnel
+1 - Museum
+1 - Gallery
+1 - By the Museum
+1 - By the Great Curtain
+1 - On Stairs past the Hall of Kings
+1 - On walkway between the "bridge" and the Hall of Kings
+1 - On walkway between the "bridge" and the Library
+1 - Inside the Library
+1 - By barriers behind the Library
+1 - On the stairs between the Concert Hall and Takotah Alley
+1 - On the ledge over Takotah Alley Nexus Terminal
+1 - In Kahlo Pub rubble
+1 - In Kahlo Pub over a table
+1 - On the landing of the Great Stair near Kahlo Pub
+1 - At the bottom of the Great Stair
+1 - At end of Docks
+1 - In a crevasse across from Kadish Gallery
+1 - On the Rope Bridge
+
+City Links Book (5):
+1 - Baron's City Office
+1 - Palace Canyon Balcony (Curved)
+1 - Palace Rooftop (Rectangular)
+2 - Takotah Rooftop
+
+Bevin (7):
+1 - Outside the lecture hall
+1 - Light Garden
+1 - By waterfall
+1 - Classroom
+1 – Egg room
+1 - Classroom Rooftop (via page in Bevin Book)
+1 - Bevin Balcony (via page in Bevin Book)
+
+Links in Books
+City Links Book
+Link ................................................Location Found
+Kadish Gallery..................................Kadish: In the full vault
+Palace Canyon Balcony (Curved)........Kadish: By 2nd viewer
+Baron’s City Office.............................Teledahn: Baron's bedroom
+Sharper’s Spy Room..........................Teledahn: Secret Niche in Slave Shroom
+Palace Rooftop Balcony (Rectangular)..Gahreesen: On of the Wall Game observation rooms
+Tokotah Rooftop.................................Eder Gira: On a rock by the waterfall
+Great Zero Observation.......................Bevin: On a pedestal in the book room
+Great Tree in Ae'gura..........................Bevin: On a pedestal in the book room
+Descent.............................................Ae'gura: In Takotah Alley behind the rubble
+Bevin Lower Balcony/Rooftop...............Eder Kemo: Behind statue of the Watcher
+Bevin Upper Balcony...........................Gahressesn: In a locker in first room to the right of entry point
+
+Cleft Linking Book
+Link .............................Location Found
+Rainy Cleft ....................Cleft: A gift from Yeesha
+Dry Cleft........................Relto: In a pillar in the center of the island
+
+Gahreesen Linking Book
+Link ...............................Location Found
+Prisoner’s cell..................Teledahn: Behind a crate in the lower War Shroom
+
+Teledahn Linking Book
+Link ..................................Location Found
+Top of Mushroom...............Teledahn: On a window seat near the viewer in the Baron’s City Office
+Dock Page Walkway...........Ae’gura: On a rock in the Ferry Terminal Tunnel (intermittently available)
+
+Kadish Linking Book
+Link ...................................Location Found
+Empty Vault........................Kadish: On a crate in the Full Vault
+Top of Pyramid....................Ae’gura: On the ledge behind the Library (intermittently available)
+
+Bahro Stones
+Links To.....................................................Found In
+Ae’gura: Kadish Gallery..............................Kadish - Full Vault
+Ae’gura: Palace Canyon Balcony (Curved)...Kadish - by 2nd viewer
+Ae’gura: Baron’s City Office........................Teledahn – Baron's bedroom
+Ae’gura: Sharper’s Spy Room......................Teledahn – Secret Niche in Slave Shroom (not currently available)
+Ae’gura: Palace Rooftop Balcony (Rec.).........Gahreesen – on a chair in one of the Wall Game observation rooms
+Ae’gura: Tokotah Rooftop.............................Eder Gira – by the waterfall
+Ae’gura: Hood version...................................Bevin - in the bookroom
+Bevin: Lower Balcony/Roof Top.....................Eder Kemo – behind statue of the Watcher
+Bevin: Upper balcony...................................Gahressesn - locker in first room to the right
+Descent......................................................Ae'gura - Takotah Alley rubble
+Gahreesen: Prisoner’s cell.............................Teledahn - War Shroom
+Kadish: Empty Vault......................................Kadish Full Vault
+Kadish: Pyramid Top.....................................Ae'gura - On ledge behind the Library (intermittently available)
+Spy Room...................................................Teledahn - Hidden Niche
+Teledahn: Mushroom Top..............................Teledahn - Baron’s City Office
+Teledahn: Dock Page Walkway.......................Ae'gura - Ferry Terminal Tunnel (intermittently available)
+
+
+Linking Books Listed by the Age where it is found
+Age...............Book...................Location Found
+Ae’gura............Dereno..............On a pedestal in the Museum of Ae'gura
+.......................Er’cana..............On a pedestal in the Watcher’s Pub
+.......................Jalak.................On a pedestal in the Library
+.......................Minkata..............On a pedestal in the Library of Ae’gura
+.......................Negilhan.............On a pedestal in the Museum of Ae’gura
+.......................Payiferin.............On a pedestal in the Museum of Ae’gura
+.......................Tetsnot...............On a pedestal in the Museum of Ae’gura
+Bevin...............Eder Delin...........In the Bookroom (alternates with ET)
+.......................Eder Tsogal.........In the Bookroom (alternates with ED)
+.......................Gahreesen Lite....In the Bookroom
+........................GZO...................In the Bookroom
+Relto.................Bevin..................You begin with this on your bookshelf in Relto
+.........................Cleft...................Single Pillar in Relto
+.........................Eder Gira............ In one of the four Relto pillars you get after completing Cleft
+.........................Eder Kemo...........On a pedestal in Eder Gira – near the waterfall
+.........................Gahreesen............In one of the four Relto pillars you get after completing Cleft
+..........................Kadish.................In one of the four Relto pillars you get after completing Cleft
+..........................Teledahn..............In one of the four Relto pillars you get after completing Cleft
+Spy Room...........Phil's Relto...........On a pedestal
+
+Links to Ages
+Books in Relto Bookcase
+Age - How Obtained
+Bevin – You begin with this on your bookshelf in Relto
+Cleft – Single Pillar in Relto
+Dereno - On a pedestal in the Museum of Ae'gura
+Eder Gira – In one of the four Relto pillars you get after completing Cleft
+Eder Kemo – On a pedestal in Eder Gira – near the waterfall
+Er’cana– On a pedestal in the Watcher’s Pub
+Gahreesen - In one of the four Relto pillars you get after completing Cleft
+Jalak - On a pedestal in the Library of Ae'gura
+Kadish - In one of the four Relto pillars you get after completing Cleft
+Minkata – On a pedestal in the Library of Ae’gura
+Negilhan– On a pedestal in the Museum of Ae’gura
+Nexus – You begin with this on your bookshelf in Relto
+Payiferin– On a pedestal in the Museum of Ae’gura
+Relto – You begin with this on your belt
+Teledahn – In one of the four Relto pillars you get after completing Cleft
+Tetsnot– On a pedestal in the Museum of Ae’gura
+
+Books in Bevin's Bookroom
+Eder Delin
+Eder Tsogal
+Great Zero Observation
+Gahreesen Lite: Just enough of a preview to get your KI Smile
+
+Links in Nexus
+Ae'gura
+Kirel
+Watcher's Pub
+Guild Pub
+
+Other Info
+A fun bug:
+Walk up the ropes on your Relto bridge and levitate over the middle island. This is not as dramatic as it used to be, but it still works.
+
+Holiday Goodies:
+During the winter holidays there is a Christmas tree in the Baron's City Office and a nice menorah on a table on the Takotah rooftop.
+
+Hidden Niche in Teledahn:
+You can open the hidden shelf in the slave-shroom. You need to be sure the wooden walkway and the metal walkway are down. When the single outer door is up, the hidden shelf is closed, when its down, the hidden shelf is open. The trick is to walk around and open the inner double door and close the outer single door after you walk through all three chambers and fix the walkways. Then you enter the third chamber from the outside walkway and will see the shelf open, with a Bahro Stone to Sharper’s Spy Room
+
+Fireflies in Relto
+You can get "fireflies" in your Relto by first going to Eder Kemo, getting them to surround you, then linking to Relto. However, you MUST turn RAIN OFF in your Relto before bringing them home.
+
+How to make your Relto tree from Kadish grow. (posted by Tiran)
+http://www.urulive.com/forums/viewtopic.php?t=5595
+
+DRC and other In-game Character KI numbers
+http://www.mystonline.com/forums/viewtopic.php?t=9974&postdays=0&postorder=asc&start=0
+
+History Links:
+DRC Official IC Forum
+http://forums.drcsite.org/viewtopic.php?t=1163
+
+Timeline of Events and Discoveries (John Lynch’s web link)
+http://watson.theurulives.com/
+
+Another List (from belford’s siggy)
+http://eblong.com/zarf/uru/newfaq.html
+
+UO's Cavern Today with lots of logs
+http://www.uruobsession.com/forum/index.php?s=2d149bad873bd35a27742c4c7c96884f&act=SF&f=56
+
+..................................Map Links:
+Lots of nice maps Smile
+http://www.mystonline.com/forums/viewtopic.php?t=11603
+Eder Delin
+http://www.dpwr.net/forums/index.php?act=module&module=gallery&cmd=si&img=2541
+Minkata
+http://www.mystonline.com/forums/viewtopic.php?t=10176
+D'ni Map
+Click to reveal spoiler.
+[
+
+City Instances:
+Main instance
+Through the nexus - D'ni Ae'gura
+Hood Instance
+Through your City Links book – This allows you to work on your game without worrying about Ae'gura being too crowded . This is shown in th KI as "city city"
+
+Puzzle Solutions
+Eder Delin and Eder Tsogal
+These are group puzzles that require a cooperative effort. The solution methodology is the same for both. You get a donut half for each age you solve.
+...................Eder Delin
+http://www.guildofgreeters.com/index.php?option=com_content&task=view&id=79&Itemid=39
+...................Eder Tsogal
+http://www.guildofgreeters.com/index.php?option=com_content&task=view&id=86&Itemid=39
+...................List of hoods with Eder Delin linking books
+http://www.mystonline.com/forums/viewtopic.php?t=9645
+
+Pod Ages:Negilahn, Dereno, Payiferin, and Tetsonot
+Each pod age gives you a 1/4 slice of a donut! You just have to wait for the portal to appear, walk through it and claim your prize There are many portal predictors available on the forum. But in general, they follow the time zones that appear on the interactive map in the Museum.
+...................Portal Appearance Locations
+Negilahn is by the link-in point; the middle floor next to the down-ladder.
+Dereno is on the bottom floor next to the left-most window.
+Payiferen is on the bottom floor on top of the pod ID number.
+Tetsonot is on the middle floor, near the two up-ladders.
+...................Portal Prediction Program
+http://www.mystonline.com/forums/viewtopic.php?t=9182
+
+Minkata
+This age can be solved alone and you get a single donut.
+...................Hints and such
+http://www.mystonline.com/forums/viewtopic.php?t=10326
+
+...................Detailed walk though
+http://www.guildofgreeters.com/index.php?option=com_content&task=view&id=100&Itemid=39
+
+Er'cana
+This age can be solved alone. You just need to find and touch the Journey
+cloths. You get 1/2 of a donut for this.
+http://www.mystonline.com/forums/viewtopic.php?t=11071
+...................GoG Walkthrough
+http://www.guildofgreeters.com/index.php?option=com_content&task=view&id=127&Itemid=39
+
+Helpful Links
+Guild of Greeter's Library
+http://www.guildofgreeters.com/index.php?option=com_content&task=category&sectionid=4&id=17&Itemid=28
+
+Uru Obsession's Library
+http://www.uruobsession.com/?module=Library
+
+About the Guild System
+http://drcsite.org/dnifaq.php#guild
+
+Link to old Goodie List
+http://www.mystonline.com/forums/viewtopic.php?t=3748
+_________________
+Te'ana of the Guild of Greeters
+"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve on the silence?"-Sai Baba
+
+Last edited by Texana on Thu Oct 04, 2007 12:41 pm; edited 29 times in total
+
+*****************************************************************************************
+end - LIVE SERVER BASED LIST - need to track the availability in Live from spoilers pages
+*****************************************************************************************
+
+
+*****************************************************************************************
+start - REHEARSAL BASED LIST
+*****************************************************************************************
+
+New and Improved Smile
+Latest Additions
+Live 8 Smile
+
+Feather Collection
+Note: You must do these in order.
+Procedure: Type “/get feather” to pick them up and type “/look in pocket” to confirm your collection
+Age....................Number........Color
+Eder Gira .................7..............Plain
+Eder Delin ...............1...............Red
+Dereno.....................1...............Blue
+Payiferin...................1...............Black
+Er’cana.....................1...............Silver
+Jalak........................1...............Duck
+Ahnonay...................1..............Large Rukh (sticks out of pocket)
+For fun: type “/get object” and see the result
+
+Sparklies
+Passing through these will generate an altar with a flame on the large Relto Island you get from the fire pit in Cleft. A new one is available each month as the previous one disappears.
+Date.............Age..................Location
+Jan 2007......Gahreesen........The Maintainer's Building; in an alcove in the outer ring.
+Feb 2007......Kadish..............On top of the third pillar
+Mar 2007......Eder Gira..........In the lower pool
+Apr 2007......Gahreesen.........In the Prisoner's cell
+May 2007.....Descent.............On a wall in the main room
+Jun 2007......Minkata.............In cave #2
+Jul 2007.......Er'cana..............Behind the broken train track support
+Aug 2007.....Jalak Dador........On top of central column
+Sep 2007.....Teledahn............In front of the hidden niche
+Oct 2007......Phil's Relto.........On the dock
+Nov 2007.....Great Zero.........Near 4 mission stations
+Dec 2007.....Myst Island Library - after Kveer
+
+Yeesha Pages (These add cool stuff to your Relto)
+Age................Page.....................Location
+Ae'gura............Sun and Moons........In the Museum, on a pedestal
+Ahnonay...........Lightning.................Misty Control Room #2
+Bevin...............Islands...................On side of a window in the light garden (intermittently available)
+Cleft...............Rain.......................Imager in Yeesha’s workroom
+......................Pillars....................On a pedestal in the back of the tree-cave
+......................Flying Birds.............By the old Riven telescope
+......................Bridge....................In a fire pit near Zandi’s trailor
+Descent...........Music player...........On a sleeping/sitting ledge
+Eder Delin........Bench ....................On a bench of course! Near the linking book to Bevin.
+.......................Autumn Trees.........On the bench in the upper gazebo
+Eder Kemo.......Hut Décor................On a cliff you must jump to via a puffer plant
+Eder Tsogal......Grass ....................On the side of rock opposite of the link-in area
+Er'cana.............Mushroom Plants .....In the alcove with the plants near the link-in spot
+.......................Firemarbles..............At the end of the left drain tunnel on the opposite side of the pellet area
+Gahreesen.....Logs & Stones.........In a crevasse on the first floor; past the Nexus book
+.......................Waterfall................On the bed in the prisoner’s cell
+...................................................(reached from Teledahn via a Bahro Stone hidden behind a crate
+....................................................on the lower floor of The War-Shroom)
+GZO.................Imager..................Under the stairs
+Kadish.............Growing Pine Tree...On a cliff you jump to just before the
+........................................................Pyramid
+.......................Butterflies...............On the upper walkway in the Empty Vault
+......................................................(reached via the Linking Book in the Full Vault)
+Negilahn...........Lush Relto..............On one of the upper decks
+Teledahn..........Hut Roof..................On the floor near the fish tank crate in the Baron’s Bedroom
+......................Dock.......................Via the Bahro Stone in the Ferry Terminal tunnel (intermittently available)
+
+Clothing Items
+Age...............Item.........................Location
+Ae’gura...........First Month Shirt........First landing on the Great Stair (not currently available)
+......................Hard Hat...................On several tables in the Takotah Rooftop
+Ahnonay.........watcher's Pub Shirt....In Kadish's Break Room
+Cleft...............Goggles...................In a bedroom alcove after you finish Cleft
+......................Zandi Shirt...............On the left awning rail of Zandi’s trailer in Rainy Cleft
+......................Yeesha Shirt.............Gift from Yeesha when you finish Cleft
+Eder Gira.........Pith Helmet...............On the ground by the Journey Cloth in the last cave
+Er'cana............Backpack/vest/shirt...On the ground on the terrace above the pellet room
+Kadish.............Helmet.....................Empty Vault (not currently available)
+Kirel................Guild T-Shirt.............On Guild recruiting tables (you can only have one at a time)
+Minkata............Hiking boots.............On the ground in the night version of cave #4
+Phil's Relto.......DRC Vest & Shirt.......On second bookshelf
+Relto Closet......Santa Hat.................Christmas 2006 (not currently available)
+.......................St. Patrick's Day hat...March 2007 (not currently available)
+.......................March Madness shirt...March 2007 (not currently available)
+......................Mysterium 2007..........Must have code or bestowal by GD
+......................Mystralium 2007.........Must have code or bestowal by GD
+Teledahn..........Tie Dye Shirt............On top of a crate in the upper War-Shroom
+
+Rotating Stone Disks in Relto (purpose unknown)
+Pieces....Symbol..............How to obtain the Pieces
+5............Hand...................Collect Bahro poles from Teledahn, Eder Gira, Eder Kemo, Gahreesen, and Kadish
+2............Spiral..................Solve the group puzzles in Eder Delin and Eder Tsogal
+4............Reverse Spiral......Enter the portals that regularly appear in Negilahn, Dereno, Payiferen, and Tetsonot
+1.............4 Dots & Bolt....... Complete Minkata’s cage/sky puzzle
+½............Shell....................Touch the seven Er'cana Shell cloths
+
+Other Cool Items
+Music player
+In the gallery that adds a new song to your Relto music player's playlist
+Soccer ball
+In Minkata - Out in the desert somewhere near hole #4, the southernmost hole. Traveler says it can be found 30 seconds running due south from cave #4. Just run into the southern sun, shadow vertical behind you.
+
+Great Zero Calibration Marker Locations
+Guild of Greeters GZMO locations
+http://www.guildofgreeters.com/index.php?option=com_content&task=view&id=91&Itemid=38
+
+UO Mission Marker locations
+http://www.uruobsession.com/?page=D%60ni%20-%20Rezeero%20CGZM%20Mission%20Guides
+
+Here is a beautiful set of maps showing marker locations.
+http://home.comcast.net/~mark_af/urumaps.html
+
+Basic Red and Green Marker Locations
+We have found 34 so far.
+
+Great Zero Locations (2):
+1 - GZO
+1 - GZ - under the stairs
+
+City Proper (19):
+1 - Ferry Terminal tunnel
+1 - Museum
+1 - Gallery
+1 - By the Museum
+1 - By the Great Curtain
+1 - On Stairs past the Hall of Kings
+1 - On walkway between the "bridge" and the Hall of Kings
+1 - On walkway between the "bridge" and the Library
+1 - Inside the Library
+1 - By barriers behind the Library
+1 - On the stairs between the Concert Hall and Takotah Alley
+1 - On the ledge over Takotah Alley Nexus Terminal
+1 - In Kahlo Pub rubble
+1 - In Kahlo Pub over a table
+1 - On the landing of the Great Stair near Kahlo Pub
+1 - At the bottom of the Great Stair
+1 - At end of Docks
+1 - In a crevasse across from Kadish Gallery
+1 - On the Rope Bridge
+
+City Links Book (5):
+1 - Baron's City Office
+1 - Palace Canyon Balcony (Curved)
+1 - Palace Rooftop (Rectangular)
+2 - Takotah Rooftop
+
+Bevin (7):
+1 - Outside the lecture hall
+1 - Light Garden
+1 - By waterfall
+1 - Classroom
+1 – Egg room
+1 - Classroom Rooftop (via page in Bevin Book)
+1 - Bevin Balcony (via page in Bevin Book)
+
+Descent (1):
+1 - By the closed door, some see it, some don't, most hear it though Question
+
+Links in Books
+Link ................................................Location Found
+City Links Book
+Baron’s City Office.............................Teledahn: Baron's bedroom
+Bevin Lower Balcony/Rooftop...............Eder Kemo: Behind statue of the Watcher
+Bevin Upper Balcony...........................Gahressesn: In a locker in first room to the right of entry point
+Descent.............................................Ae'gura: In Takotah Alley behind the rubble
+Great Zero Observation.......................Bevin: On a pedestal in the book room
+Great Tree in Ae'gura..........................Bevin: On a pedestal in the book room
+Kadish Gallery..................................Kadish: In the full vault
+Palace Canyon Balcony (Curved)........Kadish: By 2nd viewer
+Palace Rooftop Balcony (Rectangular)..Gahreesen: On of the Wall Game observation rooms
+Tokotah Rooftop.................................Eder Gira: On a rock by the waterfall
+Sharper’s Spy Room..........................Teledahn: Secret Niche in Slave Shroom
+
+Cleft Linking Book
+Link .............................Location Found
+Rainy Cleft ....................Cleft: A gift from Yeesha
+Dry Cleft........................Relto: In a pillar in the center of the island
+
+Gahreesen Linking Book
+Link ...............................Location Found
+Prisoner’s cell..................Teledahn: Behind a crate in the lower War Shroom
+
+Teledahn Linking Book
+Link ..................................Location Found
+Top of Mushroom...............Teledahn: On a window seat near the viewer in the Baron’s City Office
+Dock Page Walkway...........Ae’gura: On a rock in the Ferry Terminal Tunnel (intermittently available)
+
+Kadish Linking Book
+Link ...................................Location Found
+Empty Vault........................Kadish: On a crate in the Full Vault
+Top of Pyramid....................Ae’gura: On the ledge behind the Library (intermittently available)
+
+Bahro Stones
+Links To.....................................................Found In
+Ae’gura: Kadish Gallery..............................Kadish - Full Vault
+Ae’gura: Palace Canyon Balcony (Curved)...Kadish - by 2nd viewer
+Ae’gura: Baron’s City Office........................Teledahn – Baron's bedroom
+Ae’gura: Sharper’s Spy Room......................Teledahn – Secret Niche in Slave Shroom
+Ae’gura: Palace Rooftop Balcony (Rec.).........Gahreesen – on a chair in one of the Wall Game observation rooms
+Ae’gura: Tokotah Rooftop.............................Eder Gira – by the waterfall
+Ae’gura: Hood version...................................Bevin - in the bookroom
+Bevin: Lower Balcony/Roof Top.....................Eder Kemo – behind statue of the Watcher
+Bevin: Upper balcony...................................Gahressesn - locker in first room to the right
+Descent......................................................Ae'gura - Takotah Alley rubble
+Er'cana: Lower Bahro Cave...........................Ahnonay - Kadish Komissary (not currently functional)
+Gahreesen: Prisoner’s cell.............................Teledahn - War Shroom
+Kadish: Empty Vault......................................Kadish Full Vault
+Kadish: Pyramid Top.....................................Ae'gura - On ledge behind the Library (intermittently available)
+Teledahn: Mushroom Top..............................Teledahn - Baron’s City Office
+Teledahn: Dock Page Walkway.......................Ae'gura - Ferry Terminal Tunnel (intermittently available)
+
+
+Linking Books Listed by the Age where it is found
+Age...............Book...................Location Found
+Ae’gura............Dereno..............On a pedestal in the Museum of Ae'gura
+.......................Er’cana..............On a pedestal in the Watcher’s Pub
+.......................Minkata..............On a pedestal in the Library of Ae’gura
+.......................Negilhan.............On a pedestal in the Museum of Ae’gura
+.......................Payiferin.............On a pedestal in the Museum of Ae’gura
+.......................Phil's Relto..........On a pedestal in the Spyroom
+.......................Tetsnot...............On a pedestal in the Museum of Ae’gura
+.......................Ahnonay Cathedral...On pedestal in an alcove on lower floor
+Ahnonay Cathedral..Ahnonay.......On pedestal down the corridor
+Bevin...............Eder Delin...........In the Bookroom (alternates with ET)
+.......................Eder Tsogal.........In the Bookroom (alternates with ED)
+.......................Gahreesen Lite....In the Bookroom
+........................GZO...................In the Bookroom
+Relto.................Bevin..................You begin with this on your bookshelf in Relto
+.........................Cleft...................Single Pillar in Relto
+.........................Eder Gira............ In one of the four Relto pillars you get after completing Cleft
+.........................Eder Kemo...........On a pedestal in Eder Gira – near the waterfall
+.........................Gahreesen............In one of the four Relto pillars you get after completing Cleft
+..........................Kadish.................In one of the four Relto pillars you get after completing Cleft
+..........................Teledahn..............In one of the four Relto pillars you get after completing Cleft
+Watcher's Pub......Ahnonay Cathedral..In a lower level alcove
+
+Links to Ages
+Age - How Obtained
+Books in Relto Bookcase
+Ahnonay - After you link to it via the Ahnonay Cathedral
+Ahnonay Cathedral - In an alcove in the lower level of the Watcher's Pub
+Bevin – You begin with this on your bookshelf in Relto
+Cleft – Single Pillar in Relto
+Dereno - On a pedestal in the Museum of Ae'gura
+Eder Gira – In one of the four Relto pillars you get after completing Cleft
+Eder Kemo – On a pedestal in Eder Gira – near the waterfall
+Er’cana– On a pedestal in the Watcher’s Pub
+Gahreesen - In one of the four Relto pillars you get after completing Cleft
+Kadish - In one of the four Relto pillars you get after completing Cleft
+Minkata – On a pedestal in the Library of Ae’gura
+Negilhan– On a pedestal in the Museum of Ae’gura
+Nexus – You begin with this on your bookshelf in Relto
+Payiferin– On a pedestal in the Museum of Ae’gura
+Phil's Relto - On a pedestal in the Spyroom (reached through Bahro Stone in the hidden niche in Teledahn)
+Relto – You begin with this on your belt
+Teledahn – In one of the four Relto pillars you get after completing Cleft
+Tetsnot– On a pedestal in the Museum of Ae’gura
+
+Books in Bevin's Bookroom
+Eder Delin
+Eder Tsogal
+Great Zero Observation
+Gahreesen Lite: Just enough of a preview to get your KI Smile
+
+Links in Nexus
+Ae'gura
+Watcher's Pub
+Guild Pub (Which one depends on the T-Shirt you have.)
+Spy Room (after getting it via the Teledahn hidden niche)
+
+Other Info
+A fun bug:
+Walk up the ropes on your Relto bridge and levitate over the middle island. This is not as dramatic as it used to be, but it still works.
+
+Holiday Goodies:
+During the winter holidays there is a Christmas tree in the Baron's City Office and a nice menorah on a table on the Takotah rooftop.
+
+Hidden Niche in Teledahn:
+You can open the hidden shelf in the slave-shroom. You need to be sure the wooden walkway and the metal walkway are down. When the single outer door is up, the hidden shelf is closed, when its down, the hidden shelf is open. The trick is to walk around and open the inner double door and close the outer single door after you walk through all three chambers and fix the walkways. Then you enter the third chamber from the outside walkway and will see the shelf open, with a Bahro Stone to Sharper’s Spy Room
+
+Fireflies in Relto
+You can get "fireflies" in your Relto by first going to Eder Kemo, getting them to surround you, then linking to Relto. However, you MUST turn RAIN OFF in your Relto before bringing them home.
+
+How to make your Relto tree from Kadish grow. (posted by Tiran)
+http://www.urulive.com/forums/viewtopic.php?t=5595
+
+DRC and other In-game Character KI numbers
+http://www.mystonline.com/forums/viewtopic.php?t=9974&postdays=0&postorder=asc&start=0
+
+History Links:
+DRC Official IC Forum
+http://forums.drcsite.org/viewtopic.php?t=1163
+
+Timeline of Events and Discoveries (John Lynch’s web link)
+http://watson.theurulives.com/
+
+Another List (from belford’s siggy)
+http://eblong.com/zarf/uru/newfaq.html
+
+UO's Cavern Today with lots of logs
+http://www.uruobsession.com/forum/index.php?s=2d149bad873bd35a27742c4c7c96884f&act=SF&f=56
+
+Map Links:
+Eder Delin
+http://www.dpwr.net/forums/index.php?act=module&module=gallery&cmd=si&img=2541
+Minkata
+http://www.mystonline.com/forums/viewtopic.php?t=10176
+D'ni Map
+Click to reveal spoiler.
+[
+
+City Instances:
+Main instance
+Through the nexus - D'ni Ae'gura
+Hood Instance
+Through your City Links book – This allows you to work on your game without worrying about Ae'gura being too crowded . This is shown in th KI as "city city"
+
+Puzzle Solutions
+Eder Delin and Eder Tsogal
+These are group puzzles that require a cooperative effort. The solution methodology is the same for both. You get a donut half for each age you solve.
+...................Eder Delin
+http://www.guildofgreeters.com/index.php?option=com_content&task=view&id=79&Itemid=39
+...................Eder Tsogal
+http://www.guildofgreeters.com/index.php?option=com_content&task=view&id=86&Itemid=39
+...................List of hoods with Eder Delin linking books
+http://www.mystonline.com/forums/viewtopic.php?t=9645
+
+Pod Ages:Negilahn, Dereno, Payiferin, and Tetsonot
+Each pod age gives you a 1/4 slice of a donut! You just have to wait for the portal to appear, walk through it and claim your prize There are many portal predictors available on the forum. But in general, they follow the time zones that appear on the interactive map in the Museum.
+...................Portal Appearance Locations
+Negilahn is by the link-in point; the middle floor next to the down-ladder.
+Dereno is on the bottom floor next to the left-most window.
+Payiferen is on the bottom floor on top of the pod ID number.
+Tetsonot is on the middle floor, near the two up-ladders.
+...................Portal Prediction Program
+http://www.mystonline.com/forums/viewtopic.php?t=9182
+
+Minkata
+This age can be solved alone and you get a single donut.
+...................Hints and such
+http://www.mystonline.com/forums/viewtopic.php?t=10326
+
+...................Detailed walk though
+http://www.guildofgreeters.com/index.php?option=com_content&task=view&id=100&Itemid=39
+
+Er'cana
+This age can be solved alone. You just need to find and touch the Journey
+cloths. You get 1/2 of a donut for this.
+http://www.mystonline.com/forums/viewtopic.php?t=11071
+...................GoG Walkthrough
+http://www.guildofgreeters.com/index.php?option=com_content&task=view&id=127&Itemid=39
+
+Helpful Links
+Guild of Greeter's Library
+http://www.guildofgreeters.com/index.php?option=com_content&task=category&sectionid=4&id=17&Itemid=28
+
+Uru Obsession's Library
+http://www.uruobsession.com/?module=Library
+
+Link to old Live Goodie List
+http://www.mystonline.com/forums/viewtopic.php?t=3748
+_____________________________________________________________
+Rehearsal Only Links
+-------------------------------------------------------------------------------------
+Cubkyle's shamelessly advertized guide to Ahnonay Wink
+http://www.mystonline.com/forums/viewtopic.php?t=12245
+-------------------------------------------------------------------------------------
+Jalak Editor
+http://www.mystonline.com/forums/viewtopic.php?t=11633
+
+Jalak Explained
+http://www.mystonline.com/forums/viewtopic.php?t=11421
+-------------------------------------------------------------------------------------
+with Artic_Wagon's permission - Ercana Cloth Locations Smile
+Click to reveal spoiler.
+1- On the far wall, near train starting point.
+2- In small cayon/alcove passed the broken track, halfway when going to the factory. Same place as the floating portal.
+3- On a train track pillar (broken track side) just passed the portal, small cayon/alcove.
+4- on the backwall, between the two stairs, when arriving outside at the Factory.
+5- On a pillar, in the first round-room, inside the factory.
+6- Beside the door/stairs, leading to the control room inside the factory. ((4 big round generator wheels)
+7- Passageway, between viewers and pellets oven.
+
+-------------------------------------------------------------------------------------
+Minkata Maps and More
+http://www.mystonline.com/forums/viewtopic.php?t=9524
+http://www.mystonline.com/forums/viewtopic.php?t=9583
+
+Greypiffles videos
+http://www.mystonline.com/forums/viewtopic.php?p=156452#156452
+Pay special attention to Kierra's latest map!
+-------------------------------------------------------------------------------------
+Pod Age Predictor Listing
+http://www.mystonline.com/forums/viewtopic.php?t=8406
+
+Pod Age Predictor Program
+http://www.mystonline.com/forums/viewtopic.php?t=7766
+-------------------------------------------------------------------------------------
+Thanks to Rusty_Russell for the info on how to get the marker under the bridge in MM#3:
+Quote:
+Sidestep (,), facing the railing. Let go as soon as you fall. Your hand will go through the marker.
+
+
+greypiffle has posted two excellent videos to the FTP site:
+http://www.mystonline.com/forums/viewtopic.php?p=136968#136968
+-------------------------------------------------------------------------------------
+Here is a link to the KI Commands
+http://www.mystonline.com/forums/viewtopic.php?t=5063&postdays=0&postorder=asc&start=15
+-------------------------------------------------------------------------------------
+Eder Delin
+Rehearsal Discussion Bevin has a Delin Book
+Other hoods with Eder Delin Books
+http://www.mystonline.com/forums/viewtopic.php?t=10847
+
+'Hoods with Eder Delin books
+http://www.mystonline.com/forums/viewtopic.php?t=10847
+_________________
+Te'ana of the Guild of Greeters
+"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve on the silence?"-Sai Baba
+
+Last edited by Texana on Sat Sep 01, 2007 6:33 pm; edited 78 times in total
+
+*****************************************************************************************
+end - REHEARSAL BASED LIST - need to track the availability in Live from spoilers pages
+*****************************************************************************************
+
+
+Marker Missions:
+#1 - Shan
+    Mission Solvable
+    Reachable Markers: 12/12
+    Marker Locations: Ferry, Great Stair, Tokotah Courtyard, Palace Alcove
+
+    The mission begins at Ferry Terminal and ends at Palace Alcove (or vice versa). All markers are located in Ae'gura.
+
+    #1:     Ferry - Near the Nexus Terminal.
+    #2:     Ferry - End of the Ferry near the Dock entrance.
+    #3:     Ferry - Entrance to the dead-end (after linking to the Ferry turn left and go straight).
+    #4:     Ferry - Above the rock in the dead-end.
+    #5:     Ferry - On the stairs leading to the First Landing (DRC Tent).
+    #6-8:   Great Stair - On the Second Landing of The Great Stair.
+    #9:     Great Stair - Just before Tokotah Courtyard.
+    #10-11: Tokotah Coutyard - On the stairs leading to Palace Alcove.
+    #12:    Palace Alcove - Near the Nexus Terminal. 
+
+#2 - Shan
+    Mission Solvable
+    Reachable Markers: 21/24
+    Marker Locations: Canyon, Tokotah Courtyard, Kahlo Bar, Kadish Gallery
+
+    The mission begins at The Library.
+
+    #1-2:   Canyon - In front of Kadish Gallery doors.
+    #3-5:   Tokotah Courtyard - In front of Museum doors.
+    #6-9:   Kahlo Bar - In front of Kahlo Bar entrance.
+    #10-13: Kahlo Bar - Inside the bar.
+    #14-15: Kadish Gallery - Inside the Kadish Gallery.
+    #16-18: In front of Library doors.
+    #19-21: Inside the Library.
+    #22-24: Inside the Museum. 
+
+#3 - 
+    Mission Solvable
+    Reachable Markers: 11/11
+    Marker Locations: Library, Wooden Bridge
+
+    The mission begins at The Library. All markers are available and reachable.
+
+    #1:     Library - In front of The Library.
+    #2:     Library - To the right of the upper Library doors.
+    #3:     Library - Near the cliff.
+    #4:     Library - On the back of The Library.
+    #5:     Library - In the cracked corner of The Library.
+    #6-7:   Library - On the ledge on the back of the Library.
+    #8:     Library - Left side of the Library ledge.
+    #9:     Library - Small courtyard just before the Library.
+    #10:    Wooden Bridge - Beneath the Wooden Bridge.
+    #11:    Wooden Bridge - Near the bridge. 
+
+#4 - R
+    Mission Solvable
+    Reachable Markers: 20/20
+    Marker Locations: Ferry, Great Stair, Tokotah Courtyard/Alley, Canyon, Concert Hall Foyer, Library
+
+    The mission begins at the Ferry. All markers can be found on Ae'gura.
+
+    #1:     Ferry - After linking into the Ferry turn right and go straight to the end of the Ferry towards the baricade.
+    #2:     Great Stair - Second Landing of The Great Stair.
+    #3:     Great Stair - Top of Great Stair on one of the lamps.
+    #4:     Tokotah Courtyard
+    #5:     Tokotah Courtyard - Stairs leading to the small courtyard.
+    #6-9:   Tokotah Alley - Down the stairs near the DRC Tent.
+    #10:    Tokotah Alley - In the air near the cliff (panic link jump required).
+    #11:    Canyon - Near the 1st crack.
+    #12:    Canyon - Above the 2nd crack.
+    #13:    Canyon - Before the stairs leading to Concert Hall Foyer.
+    #14:    Canyon - Stairs leading from Canyon to Concert Hall Foyer.
+    #15-16: Concert Hall Foyer
+    #17-19: Library - Near the cliff near The Library.
+    #20:    Library - In the air above the cliff (Panic Link jump required). 
+
+#5 - R
+    Mission Solvable
+    Reachable Markers: 25/25
+    Marker Locations: Library, T-Junction, Wooden Bridge, Concert Hall, Canyon, Tokotah Courtyard, Palace Alcove, Hall of Kings, Palace Courtyard
+
+    The mission begins at the Library. The mission begins at The Library. All marker can be found in Ae'gura.
+
+    #1:     Library - In front of The Library.
+    #2:     Library - Small coutyard before The Library.
+    #3:     Library - Stairs leading to T-Junction from The Library.
+    #4-5:   Road from The Library to T-Junction.
+    #6-7:   Wooden Bridge
+    #8-10:  Stairs leading to Concert Hall Foyer from the Wooden Bridge.
+    #11-12: Concert Hall Foyer
+    #13-14: Stairs leading to Canyon from Concert Hall Foyer.
+    #15-17: Canyon
+    #18-19: Stairs leading to Tokotah Courtyard from the Canyon.
+    #20-21: Stairs leading to Palace Alcove from the Tokotah Courtyard.
+    #22-23: Hall of Kings - Past the Palace Alcove Nexus Terminal.
+    #24-25: Stairs leading to a small courtyard past the Hall of Kings. 
+
+#6 - R
+    Mission Solvable
+    Reachable Markers: 14/14
+    Marker Locations: Neighborhood
+
+    All markers from this mission are located in the Neighborhood.
+
+    #1:     Top of the fountain.
+    #2-3:   In front of Auditorium/Community Hall entrace.
+    #4-5:   In the Auditorium/Community Hall corridor.
+    #6:     Auditorium/Community Hall
+    #7:     After leaving Auditorium turn right and go straight towards the bookroom.
+    #8:     Inside the Bookroom.
+    #9:     Path between the Fountain Courtyard and Clockyard.
+    #10:    Stairs leading to Ahyoheek Gaming Table from the Fountain Courtyard.
+    #11:    In the Light Garden.
+    #12:    Path from Heek to the Waterfall stairs - near the locked door.
+    #13-14: Stairs near Waterfall.
+
+#7
+    Mission Solvable
+    Reachable Markers: 16/16
+    Marker Locations: Neighborhood
+
+    All markers from this mission are located in the Neighborhood.
+
+    #1:    Behind the Fountain.
+    #2:    Near the Telescope.
+    #3:    Near the Fountain above one of the lights.
+    #4:    Stairs leading to Auditorium/Community Hall.
+    #5:    Bookroom
+    #6-7:  Stairs near the Bookroom.
+    #8:    Near the Eggroom door.
+    #9-12: Inside the Eggroom.
+    #13:   Near the Ahyoheek Table.
+    #14:   On the Balcony you link to from Gahreesen.
+    #15:   On the ledge above the classroom (requires 'Balcony Jump').
+    #16:   Mid-air above the clockyard - jump of the ledge (requires 'Balcony Jump') or switch to first person mode, look up and then try jumping up until you get the marker. 
+
+#8
+Mission Solvable
+Reachable Markers: 20/20
+Marker Locations: Tokotah Courtyard, Canyon, Concert Hall Foyer, Wooden Bridge, Tokotah Rooftop (Gira Link), Balcony (Gahreesen Link)
+
+The mission begins in Tokotah Courtyard. The markers are available in Ae'gura but you'll have to link to several dead-end places like Tokotah Rooftop and a Balcony to get all the markers.
+
+#1-2: Tokotah Courtyard - Small coutyard near Tokotah Courtyard.
+#3: Tokotah Courtyard - Near the courtain.
+#4: Canyon - Near the first crack.
+#5: Canyon - Above the first crack.
+#6: Canyon - In the second crack.
+#7-8: Concert Hall Foyer.
+#9: Stairs leading to Wooden Bridge from the Concert Hall Foyer.
+#10-12: Wooden Bridge
+#13: Wooden Bridge - Beneath the bridge.
+#14-18: Tokotah Rooftop
+#19-20: Ae'gura Balcony (Gahreesen Link)
+
+#9
+Mission Solvable
+Reachable Markers: 16/16
+Marker Locations: Great Stair, Tokotah Courtyard/Alley
+
+The mission begins at the Great Stair. All markers are available in Ae'gura.
+
+#1-2: Great Stair - Just before the Tokotah Courtyard, above the ground.
+#3-12: Tokotah Courtyard
+#13: Tokotah Alley - above the Nexus Terminal.
+#14: Tokotah Courtyard - in front of the Museum.
+#15: On the stairs leading to Palace Alcove from the Tokotah Courtyard.
+#16: On the stairs leading to the Canyon from the Tokotah Courtyard. 
+
+#10
+Mission Solvable
+Reachable Markers: 25/25
+Marker Locations: Ferry, Great Stair, Tokotah Courtyard, Wooden Bridge, T-Junction, Library
+
+The mission begins at the Ferry and ends at the Library. All markers are available in Ae'gura.
+
+#1-3: Ferry - near the columns.
+#4: Up the stairs from the Ferry.
+#5: Great Stair - 1st Landing near the DRC Tent.
+#6: Great Stair - 2nd Landing above the ground.
+#7: Great Stair - Just before the Tokotah Courtyard.
+#8-9: Tokotah Courtyard - Small courtyard near the Tokotah Courtyard.
+#10: Wooden Bridge
+#11-13: Cave T-Junction
+#14-18: Road to the Library from Cave T-Junction.
+#19: Library - Small courtyard before the Library Courtyard.
+#20: Library - In front of the Library.
+#21-25: Library - Around the Library. 
+
+#11
+Mission Solvable
+Reachable Markers: 9/9
+Marker Locations: Great Zero, Ferry, Great Stair, Tokotah Courtyard
+
+The mission begins at the Great Zero and continues in Ae'gura. All markers are reachable.
+
+#1: Great Zero - GZ Courtyard.
+#2: Ferry - Near the arrival spot.
+#3: Ferry - Up the stairs.
+#4: Great Stair - 1st Landing neat the DRC Tent.
+#5-6: Great Stair - 2nd Landing.
+#7-9: Tokotah Courtyard. 
+
+#12
+Mission Solvable
+Reachable Markers: 9/9
+Marker Locations: Ferry, Great Stair, Kahlo Bar, Tokotah Courtyard, Tokotah Rooftop
+
+The mission begins at the Ferry. All markers are available in Ae'gura but you'll have to link to one of the dead-ends to get all markers.
+
+#1: Ferry - up the stairs.
+#2: Great Stair - 1st Landing near the DRC Tent.
+#3-4: Great Stair - 2nd Landing.
+#5: Kahlo Bar - The tunnel.
+#6: Kahlo Bar - Inside the bar.
+#7: Great Stair - Tokotah Courtyard.
+#8: Tokotah Courtyard - In front of the stairs leading to Palace Alcove.
+#9: Tokotah Rooftop 
+
+#13
+Mission Solvable
+Reachable Markers: 8/8
+Marker Locations: Great Zero, Ferry, Great Stair, Canyon/Concert Hall
+
+The mission begins at the Great Zero and continues in Ae'gura. All markers are reachable.
+
+#1-3: Great Zero - Courtyard.
+#4: Ferry - Near the stairs.
+#5: Ferry - Near the Nexus Terminal.
+#6: Ferry - Near the rubble.
+#7: Up the stairs from the Ferry.
+#8: On the stairs between the Canyon and Concert Hall Foyer.
+
+#14
+Mission Solvable
+Reachable Markers: 19/19
+Marker Locations: Tokotah Courtyard/Alley, Canyon, Wooden Bridge, Palace Courtyard, Hall of Kings, Tokotah Rooftop (Gira Link), Balcony (Kadish Link), Kadish Gallery
+
+The mission begins at the Tokotah Alley. All markers are available in Ae'gura but you'll have to link to several dead-ends to get all the markers.
+
+#1: Tokotah Alley - Behind the pillars opposite the Tokotah Nexus Terminal.
+#2: Tokotah Alley - The cliff near the Nexus.
+#3-9: Tokotah Courtyard
+#10: Stairs leading to the Canyon from the Tokotah Courtyard.
+#11: Canyon - In the first crack.
+#12: Canyon - In the second crack.
+#13: Wooden Bridge
+#14: Palace Courtyard (between Hall of Kings and Cave T-Junction)
+#15: Hall of Kings - Near the exit leading to Palace Courtyard.
+#16: Hall of Kings - Inside the Hall.
+#17: Tokotah Rooftop - Near the telescope.
+#18: Ae'gura Balcony (Gahreesen Stone Link)
+#19: Kadish Gallery - top of the stairs.
+
+
+NOTE: download Voynich Manuscript and look at it: http://www.geocities.com/ctesibos/voynich/hiq/
+http://forums.drcsite.org/viewtopic.php?t=2047
+
+Shan and Irena are using 25, 37, 34 for Burner settings in Er'cana.

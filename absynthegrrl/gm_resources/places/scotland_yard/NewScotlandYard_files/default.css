@@ -1,0 +1,135 @@
+BODY {
+	BACKGROUND-COLOR: #ffffff; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px; scrollbar-face-color: #000066; scrollbar-3d-light-color: #6682CD; scrollbar-highlight-color: #C2C2FC; scrollbar-dark-shadow-color: #000033; scrollbar-shadow-color: #17176F; scrollbar-arrow-color: #FFFFFF; scrollbar-base-color: #000000
+}
+.contentblock {
+	MARGIN-LEFT: 15px; MARGIN-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px
+}
+.contentblockbg {
+	BACKGROUND: url(/graphics/crest_bg.gif) #ffffff fixed no-repeat center top; MARGIN-LEFT: 15px; MARGIN-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px
+}
+.bodytext {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt
+}
+A {
+	TEXT-DECORATION: none
+}
+A:visited {
+	colour: #3333cc
+}
+A:hover {
+	BACKGROUND-COLOR: #3333cc; COLOR: #ffffff
+}
+.header2 {
+	COLOR: #000066; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11pt; FONT-STYLE: normal; FONT-WEIGHT: bold
+}
+A.header2:hover {
+	COLOR: #ffffff
+}
+A.header2:visited {
+	COLOR: #000066
+}
+A.header2:hover {
+	COLOR: #ffffff
+}
+.linkemphasis {
+	COLOR: #0033cc; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.linkemphasis:hover {
+	BACKGROUND-COLOR: #3333cc; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+H1 {
+	BACKGROUND-IMAGE: url(/graphics/h1-bg.jpg); BACKGROUND-POSITION: left center; BACKGROUND-REPEAT: repeat-x; BORDER-BOTTOM: #000066 1pt solid; BORDER-LEFT: #000066 1pt solid; BORDER-RIGHT: #000066 1pt solid; BORDER-TOP: #000066 1pt solid; COLOR: #000066; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13pt; FONT-WEIGHT: bold; MARGIN-TOP: 5px; TEXT-ALIGN: center
+}
+H2 {
+	COLOR: #000066; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+H3 {
+	COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: normal
+}
+H4 {
+	COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: normal; PADDING-TOP: 6px
+}
+H5 {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: italic
+}
+H6 {
+	COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: italic; FONT-WEIGHT: bold
+}
+.introtext {
+	COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: bold; TEXT-ALIGN: left
+}
+.photocaption {
+	COLOR: #000066; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; TEXT-ALIGN: left
+}
+.photocapcentre {
+	COLOR: #000066; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; TEXT-ALIGN: center
+}
+.photocap_right {
+	COLOR: #000066; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; TEXT-ALIGN: right
+}
+.smallprint {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt
+}
+.quotetext {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; MARGIN: 3px 3px 15px 20px; TEXT-ALIGN: left
+}
+.dateline {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-WEIGHT: bold; TEXT-ALIGN: right
+}
+.emphasistextred {
+	COLOR: #cc0000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold
+}
+.bigphonenumber {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 16pt; FONT-WEIGHT: bold
+}
+.bulletedbodytext {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; LIST-STYLE: url(/graphics/bullet3.gif)
+}
+.lightbluebg {
+	BACKGROUND-COLOR: #e8f1ff
+}
+.smallwobtext {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 7pt; VERTICAL-ALIGN: text-top
+}
+.woblinkemphasis {
+	COLOR: #cccccc; TEXT-DECORATION: underline
+}
+.indextitle {
+	COLOR: #000066; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: small; FONT-WEIGHT: bold; MARGIN-TOP: 10px; TEXT-ALIGN: center
+}
+.indexheadtext {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: bold
+}
+.indextext {
+	COLOR: #0033cc; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; TEXT-DECORATION: underline
+}
+.indextext:hover {
+	BACKGROUND-COLOR: #3333cc; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; LIST-STYLE: url(/graphics/bullet3.gif); TEXT-DECORATION: none
+}
+.indexsectiontext {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: bold; LINE-HEIGHT: normal; TEXT-ALIGN: left; VERTICAL-ALIGN: middle
+}
+.indexblock {
+	BACKGROUND-COLOR: #000066; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; MARGIN-LEFT: 10px; PADDING-LEFT: 10px; TEXT-ALIGN: left
+}
+.indexsmalltext {
+	COLOR: #0033cc; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; TEXT-DECORATION: underline
+}
+.redline {
+	COLOR: #cc0000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13pt; FONT-WEIGHT: bold
+}
+.neighbourhead {
+	COLOR: #008055; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.neighbourbg {
+	BACKGROUND-COLOR: #ffe700; MARGIN: 6px; PADDING-BOTTOM: 6px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; PADDING-TOP: 6px
+}
+.listitems {
+	
+}
+.title2 {
+	COLOR: #e54135; FONT-FAMILY: Impact, Verdana, sans-serif; FONT-SIZE: 24pt; FONT-WEIGHT: normal
+}
+.posterimage {
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid
+}

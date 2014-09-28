@@ -1,0 +1,75 @@
+﻿@import URL(http://www.google.com/css/goog.css);
+@import URL(http://www.google.com/css/inlay.css);
+@import URL(http://www.google.com/css/modules/buttons/g-button.css);
+
+body { margin:10px; }
+.g-doc { max-width:1000px; }
+.header { padding-bottom:5px;margin-top:5px; }
+.header h1 { border-bottom:1px solid #999;color:#333;padding:16px 0 2px; }
+.leftnav ul { list-style:none;padding:0 5px; }
+.leftnav li { font-weight:bold; }
+.leftnav li a { font-weight:normal; }
+.content h2 { font-size:1.6em;font-weight:normal;padding:0 0 12px; }
+ul.columns { list-style:none;margin:0;padding:0; }
+.columns li { float:left;line-height:normal;margin:0;padding:0;width:24%; }
+.columns li.spacer { width:1.333%; }
+.player { border:1px solid #999; }
+.box-inner img { border:1px solid #aaa;margin:0 0 10px; }
+.box-inner a img { border:1px solid #00c; }
+.box-inner input { margin:0 0 10px;width:125px; }
+.footer p { border-top:1px solid #ccc;color:#666;margin:10px 0 0 0;padding:10px 0 0 0;text-align:center; }
+.no-line p { border:none; }
+.g-doc .footer p { text-align:left; }
+/* notched edges styles */
+.box-outer { border:1px solid #93b4d9;margin:0 0 1em; }
+.box-inner { background-color:#e8f4ff;border:1px solid #93b4d9;border-width:0 1px;margin:0 -2px;padding:10px 10px 1px;text-align:center; }
+
+.align-l { text-align:left; }
+.align-c { text-align:center; }
+.align-r { text-align:right; }
+
+.view-link { font-weight:bold; }
+
+/* holiday 2008 promo */
+.holiday08 .para { clear:left; }
+.holiday08 .para h3 { padding-top:8px; }
+.holiday08 .bts .para h3 { font-size:100%;padding:0; }
+.holiday08 .bts .para h3, .holiday08 .bts .para p { margin-left:165px; }
+.holiday08 img { margin:0 0 15px; }
+.holiday08 .para img, .holiday08 .player { border:none;clear:left;float:left;margin:0 15px 15px 0; }
+.holiday08 .para img.thumb, .holiday08 .player { border:1px solid #ccc; }
+.holiday08 .para .player { height:140px;width:150px;  }
+.holiday08 p { padding-right:15px; }
+.holiday08-gfx { background:#fff URL('images/holiday08_cookies.gif') top right no-repeat;padding:0 140px 1.5em 0; }
+.holiday08 h3 { padding:0; }
+.sidebar h2 { font-size:1.2em;font-weight:bold; }
+.sidebar .box-outer { margin-left:15px; }
+.sidebar p { padding-right:0; }
+.countdown2009 p { font-weight:bold;margin:0;padding:1em 0 1.5em;text-align:center; }
+
+/* finance templates promo */
+.templates-finance .content { }
+.templates-finance .columns li {width:32%;}
+.templates-finance .columns li.spacer {width:2%;}
+.templates-finance .box-inner img { border:none;margin:0; }
+.templates-finance .box-inner { background-color:#fff;padding:0 0 10px; }
+.templates-finance .box-inner h3 { background-color:#e8f4ff;border-bottom:1px solid #93b4d9;padding:.5em; }
+.templates-finance .box-inner p { margin:0 10px;padding:0 0 10px; }
+
+/* forms promo */
+.templates-forms .content { background:#fff URL('images/clipboard-128.png') top right no-repeat;padding:0 140px 2em 0; }
+.templates-forms .columns li {width:32%;}
+.templates-forms .columns li.spacer {width:2%;}
+
+/* apps promo */
+.apps .main p, .apps .main ul { margin-left:1em; }
+.apps .main li { line-height:normal; }
+
+/* cadie promo */
+.cadie .g-button { float:right;margin:0 0 1em 2em;width:300px; }
+.cadie .g-button p { margin:0 0 .6em; }
+.cadie .content .screenshot { float:right;margin:0 0 1.5em 1em; }
+.cadie .content h2 { clear:right;font-size:1.2em;font-weight:bold;padding-bottom:.2em; }
+.cadie .content h2 img { margin:0 5px 0 0; }
+.cadie .content li { line-height:normal;padding-bottom:1em; }
+.cadie .footer { clear:right; }

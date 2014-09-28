@@ -1,0 +1,259 @@
+/*----------------------------------------------------
+  The BODY style sets the page background to white. It
+  also suppresses superfluous additional space around 
+  the edge of the page (some browsers do not implement 
+  this feature but the page design will still work, 
+  although it will not look as good).
+  CONTENTBLOCK ensures that the contents of the main
+  section of the page are not hard against the menu
+  bars
+  CONTENTBLOCKBG is the same as CONTENTBLOCK but adds 
+  a background image.
+  ---------------------------------------------------*/ 
+
+
+body {
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	background-color: #FFFFFF;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-top : 0px;
+	scrollbar-face-color: #000066;
+	scrollbar-3d-light-color: #6682CD;
+	scrollbar-highlight-color: #C2C2FC;
+	scrollbar-dark-shadow-color: #000033;
+	scrollbar-shadow-color: #17176F;
+	scrollbar-arrow-color: #FFFFFF;
+	scrollbar-base-color: #000000
+}
+
+.contentblock {  margin-right: 15px; margin-left: 15px; padding-right: 15px; padding-left: 15px}
+
+.contentblockbg { margin-right: 15px; 
+			margin-left: 15px; 
+			padding-right: 15px; 
+			padding-left: 15px ;
+			background-color: #FFFFFF;
+			background-image: url(/graphics/crest_bg.gif); 
+			background-repeat: no-repeat; 
+			background-position: center 30px; background-attachment: fixed}
+
+
+/*----------------------------------------------------
+  BODYTEXT is the basic style used for all text that is
+  not a heading or subject to other styles
+  ---------------------------------------------------*/ 
+
+.bodytext {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: normal; color: #000099}
+
+
+/*----------------------------------------------------
+  The following styles deal with rollovers for menus and
+  other links
+  The A and A:HOVER styles set up the basic effect
+  The A.HEADER2:VISTED styles prevent header 2 links
+  changing colour after they become visited
+  ---------------------------------------------------*/ 
+
+a {  text-decoration: none; color: #0033cc}
+
+a:visited { colour: #3333cc}
+
+a:hover {  background-color: #3333cc; color: #ffffff}
+
+.header2 {  font-family: Arial, Helvetica, sans-serif; font-size: 11pt; color: #000066; font-style: normal; font-weight: bold}
+
+a.header2:hover {  color: #ffffff}
+
+a.header2:visited {  color: #000066}
+
+a.header2:visited:hover { color: #ffffff}
+
+
+
+/*----------------------------------------------------
+  The following are used to emphasise certain links.
+  Applying LINKEMPHASIS to an A tag will re-introduce
+  underlining, which is useful where links are within 
+  body text
+  ---------------------------------------------------*/ 
+
+.linkemphasis { font-family: Arial, Helvetica, sans-serif; color: #0033CC; text-decoration: underline}
+
+a.linkemphasis:hover { font-family: Arial, Helvetica, sans-serif; background-color: #3333cc; color: #FFFFFF; text-decoration: none}
+
+
+
+/*----------------------------------------------------
+  The following is the basic style information for the
+  standard HTML headers H1 to H6   
+  ---------------------------------------------------*/ 
+
+
+h1 {  font-family: Arial, Helvetica, sans-serif; 
+	font-size: 13pt; 
+	font-weight: bold; 
+	color: #000066; 
+	text-align: center; 
+	background-image: url(/graphics/h1-bg.jpg);
+	background-position: left center;
+	background-repeat: repeat-x;
+	border: 1pt #000066 solid;
+	margin-top: 5px
+     }
+
+h2 {  font-family: Arial, Helvetica, sans-serif; 
+	font-size: 11pt; 
+	color: #000066; 
+	font-weight: bold}
+
+h3 {  font-family: Arial, Helvetica, sans-serif; 
+	color: #333333; 
+	font-style: normal; 
+	font-size: 10pt}
+
+h4 {  padding-top: 6px; 
+	font-family: Arial, Helvetica, sans-serif; 
+	font-style: normal; 
+	font-size: 10pt; 
+	color: #666666}
+
+h5 {  font-family: Arial, Helvetica, sans-serif; 
+	font-size: 9pt; 
+	font-style: italic; 
+	color: #000000}
+
+h6 {  font-family: Arial, Helvetica, sans-serif; 
+	font-size: 9pt; 
+	font-weight: bold; 
+	color: #666666; 
+	font-style: italic}
+
+
+
+/*----------------------------------------------------
+  The following are used to emphasise or differentitate
+  sections of text
+  PHOTOCAPTION is left justified 
+  PHOTOCAPCENTRE is centred
+  PHOTOCAP_RIGHT is right justified
+  ---------------------------------------------------*/ 
+
+.introtext {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; text-align: left; color: #333333}
+
+.photocaption {  font-family: Arial, Helvetica, sans-serif; color: #000066; text-align: left; font-size: 8pt}
+
+.photocapcentre { font-family: Arial, Helvetica, sans-serif; color: #000066; text-align: center; font-size: 8pt}
+
+.photocap_right { font-family: Arial, Helvetica, sans-serif; color: #000066; text-align: right; font-size: 8pt}
+
+.smallprint {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000}
+
+.quotetext {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; text-align: left; margin-left: 20px; margin-top: 3px; margin-right: 3px; margin-bottom: 15px}
+
+.dateline {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold; text-align: right}
+
+
+
+/*----------------------------------------------------
+  The following provide heavy emphasis
+  The use of BIGPHONENUMBER should be self explanatory
+  ---------------------------------------------------*/
+
+.emphasistextred {  font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #000066}
+
+.bigphonenumber {  font-family: Arial, Helvetica, sans-serif; font-size: 16pt; font-weight: bold}
+
+
+
+/*----------------------------------------------------
+  The following can be added to a UL tag to produce a
+  bulleted list with arrows instead of blobs - it is 
+  used for menus
+  ---------------------------------------------------*/
+
+.bulletedbodytext { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; list-style-image:  url(/graphics/bullet3.gif); text-align: left}
+
+
+/*----------------------------------------------------
+  The following is for applying to TD tags to produce 
+  boxes with a light blue background
+  ---------------------------------------------------*/ 
+
+.lightbluebg {  background-color: #e8f1ff}
+
+
+
+/*---------------------------------------------------
+  The following are used to create blocks of 'reversed 
+  out' text known in design terminology as WOBs (for 
+  White On Black) 
+  ---------------------------------------------------*/
+
+.smallwobtext { font-family: Arial, Helvetica, sans-serif; font-size: 7pt; color: #FFFFFF; vertical-align: text-top}
+
+.woblinkemphasis {  text-decoration: underline; color: #0000FF}
+
+
+
+/*---------------------------------------------------
+
+The following styles are used on the A-Z INDEX pages
+
+  ---------------------------------------------------*/
+
+.indextitle {  font-family: Arial, Helvetica, sans-serif; font-size: small; font-weight: bold; color: #000066; text-align: center; margin-top: 10px}
+
+.indexheadtext { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #FFFFFF; font-weight: bold }
+
+.indextext {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #0033cc; text-decoration: underline; margin-top: 3px}
+
+
+.indextext:hover { font-family: Arial, Helvetica, sans-serif; background-color: #3333cc; color: #FFFFFF; text-decoration: none; list-style-image:  url(/graphics/bullet3.gif); font-size: 9pt}
+
+.indexsectiontext { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #FFFFFF; line-height: normal; font-weight: bold ; vertical-align: middle; text-align: left}
+
+.indexblock { background-color: #000066; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #FFFFFF ; text-align: left; margin-left: 10px; padding-left: 10px}
+
+.indexsmalltext { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #0033cc; text-decoration: underline}
+
+
+
+/*----------------------------------------------------
+  The following is used for red headlines 
+  ---------------------------------------------------*/ 
+
+.redline {  font-family: Arial, Helvetica, sans-serif; font-size: 13pt; font-weight: bold; color: #CC0000}
+
+
+
+/*----------------------------------------------------
+  The following styles were imported from an old set 
+  used for Neighbourhood Watch pages. They will probably 
+  not be used but are here in case anyone needs to produce 
+  a page that matches the old Neighbourhood Watch design 
+  ---------------------------------------------------*/ 
+
+.neighbourhead { font-family: Arial, Helvetica, sans-serif; font-size: 12pt; font-weight: bold; color: #008055 }
+
+.neighbourbg { background-color: #ffe700; padding-top: 6px; padding-right: 6px; padding-bottom: 6px; padding-left: 6px; margin-top: 6px; margin-right: 6px; margin-bottom: 6px; margin-left: 6px }
+
+
+/*----------------------------------------------------
+  The following are temporarily redundant
+  ---------------------------------------------------*/ 
+
+
+.listitems {  }
+
+.title2 { font-family: Impact, Verdana, sans-serif; font-size: 24pt; font-weight: normal; color: #E54135 }
+
+.posterimage {  border: #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.top_table_cell {
+	border-top-width: 0px;
+	padding-top: 4px;
+}

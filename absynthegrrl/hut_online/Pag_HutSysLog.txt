@@ -1,0 +1,117 @@
+System Log:
+system cold restart
+    check powersys - succeeded
+    check techsys - core components change - rebuild
+        compile core
+            load dependencies - complete
+            check base tables - succeeded
+            check rooms tables - succeeded
+            check objects tables - succeeded
+            check occupants tables - missing - create
+                load defaults
+                add unknown and create links
+                    added
+                    created
+                create occupants tables - succeeded
+            check security tables - mismatched descriptors - regen
+                load defaults
+                scan occupants tables - scanned
+                create new security descriptors
+                    clear mismatched descriptors
+                    load defaults
+                    attach defaults to new occupants
+                    created
+                regen security tables - succeeded
+            compile - succeeded
+            core rebuild succeeded
+        check perifsys - succeeded
+        link coresys - succeeded
+        link perifsys - succeeded
+        techsys rebuild - succeeded
+    check majiksys - core components changed - rebind required
+        clear old binding
+        check occupants - rebinding necessary
+            rebind - succeeded
+            occupants rebinding - succeeded
+        test configuration and matrix - rebind
+            rebind occupants and matrix - succeeded
+        trigger matrix reweave - succeeded
+        rebind
+        majiksys rebind - succeeded
+    check navsys - succeeded
+    check defconsys - succeeded
+    link
+        powersys - succeeded
+        techsys - succeeded
+        majiksys - succeeded
+        navsys - succeeded
+        defconsys - succeeded
+    run structdef - succeeded
+    check command list table - not empty - run
+    
+interface initialized
+interface activated
+
+WARNING: energy spike - space/time distortion pulse
+WARNING: nav system damaged
+WARNING: Interface Fault: System Malfunction. Interface Locked to Nearest Target
+
+interface system damaged
+    - status - 
+        Off-Line
+        AutoRepair requested
+            AutoRepair
+                FAILED
+
+control crystal matrix damaged
+    - status - 
+        Off-Line
+        AutoRepair requested
+            AutoRepair
+                FAILED
+
+standard defcon grid deployed
+    defcon blend selected
+        defcon established
+
+power system malfunction
+    _ status - 
+        Primary
+            Off-Line
+                Interface System
+                    FAULT
+        Secondary
+            Online
+
+defcon control
+    - status - 
+        Off-Line
+        defcon locked cur config
+        Waiting Power Restore
+
+autoconfig started
+    navsys destination purge - succeeded
+    autoconfig parameter error - terminated
+
+configrepair
+    succeeded
+        config stable
+
+auto-repair launched
+    - status - 
+        Running
+            ------
+        Halted
+            Primary Power FAULT
+                Interface System
+                    Manual repair required
+                        crystal matrix
+                            replacement(s) required
+
+OVERRIDE TRIGGERED
+    entry redirect
+        active
+            target location: Controller Bed Chamber
+        successful
+    end redirect
+OVERRIDE TERMINATED

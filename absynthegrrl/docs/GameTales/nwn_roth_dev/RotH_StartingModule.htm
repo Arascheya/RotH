@@ -1,0 +1,459 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <link rel='stylesheet' type='text/css' href='../../../stylesheets/layout.css' />
+    <title>RotH_Dev</title>
+</head>
+
+<body>
+<!--
+<p>
+    <IMG SRC="imagefile.ext">
+</p>-->
+<p class="pagecaption">Realms of the Hut - Development Notes</p>
+<p class="sectioncaption">Related Dev Links</p>
+<p class="regtxt5">Incorporate the <a href="../../Irendi/irendi_dev.htm">Irendi and Rani corp</a> story ideas into this. Rani Corp is developing an online game as a recruiting tool. Also connect characters from <a href="../urulive/urulive_dev.htm">Uru Live</a> - they are tied in to the game company developing <a href="https://rothonline.wikidot.com">Realms of the Hut Online</a></p>
+<p class="sectioncaption">General Dev Links</p>
+<p class="regtxt5"><a href="../../docs_index.htm#gaming">Realms of the Hut Story Index</a></p>
+<p class="regtxt5"><a href="../../../gm_resources/npc_index.htm#gaming">NPC Index</a></p>
+<p class="regtxt5"><a href="notes.htm">NWN 1 Specific Data</a></p>
+<p class="regtxt5"><a href="../../../hut_online/dev/notes.htm">NWN 2 Specific Data</a></p>
+<p class="sectioncaption">Insertables Links</p>
+<p class="regtxt5"></p>
+<p class="sectioncaption">Specific Dev Links</p>
+<p class="regtxt5"></p>
+
+</br>
+<p class="sectioncaption">Things to remember throughout</p>
+<p class="regtxt5">PC must feel in control of decision tree at all times</p>
+
+<p class="regtxt5">NPCs should be interesting and evocative</p>
+
+<p class="regtxt5">levels need to be interesting and contain interesting puzzles</p>
+
+<p class="regtxt5">Can create custom skill management - see Firefly code for examples</p>
+
+<p class="regtxt5"></p>
+
+
+</br>
+<p class="sectioncaption">Things to consider revising</p>
+<p class="regtxt5">Make interactions more complex between Lady A, Shalmar, and PC</p>
+
+<p class="regtxt5">leave the twins alive but hiding somewhere after Shalmar rips through the Under Tunnels</p>
+
+<p class="regtxt5">make sure PC understands where home and such are - more sense of history about Hovelton and the main city</p>
+
+<p class="regtxt5">allow PC choice in final scene between giving item to Lady A, giving item to Shalmar, keeping it, or destroying it</p>
+
+<p class="regtxt5">consider this module to deal with all 7 of the Orbs - these are echoes of the Orbs of Law</p>
+
+<p class="regtxt9">Orb of Visions - (Orb of Direction)</p>
+
+<p class="regtxt12">should call various Cut Scenes at trigger events to hint toward next Orb</p>
+
+<p class="regtxt9"> - (Orb of Harmony)</p>
+
+<p class="regtxt12"></p>
+
+<p class="regtxt9"> - (Orb of Theft)</p>
+
+<p class="regtxt12"></p>
+
+<p class="regtxt9"> - (Orb of Envy)</p>
+
+<p class="regtxt12"></p>
+
+<p class="regtxt9"> - (Orb of Death)</p>
+
+<p class="regtxt12"></p>
+
+<p class="regtxt9"> - (Orb of Waste)</p>
+
+<p class="regtxt12"></p>
+
+<p class="regtxt9"> - (Orb of Ertan)</p>
+
+<p class="regtxt12"></p>
+
+<p class="regtxt5">expand final scene to provide link to Hut in some way that makes a bit of sense</p>
+
+<p class="regtxt5">add to starting cut scene to show arrival of Shalmar and then Lady A?</p>
+
+<p class="regtxt5">get cut scenes working so PC can see results if give the item to one of the factions</p>
+
+<p class="regtxt5">PC should talk to Maritya at least once during adventure. she will pass on an item from a mysterious woman with some kind of cryptic comment - this is the link to the Hut - it is a Summoning Gem - it triggers at end game, regardless of PC choice with artifact - UPDATED - Nikala and Tomanas discovered the Gem</p>
+
+<p class="regtxt5">consider Mari in her tower if PC goes immediately there after talking to Misha, otherwise only Shalmar guards are at Mari's place and Mari is in the Refuge. Misha should tell PC that Shana is gathering survivors and heading to the Refuge.</p>
+
+<p class="regtxt5">Lady A is waiting in Mom's rooms when PC enters - she talks to PC and gives a token - will take to Lady A's tent if used before all Vault Keys are collected, after that, will transport to the Main Vault chamber.</p>
+
+<p class="regtxt5">need a few sub-quests from the various survivors to provide other things to do</p>
+
+<p class="regtxt5">need more encounters - sigh</p>
+
+<p class="regtxt5"></p>
+
+
+</br>
+<p class="sectioncaption">General Ideas</p>
+<p class="regtxt5">Post-Magical Apocalypse</p>
+
+<p class="regtxt5">consider second beginning cut scene of parts of the Magic War</p>
+
+<p class="regtxt5">PC starts in the "village" near the ruins of the collapsed city - given choice to be Vassal or Other</p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5">need opening gambit to hook player - what happens in the struggling area to motivate the PC into some action? - see cut scene descriptions below</p>
+
+<p class="regtxt5">Maritya of the Crows - seer of some ability</p>
+
+<p class="regtxt5">orc twins - one is a brawler and the other a rogue, demented succubus healer, several scruffy humans - mostly commoners, mom - dies in first act</p>
+
+<p class="regtxt5">the hovelites forage among the ruins of Tharaneta for various items to sell to the trader who comes to town every few months</p>
+
+<p class="regtxt5">buried in the ruins is one of the artifacts used in the magic war that brought civilization to its knees. a wizard lord, Lady Ayrthane, comes looking for it.</p>
+
+<p class="regtxt5">artifact is one of the lesser items used, however it can give hints to the major one used by the Tharanetans in the war</p>
+
+<p class="regtxt5">artifact can be found 3 ways - brute force searching, talking to the rest of the neighbors in hovelton, following or aligning with Lady A. The artifact is in a vault underneath an old tower near the center of the ruined city. It is protected by various traps and tricks, should have some type of thing that has to be solved to get into it.</p>
+
+<p class="regtxt5">areas needed - hovelton, several living area interiors, at least one section of City ruins, at least one underground area containing the vault and artifact, a section of terrain leading to the ruins where the PC lives - this is where Commander Elzeth has her troops and guards stationed and is where her residence tent can be found, Vault Access is 7 sections, each with dynamic door entrance and egress - destinations are set as each clue item is recovered - no clue and the egress exits to a random location in the city ruins above - many near local wild life looking for a meal</p>
+
+<p class="regtxt5">in the city ruins need to place hungry random encounters - most are non-intelligent and feed off each other or visitors</p>
+
+<p class="regtxt5">conflict points - Lady A retinue, if not avoided; should be a few things living in various parts of the city ruins, guardians(?) of the vault</p>
+
+<p class="regtxt5">need to create friend of Misha item for trap in her entry</p>
+
+<p class="regtxt5">need to think about some way of resolution if the PC decides to try and go head-to-head with Lady A - maybe a strategic withdrawal on her part if the PC manages to kill most of her retinue</p>
+
+<p class="regtxt5">after reading mom's diary, the PC should get an approx map of the city, plus notes of what her mom knew about at the time of her death - zombie warrens, Vault entrance, other items - remember - some will have changed in 12 years</p>
+
+<p class="regtxt5">scenario ends with PC recovering item and either presenting it to Lady Ayrthane or smuggling it back to the home cave</p>
+
+<p class="regtxt5">NPCs - look at Gamasutra article on Characters in Game as a reminder of how to do this better</p>
+
+<p class="regtxt9">Wizard Lord faction</p>
+
+<p class="regtxt12">Notes</p>
+
+<p class="regtxt15">They were the underlings, the second level, the almost dregs left behind when the truly powerful fought each other and the established priesthood in the Magic Wars. When the more balanced arcanes died in the war, these dregs started grabbing power by whatever means possible.</p>
+
+<p class="regtxt15">There are exceptions to this, Lady Ayrthane is one. Her purpose was to gain enough power to find and safe-guard the various dangerously powerful items left behind after the War.</p>
+
+<p class="regtxt15">In the area of these adventures there are 30 Wizard Lord holdings, 15 very powerful and land rich and 15 that are not as well off. They will make war on each other if there is any chance they could remove a rival and acquire more resources.</p>
+
+<p class="regtxt15">Shalmar is one of the worst for the attack and conquer approach, Lady A. is one of the least likely to attack unless it is for defense.</p>
+
+<p class="regtxt12">Lady Ayrthane</p>
+
+<p class="regtxt15">Hard, cold as nails, - think Lady - it appears she seeks the Artifact for war, in truth she seeks it as protection from Shalmar, a greedy, blood-thirsty Lord to the south of her realm</p>
+
+<p class="regtxt12">Mogron</p>
+
+<p class="regtxt15">The perfect toady, but with a brain, Lady A respects him enough to listen if he raises a serious issue. Mogron is a capable wizard in his own right, just nowhere near as powerful as his lord. Mogron is a rather talkative sort when not in the presence of Lady A. He is a strong supporter because he knows the stakes.</p>
+
+<p class="regtxt12">Commander Elzeth</p>
+
+<p class="regtxt15">The head of Lady A's forces and her most trusted retainer. Elzeth is having second thoughts about her Lord and her actions, particularly this quest to recover one of the great weapons from the cataclysm. A careful PC could influence her into removing the Perimeter Wards and possibly revealing Lady A's true purpose. Charisma is a good first step, however, charm and no-bulshit is a good second. Conversations need to be written so the changing of her position is not an immediately obvious option.</p>
+
+<p class="regtxt9">Others faction</p>
+
+<p class="regtxt12">Mishana</p>
+
+<p class="regtxt15">succubus, who has forgotten most of her background. She has an item which allows her to retain human shape. If it is stolen from her she will instantly revert. Sometimes she will revert to relax. While one of the test subjects she learned enough healing to make her valuable to the residents of hovelton. Mishana lives in a twisted tangle of the under tunnels, trying to feel a safety that doesn't exit</p>
+
+<p class="regtxt15">Mishana knew of Tonie's sister and her name, but was instructed to keep it quiet until she gives the key to the PC. She can tell the PC about her mom and a bit about Dorotea.</p>
+
+<p class="regtxt12">Nikala</p>
+
+<p class="regtxt15">basic digger, paranoid, lives in the Refuge section and only comes out to work</p>
+
+<p class="regtxt12">Shana</p>
+
+<p class="regtxt15">stealthy and dangerous, Shana provides protection for the rest of the group when they are in the more dangerous areas. She has gathered the few survivors into the Refuge after Shalmar begins his killing spree.</p>
+
+<p class="regtxt12">Yantara</p>
+
+<p class="regtxt15">the rogue orc twin - she is the brighter of the two</p>
+
+<p class="regtxt12">Yintara</p>
+
+<p class="regtxt15">the basher of the twins, she is always ready to rumble, particularly against outsiders</p>
+
+<p class="regtxt12">Maritya</p>
+
+<p class="regtxt15">crazy tya, she talks to her birds and mumbles in bits of vision. if she can be focused, she is actually a capable seer and can provide hints and clues to the purposes of Lady A and the exact location of the artifact. Maritya lives at the top of the ruined tower, up with her birds.</p>
+
+<p class="regtxt15">Maritya fears and despises all Wizard Lords. She has forgotten that she knew Dorotea before everything started. She will council the PC to avoid any interactions with Wizard Lords for fear of enslavement or worse.</p>
+
+<p class="regtxt12">Barreth</p>
+
+<p class="regtxt15">old now, Barreth knew the under-tunnels well in his youth. He serves a barely acceptable brew in his under-hovel establishment and can be prompted to talk with the incentive of a new item or a sack or two of truly fresh grain. He knows of a back way into the vault area and could be persuaded to reveal it for a cut of the non-Artifact items from the vault and a particularly good trinket as an up front payment. this back way has the final vault key stashed in a locked location.</p>
+
+<p class="regtxt12">Mom</p>
+
+<p class="regtxt15">Born Tonie Ayrthane, she is a silent character, known only from her diaries and notes, she was the older sister of Lady Dorotea Ayrthane</p>
+
+</br>
+<p class="sectioncaption">Insertable Segments</p>
+
+<p class="regtxt5">this should be the opening cut scene - once the PC spawns in. PC is next to Mishana, the demented succubus healer, she will talk to the PC after the cut scene - asking after mom - Mishana will be in human guise - don't want to panic PC until later...</p>
+
+<p class="regtxt5">CUT TO: csSpiderShip: Shalmar, Aztol, and Shalmar's commander in the Spider Ship control center - Aztol on a throne, Shalmar and guard standing nearby, controllers at their stations</p>
+
+<p class="regtxt5">*Aztol(AztolCS01): We have arrived. I trust you can handle this on your own from here.</p>
+
+<p class="regtxt5">*Shalmar(ShalmarCS01): Yes, my lord Aztol. Ayrthane should pose no threat and the vermin, ha!</p>
+
+<p class="regtxt5">*Trooper(ShalCmdrCS01): Your orders, Lord Shalmar?</p>
+
+<p class="regtxt5">*Shalmar(ShalmarCS01): Kill anyone you find.</p>
+
+<p class="regtxt5">*Trooper(ShalCmdrCS01): What if they know something?</p>
+
+<p class="regtxt5">*Shalmar(ShalmarCS01): What could an Other know? Just kill them.</p>
+
+<p class="regtxt5">*Trooper(ShalCmdrCS01): And Ayrthane?</p>
+
+<p class="regtxt5">*Shalmar(ShalmarCS01): Bring that bitch to me.</p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5">CUT TO: csLadyATent: show Lady A tent - PC invisible - Lady A, Commander E, and Mogron talking</p>
+
+<p class="regtxt5">*Mogron(MogronCS01): My Lady, a giant metal spider appeared and is spewing massive numbers of Shalmar's troops.</p>
+
+<p class="regtxt5">*Lady A(LadyACS01): Commander, disperse the troops. Tell them to make their way back home.</p>
+
+<p class="regtxt5">*Commander(CmdrECS01): But...</p>
+
+<p class="regtxt5">*Lady A(LadyACS01): We only have a small force while the Spider Ship has brought Shalmar's army. We can't win with the force we have and I won't have our people killed needlessly. The three of us will stay, the rest need to save themselves.</p>
+
+<p class="regtxt5">*Commander(CmdrECS01): What can we accomplish?</p>
+
+<p class="regtxt5">*Lady A(LadyACS01): The Vault Keys were hidden by my sister which gives us the advantage. Shalmar will have to blunder about until he finds them.</p>
+
+<p class="regtxt5">*Mogron(MogronCS01): But the band of Others living here will be anihilated.</p>
+
+<p class="regtxt5">*Lady A(LadyACS01): I know, but there is no way we can protect them. They wouldn't bellieve us if we tried.</p>
+
+<p class="regtxt5">Old Version - for reference only</p>
+
+<p class="regtxt5">Lady Ayrthane: "Is this the place?"</p>
+
+<p class="regtxt5">Frenzik: "Yes great lady."</p>
+
+<p class="regtxt5">Lady A: "And these vermin? Do they pose a threat?"</p>
+
+<p class="regtxt5">Frenzik: "Oh no great lady. They are the addled survivors and their bastard children, scuttling from shadow to shadow and digging garbage from the city in hopes of bettering themselves. They will scurry into their holes and stay there until we leave."</p>
+
+<p class="regtxt5">Lady A: "Mogron, is it near and can you find it?"</p>
+
+<p class="regtxt5">Mogron: "Yes mistress."</p>
+
+<p class="regtxt5">Lady A: "Please pay our good Frenzik. His job is concluded."</p>
+
+<p class="regtxt5">Mogron: blasts Frenzik with a flesh to stone spell, turning him into a statue</p>
+
+<p class="regtxt5">Lady A: "Take us to it, Mogron." group continues on into the main ruins</p>
+
+<p class="regtxt5">Mogron: "And the vermin?"</p>
+
+<p class="regtxt5">Lady A: "Leave them. Have Commander Elzeth set Perimeter Wards to prevent any from leaving."</p>
+
+<p class="regtxt5">A newer Cut scene <a href="http://gestalt.johnjsalerno.com/tutorial/in_g_cutscene_index.htm">tutorial</a> - using someone's custom code - rip into custom code and see what is in a cut scene. Also, run XP1 and watch cut scene, then rip into q1a_ scripts to see how Bioware coded it</p>
+
+<p class="sectioncaption">Solutions</p>
+
+<p class="regtxt5">should have a couple of different solutions for various styles of play</p>
+
+<p class="regtxt9">Spell based types - a magic related method of solving the Vault Access puzzle</p>
+
+<p class="regtxt9">Fighting types - methods that don't require magic to access</p>
+
+<p class="sectioncaption">Puzzles</p>
+
+<p class="regtxt5">Vault Access - Major puzzle</p>
+
+<p class="regtxt9">seven gates of wisdom - need to solve seven sub-clues to get to the Vault - this sets 7 doors to the appropriate targets to lead to the Vault</p>
+
+<p class="regtxt9">consider using the dynamic door code to change linking locations as parts of the Vault Access are solved.</p>
+
+<p class="regtxt9">clues to the door setting pieces should be attainable by magic or by regular skills</p>
+
+<p class="regtxt9">final piece to the Vault is a key of some form to open the final door and set it to the correct destination - 5 pillars around a trap-door, require the correct gems to be placed in them to open the door and reveal the Vault access</p>
+
+<p class="regtxt5">debug tool - should allow display of Heartbeat counter and other critical variables</p>
+
+<p class="regtxt5">heartbeat counter - see if this would be a way to count-down the time until Lady A finds the Artifact - if she does, return PC to their home, clear the doors, and play some type of animation that explains the artifact has been removed - each module heartbeat is 6 seconds so 10 of them would be about 1 minute - 39 minutes would be 390</p>
+
+<p class="regtxt5">Lab key - TAG: a_moms_key, RESREF: a_moms_key - required to activate link to lab - need to modify lab link to check for Key and Mom's Chest being unlocked, inside chest is a note, in the lab is a short journal - mom apologizing for dying and a brief explanation of what she was and what was being done just before the war, maybe a small hint about Ayrthane</p>
+
+<p class="regtxt9">Mom's Note (in locked chest): I wish I could have been with you as you grew up, but life did not allow me to stay. I hope I bought you safety with this sacrifice. You are reading this because Mishana has given you the key to my chest. The key will also allow you to enter my lab. There are notes there that may help you understand what happened just before your birth. I love you very much, Mom - could consider making this a cut scene if have time/inclination</p>
+
+<p class="regtxt5">Lab diaries - one should briefly explain the artifact tests and the environment of the city, another the origin of the survivors - prisoners kept for testing, the third should explain a bit of mom's history and the fact she is Lady Ayrthane's older sister</p>
+
+<p class="regtxt9">Books moved to Roth Dev Notes <a href="items.htm">Items</a> listings</p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5">This should be more of a Treasure Hunt and less of a combat centric mod. Need to figure when Lady A. will be at each place and provide appropriate encounters. There will be Lady A and Shalmar troops wandering the city. Fighting one should start combat with all.</p>
+
+<p class="regtxt5">After Dorotea has been in her room, the door will be unlocked, there is nothing in her room she is worried about. should there be something left over from before the war about her?</p>
+
+<p class="regtxt5">Dorotea conversations</p>
+
+<p class="regtxt9">in mom's rooms</p>
+
+<p class="regtxt12">she will be neutral but not immediately hostile, unless greeted with hostility. an attack would be suicide.</p>
+
+<p class="regtxt9"></p>
+
+<p class="regtxt12"></p>
+
+<p class="regtxt5">consider this approach - write the conversations for one character, then go back and add for a second - each one a different person - to try and break the blocks on multiple conversation paths</p>
+
+<p class="regtxt5">add Nerris Shalmar and his team attempting to recover the item as well. there will be dead, among them the twins and others the PC will have known growing up - should be ambiguous about who has been killing them</p>
+
+<p class="regtxt5">if can figure out freaking cut scenes, could come upon the twins being killed by Shalmar and a few others at random points of Shalmar and Ayrthane teams in battle</p>
+
+<p class="regtxt5">place a few encounters with Shalmar forces in which the PC does need to fight. any Ayrthane teams will be neutral to the PC until attacked, Lady A will remain neutral, realizing a need to interact and bargain with the PC for the final Vault Key</p>
+
+<p class="regtxt5">have Mom's Chest create the Vault Key on the PC to make sure they don't "forget" to grab it</p>
+
+<p class="regtxt5">Module Description</p>
+
+<p class="regtxt5">Life in the hovels around the ruined city of Tharaneta is hard, tedious, and relentless and then the wizard lord arrived.</p>
+
+<p class="regtxt5">Once in Hut - it is stranded in Babylon, requiring Control Crystals - use RotH Babylon for next segment</p>
+
+<p class="regtxt5">transfer could be by trying to destroy the artifact or through the Hut Calling Gem for now. What happens if don't have Hut Gem and give Lady A. the artifact?</p>
+
+<p class="regtxt5">Can return after fixing the Hut to continue hunting Echo Orbs for Lady A. - make this a separate module - accessible either by heading out with Lady A. or returning with the Hut - could use some type of spce-time distortion and use a pre-fab city or dev something from scratch - there should be a distortion pulse initiated by opening the vault and maybe a second one if the PC tries to destroy the artifact - artifact stays with Lady A or PC - Lady A lands in Greyhawk, PC lands in the Hut - Lady A token provides way to get back to her and lands in the Nav Com system of Hut - nav com tokens appear for World Links (module change links)</p>
+
+<p class="regtxt5">Alt. - Londinium - need to set arrival point and where Lady A. lands. could use Wellingham Estate or could have it be somewhere under Londinium. Need Whitechapel, Wellingham Estate, Baker Street, Kings Cross (ITC HQ) Lord Wellingham, British Museum and Imhotep display, Carfax Abbey and Dr. Seward's Asylum, digging at Stonehenge?</p>
+
+<p class="regtxt5">Need to collect the Shadow Orbs to find the true Orbs of Law, required to solve many quests. figure out where-how the Handfits in. Add Alt. London in as one of the quests - thinking should try to make the Keepers story and the game follow each other, so need to make Chapter 2 Orbs take place in Jakara.</p>
+
+<p class="sectioncaption">Overall Campaign</p>
+
+<p class="regtxt5">Aztol vs She... - Aztol's desire to take control of Centrys and the power that represents</p>
+
+<p class="regtxt5">The Hand opening the Zeltropian Hell Gates and the battle to prevent that</p>
+
+<p class="regtxt5">Lady Ayrthane hunting the <a href="../../../gm_resources/items/orbs/orbs_inx.htm">Orbs of Power</a> - why does she want them?</p>
+
+<p class="regtxt5">The Hand or someone else seeking the Eye of the Destructor - planning to release the Destructor - there should also be a group seeking to release the Creator - both of these groups require the Artifacts of Ertan, the <a href="../../../gm_resources/items/orbs/orbs_inx.htm">Orbs of Power</a>, and the <a href="../../../gm_resources/items/orbs/orbs_inx.htm">Eye of the Destructor</a></p>
+
+<p class="regtxt5">Freeing Ishra and recovering her Spider Ship from Aztol - mostly spearheaded by the Drow</p>
+
+<p class="regtxt5">Aztol - Elentaryn conflicts</p>
+
+<p class="regtxt5">Aztol hunting for Krystal and the Cobra Book</p>
+
+<p class="regtxt5">Kayara and Sharyl activities - School of Magic, Trickster, etc.</p>
+
+<p class="regtxt5">Cthulian issues in London</p>
+
+<p class="regtxt5">a group searching for the Creation Team - should be on a higher tech world</p>
+
+<p class="regtxt5">Hut main power system repairs - entry to high tech Gibsonian Cyber-Punk style world that is just venturing back into space</p>
+
+<p class="regtxt5">other quests that are smaller in scope and more local in scale</p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5"></p>
+
+<p class="sectioncaption">Chapters</p>
+
+<p class="sectioncaption">RotH: Prelude</p>
+
+<p class="regtxt5">Training area, based off Bioware training rooms at the Academy</p>
+
+<p class="sectioncaption">RotH: Chapter 1 Afterwards</p>
+
+<p class="regtxt5">Meeting Lady Ayrthane, finding out about the Wizard Lords, hints about Aztol, Irena, Orbs, and other things.</p>
+
+<p class="regtxt5">Missing friends: Tralis, Nathan, Doria, Wilna, Janeth, Tomanas</p>
+
+<p class="regtxt9">/* set locations for these survivors and what the PC finds when rescuing them - if they do */</p>
+
+<p class="regtxt9">Tralis - City Sewers - hiding in a side area with her two children Anya and Misha</p>
+
+<p class="regtxt12">Tralis is one of the wandering clan that comes through the ruins now and again. She often stays to scavenge while the others trade.</p>
+
+<p class="regtxt12">Tralis knows about: the wanderers, a bit about various Wizard Lords - Shalmar, Lady Ayrthane, Mercrantz, Frezix. She would trust Lady A, based on a couple of events. The rest she considers vermin.</p>
+
+<p class="regtxt12">Anya is a fledgeling Seer, she recognizes the same talent in the PC</p>
+
+<p class="regtxt9">Nathan - being killed by Shalmar when Anya is watching</p>
+
+<p class="regtxt9">Doria - city center</p>
+
+<p class="regtxt9">Wilna - Tamaris quarters - some type of clue found in the wreckage</p>
+
+<p class="regtxt9">Janeth - Tamaris quarters</p>
+
+<p class="regtxt9">Tomanas - dead, near Gate with broken key</p>
+
+<p class="regtxt5">Dead: Aaron and his family, Barreth, Frencilla and her family</p>
+
+<p class="regtxt5">unknown status: Jalon and his family - live in the hills outside the ruins, in the area where Lady A's encampment was.</p>
+
+<p class="sectioncaption">RotH: Chapter 2 Orbs</p>
+
+<p class="regtxt5">takes place on Z in the Lotus Empire. module goals - find the crystal(s) necessary to bring the Hut back online, learn about the Hell Gate Wars, The Hand, and some of the other players</p>
+
+<p class="regtxt5"></p>
+
+<p class="sectioncaption">Things to work out, determine, update</p>
+
+<p class="regtxt5">What happens with Kara and Valen? Kara is Eritsani and loves being in space. The Hut isn't enough like it after a while. How do they resolve this?</p>
+
+<p class="regtxt5">When does Shandi reconnect with Kayara and Sharyl? Has this already happened or is this something that will effect the players?</p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5"></p>
+
+<p class="sectioncaption">Misc Notes</p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5"></p>
+
+<p class="regtxt5">to fix missing Chasm Wind - replace sound item with "as_wt_gustchasm1"</p>
+
+<p class="regtxt5">DavidPalmer@charter.net - texturing and 3ds models</p>
+
+<p class="regtxt9">Spider Ship</p>
+
+<p class="regtxt9">Bone Throne - there is a begining model in the HAK stuff - need to dig it out</p>
+
+<p class="regtxt9">Hut</p>
+
+<p class="regtxt9">TARDIS</p>
+
+<p class="regtxt5">band name - maybe Dans Macabre - Laudanum Brigade</p>
+<p class="regtxt5"></p>
+<p class="regtxt5">Simpsons, Harry Potter</p>
+<p class="regtxt5">music - pink coctail</p>
+<p class="regtxt5">movie - off the map, rear window, thank you for smoking(let it work up from end of list), i robot</p>
+<p class="regtxt5">drinking-mercury - deviant art with CX concert photos</p>
+<p class="regtxt5"></p>
+<p class="regtxt5">check David's web sites - park CDCLignum and see if we reserved CarpeDiemCarpeLumen</p>
+<p class="regtxt5">natural history of desire</p>
+<p class="regtxt5"></p>
+<p class="regtxt5"><a href="../../docs_index.htm">Writings Index</a></p>
+<!--<a href=""></a>-->
+
+</body>
+
+</html>

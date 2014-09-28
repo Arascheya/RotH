@@ -1,0 +1,132 @@
+KI Numbers
+
+GT Account - Shandi
+    Shandi - IC mostly
+    KI: 00203081
+
+    Irena - IC Always
+    KI: 01749896
+
+    Chani - ??
+    KI: 1333795
+
+    J'Ason
+    KI: 01149094
+
+    Ablaa
+    KI: 01471136
+
+    GT Sub Account Katyarina
+
+        Katyarina - IC Always
+        KI: 01750901
+
+        Tyana - IC Always
+        KI: 01777749
+
+        Duh'meee - Puzzle Dummy
+        KI: 02470309
+        
+Guild of Dummies
+    There are two kinds of Dummies, part time and full time. Full Time Dummies should be a member of Dummy's Bevin, and have a Buddy List that contains a large number of both full time and part time Dummies. Part time Dummies can also be members of Dummy's Bevin if they wish, if not they should have Dummy's Bevin in their private list.
+    
+    Then a group of Dummies can get together by a full time Dummy calling all their buddies, to see who is available.
+    
+    If a part time Dummy hears of a need, they can either ask a full time Dummy to spread the word, or get a group together themselves.
+    
+    Full time Dummies might also have people on the buddy list who are not Dummies, so should be careful how they call Dummies for assistance, e.g., "Could available Guild of Dummies members meet in Dummy's Bevin to help _Player_?"
+    
+    Full Time:
+        Dummy:              01683423
+        Duh'me:             01684187
+        Duh'meee:           02470309
+        D'mi:               01787895
+        Puzl'dmi:           01794015
+        Daht'dmi:           01808512
+        Breyn Dedd:         02336192
+
+    Part Time:
+        butterpaw:          00018775
+        Calliope:           00193315
+        Cassie:             00111799
+        Cassie's Evil Twin: 00400154
+        Cave Weta:          00062437
+        Chris Rieger:       01711109
+        daht:               00050538
+        daht'ay:            00044407
+        fchall:             00983285
+        Durandal:           00384344
+        Jubie72256:         01033269
+        Justina:            00030359
+        Kerryth:            00021734
+        Marck:              00154429
+        MarkMan:            00771376
+        Lord Chaos:         00177819
+        Nyrphame Danilaise: 00064855
+        Owehn:              00045434
+        Pink:               00177946
+        Pixel:              00189718
+        Seagull:            00244634
+        Ti'an:              01760413
+        UruBoo:             00080722
+        willeula:           00073158
+        William:            00116931
+
+Other Players:
+    Kiril
+        char: Kiril
+        KI:  00160984
+
+        Kreel - RP with Irena
+        KI: 01710225
+
+    Br'an - met through running J'Ason
+    KI: 01076780
+
+    Ivan
+    char: Zanzibar
+    KI: 01467048
+
+    Robert
+    char: Lafcadio
+    KI: 01523578
+    
+    Ni'Cahlas the Young - organizer of Pub restoration
+    KI: 01848647
+
+    Andrew Plotkin
+    KI: 00188183
+
+
+DRC:
+    Cate Alexander: 12386
+    Dr. Kodama: 11855
+    Marie Sutherland: 12192
+    Michael Engberg 12290
+    Victor Laxman: 12072
+
+DRC Related:
+    Nick White:     12727
+    Wheely Engberg: 12479
+    Rosette:        6598542
+
+
+REHEARSAL
+    Mine
+        Shandi:         00002867
+        Shandi_hd:      00339070
+        Shandi_T2:      00366271
+
+    Multi-Player Test Hood
+        Sudre 3.49:     00351279
+
+        artic test.avi: 00343484
+        
+        Sudre - Goergene (464075).
+
+
+BOGUS NUMBERS - for use in Blog Story
+990000001 - Shandi
+990000002 - Katya
+990000003 - Kiril
+990000004 - Kreel

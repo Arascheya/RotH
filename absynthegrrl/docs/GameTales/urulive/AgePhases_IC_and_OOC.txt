@@ -1,0 +1,50 @@
+OK. Here are what the phases mean both IC and OOC. There really isn’t much difference. If you just read between the lines just a tiny bit, you’ll see that the IC phases are nearly identical to the OOC phases each Age goes through.
+
+Phase 1
+IC: Initial Mapping - During this Phase, basic maps and documents are created for the Age or location being restored. These documents are later detailed further in phase 3. Dr. Kodama is the head DRC member in charge of this phase.
+
+OOC: Initial Design - During this Phase, basic maps and documents are created for the Age or location being designed. This includes the design of the puzzles and story for the Age. (For an example, here’s a link to one of the "Initial Design" maps for Riven: http://tinselman.com/files/all_islands_sm.jpg (from Robyn Miller’s Blog, Feb 22, 2006 entry))
+
+Phase 2
+IC: Structural Analysis - All structures and supports are examined for integrity and safety. Dr. Kodama also heads the completion of this phase.
+
+OOC: Massing Model - All structures are made in rough form to show their basic shapes and sizes. Little or no texture/lighting are done at this stage. Most of the wireframes at the “3D history” site mentioned earlier in this thread are massing models from Uru and/or DIRT.
+
+Phase 3
+IC: Detailed Analysis - The Age or location is given a thorough examination by a survey team, which creates extensive maps and additional documentation on the area. Dr. Sutherland is in charge of this phase.
+
+OOC: Detailed Analysis - The Age or location (massing model) is given a through examination by the design team. We can walk around and get a "feel" for the Age and make changes while the Age is still in the early stages. Design documents are updated to reflect any changes in the Age’s design.
+
+Phase 4
+IC: Restoration - This is the most extensive phase, during which all machinery is repaired, structures are secured, and cleanup is performed. Mr. Engberg is in charge of operations in this phase.
+
+OOC: Detailed Modeling/Wiring - This is the most extensive phase. In fact, when Dr. Watson first explained the phases way back then, he said he could see this one being broken into two parts. IC, it makes sense to refer to both parts as one “restoration” phase. OOC, though, it really is two distinct phases.
+
+Phase 4a - Detailed Modeling - Models are refined to final forms (structures are secured and cleanup is performed), textures are added, lighting is added, etc. Once phase 4a is finished, the Age will "look" complete. If you get a screen shot of something at the end of this stage, you might assume "Hey, it’s done. Why haven’t they opened it yet?", but there’s still a lot to do - it looks great, but nothing actually works yet. (The Kahlo screenshots mentioned earlier in this thread are from Phase 4a.)
+
+Phase 4b - Wiring - This is where everything in the Age is made to "work". Machines, elevators, doors, buttons, levers, triggers, puzzles, game-play, etc. Once phase 4b is done, hopefully everthing in the Age works as it was designed. The Age is almost ready, now. (Kahlo was in this phase when it was suspended for technical reasons. Even now, it could end up stuck in phase 4b for a looong time, but I’m “cautiously optimistic” about that, too. :)
+
+Phase 5
+IC: Limited Access - In this final phase before completion, the Age or location is opened for limited access by authorized explorers. Dr. Sutherland oversees the operations of this phase.
+
+OOC: Testing - In this final phase before completion, the Age or location is opened for testing by Quality Control (our in-house testers). They get to hammer on it, find bugs, and send it back to the phase 4 people to make fixes as needed.
+
+Once it’s passed Phase 5 inspection, it can be opened to you all.
+
+The phases, both IC and OOC, are not completely isolated. For example, The massing modeling of Age (Phase 2) will probably begin before Design (Phase 1) is 100% finished, so sometimes the Age is actually in two or more different Phases simultaneously, but we generally keep the listing at Phase 1 until Initial Design is complete, even if the massing model has started, then keep it listed as Phase 2 until the Massing model is complete, even if some of the Detail Analysis has started, etc.
+
+As for the current Age list on the DRC site: It was last updated just before the DRC disbanded in 2004. It, like most of the rest of the site, is about two years out of date now. There are places that are open in D’mala that are still listed in earlier phases of restoration. If we get a contract for funding, that’s on the list of things to do. Without a contract, there really isn’t a point of updating it ‘cause it very well could all be shut down again. (Which is the reason for... say it with me now... "Cautious optimism".)
+
+---------
+
+Gondar wrote:
+But, what it does imply.. are the people who do the various tasks then the players for said characters? Implying Marie Sutherland is played by one of the texture artists or something?
+
+Then again, are they played by one dedicated person (easier to keep a cohesive personality) or a group (easier to allow them to be around any given time)
+
+
+Do you really want the answers to these?
+
+:)
+
+RAWA

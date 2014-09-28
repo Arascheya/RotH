@@ -1,0 +1,14 @@
+@import url(http://www.google.com/css/go.css);
+
+@media screen, projection {
+/* @@ Special rules */
+.grey{color:#666;}
+
+.abbr {
+  color: #F00;
+  }
+  
+.imgLeft {float:left; padding:5px 10px 5px 5px;}
+.imgRight {float:right; padding:5px 5px 5px 10px;}
+.imgRight, .imgLeft {font-size: .9em;}
+}

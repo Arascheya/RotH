@@ -1,0 +1,18 @@
+.leftmenublock {
+	BACKGROUND-COLOR: #000066; BACKGROUND-POSITION: right top; BACKGROUND-REPEAT: no-repeat; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: bold; PADDING-LEFT: 8px; PADDING-TOP: 8px
+}
+.sidemenucell {
+	PADDING-LEFT: 5px
+}
+.sidemenuhead {
+	COLOR: #99ccff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: left
+}
+.sidemenusection {
+	COLOR: #99ccff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: normal; TEXT-ALIGN: left
+}
+.sidemenutext {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: normal; TEXT-ALIGN: left
+}
+.sidemenucurrent {
+	COLOR: #999999; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-WEIGHT: normal
+}

@@ -1,0 +1,65 @@
+    GestaltTagSpeak         (fCSDelay += 5.0, "AztolCS01",
+                            "We have arrived. I trust you can handle this on your own from here.");
+
+    GestaltTagSpeak         (fCSDelay += 5.0, "ShalmarCS01",
+                            "Yes, my lord Aztol. Ayrthane should pose no threat and the vermin, ha!");
+
+    GestaltTagSpeak         (fCSDelay += 5.0, "ShalCmdrCS01",
+                            "Your orders, Lord Shalmar?");
+
+    GestaltFace             (fCSDelay += 0.2, oShalmar, 0.0, 2, oShalmarCmdr);
+
+    GestaltTagSpeak         (fCSDelay += 2.0, "ShalmarCS01",
+                            "Kill anyone you find.");
+
+    GestaltTagSpeak         (fCSDelay += 2.0, "ShalCmdrCS01",
+                            "What if they know something?");
+
+    GestaltTagSpeak         (fCSDelay += 2.0, "ShalmarCS01",
+                            "What could an Outsider know? Just kill them.");
+
+    GestaltTagSpeak         (fCSDelay += 2.0, "ShalCmdrCS01",
+                            "And Ayrthane?");
+
+    GestaltTagSpeak         (fCSDelay += 1.0, "ShalmarCS01",
+                            "Bring that bitch to me.");
+
+    GestaltTagSpeak         (fCSDelay += 3.0, "AztolCS01",
+                            "Shalmar, I trust you remember that anything you find on the Hut, the Fleshfeaster, or Krystal comes immediately back to me.");
+
+    GestaltFace             (fCSDelay += 0.2, oShalmar, 0.0, 2, oAztol);
+
+    GestaltTagSpeak         (fCSDelay += 6.0, "ShalmarCS01",
+                            "Yes lord, I remember.");
+
+    // Lady Ayrthane, Commander Elzarth, and Mogron conversation
+    GestaltJump             (fCSDelay += 3.0, oPC, OBJECT_INVALID, "csLadyATent");
+//    GestaltActionFace       (fCSDelay += 0.5, oPC, 0.0, 2, oCmdrE);
+//    fFace = GetFacing(oPC);
+
+//    GestaltCameraFacing     (fCSDelay += 0.2, 135.0, 0.5, 80.0, oPC);
+
+    GestaltTagSpeak         (fCSDelay += 5.0, "MogronCS01",
+                            "My Lady, a giant metal spider appeared and is spewing massive numbers of Shalmar's troops.");
+
+    GestaltTagSpeak         (fCSDelay += 7.0, "LadyACS01",
+                            "Commander, disperse the troops. Tell them to make their way back home.");
+
+    GestaltTagSpeak         (fCSDelay += 3.0, "CmdrECS01",
+                            "But...");
+
+    GestaltTagSpeak         (fCSDelay += 1.0, "LadyACS01",
+                            "We only have a small force while the Spider Ship has brought Shalmar's army. We can't win with the force we have and I won't have our people killed needlessly. The three of us will stay, the rest need to save themselves.");
+
+    GestaltTagSpeak         (fCSDelay += 7.0, "CmdrECS01",
+                            "What can we accomplish?");
+
+    GestaltTagSpeak         (fCSDelay += 3.0, "LadyACS01",
+                            "The Vault Keys were hidden by my sister which gives us the advantage. Shalmar will have to blunder about until he finds them.");
+
+    GestaltTagSpeak         (fCSDelay += 6.0, "MogronCS01",
+                            "But the band of Outsiders living here will be anihilated.");
+
+    GestaltTagSpeak         (fCSDelay += 2.0, "LadyACS01",
+                            "I know, but there is no way we can protect them. They wouldn't bellieve us if we tried.");
+

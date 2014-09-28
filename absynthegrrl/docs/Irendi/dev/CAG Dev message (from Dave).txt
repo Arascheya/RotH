@@ -1,0 +1,42 @@
+From:   Hill, Dave C.
+Sent:   Wednesday, April 01, 2009 10:32
+To: MD-ClientAppTeam (fulltime)
+Cc: Uttley, Vince
+Subject:    CAG Dev message (from Dave)
+
+Hi all-
+
+By now you have received and read today’s communications from Tim Schaaff and Howard Stringer. 
+Clearly many challenges lie ahead for us all, both internally as the company re-aligns teams and 
+missions, and externally, as the world economy works through a painful reset.
+
+As we embark on the next phase of our Sony adventure, which begins today, I ask on behalf of myself 
+and SMSS senior management that everybody on the CAG team remains continuously mindful and 
+committed to the important mission that has been entrusted to us. Sony has never in the past 
+successfully deployed a PC software "world product" like Media Go. Now, as our 1.0 street date 
+approaches, it is we, you, who will start delivering on this major piece of the connectivity story that has 
+long been the company dream. 
+
+As you know, we are combating intense competition and a less-than-stellar company software legacy. 
+Our mission is to connect many diverse Sony hardware, content, and service initiatives in a harmonious 
+and user-friendly way. This is not an easy task, and will not become easier. The Media Go project is very 
+large and complex already, involving at least 10 engineering offices in 5 countries. And we can 
+immediately expect other groups that we have not dealt with much before entering the Media Go orbit- 
+these include Vaio, Digital Reader, PS3, new NPSG initiatives, and likely other groups such as Digital 
+Imaging. And let us not forget the needs of many millions of Media Go users- you can expect 5 at million 
+minimum by year’s end, and at least triple that 12 months later. As stated, not easy, there will be 
+obstacles and complications as we move forward, but a great team like this one is up to the task, I have 
+no doubt.
+
+I think quoting our own Ken Wali now is appropriate (I stole this from your performance review Ken, 
+sorry!):  
+
+"I keep the end user in mind with every line of code that I write." 
+
+I really liked that statement Ken, that’s a great way to approach every task. User Experience must remain 
+at the forefront. Focus on that and we will succeed and have fun doing it.
+
+Carry on(,eh).
+
+Dave   
+

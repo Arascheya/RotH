@@ -1,0 +1,18 @@
+.topheadblock {
+	BACKGROUND-COLOR: #000066; COLOR: #ffffff; HEIGHT: 26px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px; VERTICAL-ALIGN: middle
+}
+.topheadtext {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: normal; LINE-HEIGHT: 10px
+}
+.topheadcurrent {
+	COLOR: #999999; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: normal; LINE-HEIGHT: 10px
+}
+A.topheadtext {
+	TEXT-DECORATION: none
+}
+A.topheadtext:visited {
+	colour: #3333cc
+}
+A.topheadtext:hover {
+	BACKGROUND-COLOR: #3333cc; COLOR: #ffffff
+}

@@ -1,0 +1,36 @@
+/**********************************************************************************************************************************/
+/*  Module Descriptions
+/**********************************************************************************************************************************/
+/*  RotH Prelude
+/**********************************************************************************************************************************/
+Prelude to the Realms of the Hut. This contains a brief tutorial for the Neverwinter Nights game engine. 
+
+If you have already played the Prelude to the official campaign, you already know everything that would be presented in this module.
+
+/**********************************************************************************************************************************/
+/*  RotH Chapter 1 Afterwards
+/**********************************************************************************************************************************/
+Life in the hovels around the ruined city of Tharaneta is hard, tedious, and relentless. Days are spent searching the ruined city for minor items to sell to the few traders brave enough to venture beyond the Wizard Lord holdings. Rumors hint that a major artifact, which laid waste to the city, resides somewhere in the ruins. No one in the hovels truly believes it until two Wizard Lords arrive.
+
+/**********************************************************************************************************************************/
+/*  RotH Chapter 2 Orbs
+/**********************************************************************************************************************************/
+Driven by the Wizard Lords, you found the Artifact that had destroyed your city. There was a blinding flash and now you awaken...where?
+
+
+/**********************************************************************************************************************************/
+/*  CREDITS
+/**********************************************************************************************************************************/
+Credits:
+Many, many thanks and bows of gratitude to the CEP Team, CTP Team, Lodrezzon, Firefly adaptation team, and many others of the wonderful NWN Community for the Items, Placeables, Tilesets and other enhancements used in the Realms of the Hut (RotH). Without these resources this suite of modules would not have been possible.
+
+Additional cudos and bows of extreme gratitude to:
+Chaos_Theocrat for the Kali Yuga temple prefab used in RotH Chapter 2 Orbs and the Babylon prefabs that form the starting framework for RotH City of Babylon.
+
+Venkil Anaht for the Ancient Circle of Stones used for Stonehenge used in RotH Chapter 2 Orbs.
+
+The Bioware team. I freely admit I ripped off the Prelude Training area directly from the Official Campaign as a convenience to anyone playing this suite of modules who hadn't yet played the Official Campaign.
+
+/* need to make it work with CEP 2 */
+Jeff Vollmer for the Karador Theatre used in RotH Chapter 2 Orbs as the main theatre in londinium.
+

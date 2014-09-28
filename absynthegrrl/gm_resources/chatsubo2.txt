@@ -1,0 +1,127 @@
+On Thu, 20 Feb 2003 20:46:08 -0600, tadpol <tadpol@-tadpol.org> wrote:
+
+>> you to? Hmmmm can anyone lese in the sysadmin/network admin/hardware
+>> tech sort of lines of work confirm this as a constant?
+>
+>count another nemo here.
+>
+>--
+>tadpol
+
+"Count it as another constant that there is a mutual dislike between
+Suits and SysAdmins/HackerGurus. Especially Banker Suits... even more
+especially Banker Suits who don't want people to call them that."
+
+The DedOne takes a drink of his favorite, then continued his miniature
+rant,  "I've pissed my bosses off again after I complained they
+charged me for 2 PTO days they did not let me take and didn't pay me
+for.
+
+"The fact that they did this same kind of thing to two other employees
+who screamed louder than I did did not count. In fact I didn't scream
+at all, I just made themistake of quietly telling my Dweeb Junior
+Suit-wannabe boss  I didn't need to meet with HR as I understood the
+rules [and how they tended to prove that the comapny did not have my
+best interests at heart]
+
+It being almost beside the point that a meeting with the VP of HR
+would be a pointless excercise-- She thinks IT people are paid waaaay
+too much and hates my guts too boot. I'm guessing its 'cos I make more
+than she does which devalues her bright shiny VP plaque.
+
+It made no difference that I told none of this to my co-workers--  I
+was nominated by "the Suits" as the leader of the insurrection and
+told [in a carefully orchestrated and scripted way-- to give my
+co-workers who complained a bit of a shock] to go home and think about
+whether I wanted to keep my job."
+
+"So I walked back into the Data Center... and told my bosses boss [the
+VP of IT] to lock my desktop and gave her my password [after all I was
+working on a security project she had assigned to me and to which I
+had given only myself and the VP of IT access. Then of course there
+was all of the documentation on how the project was supposed to work
+was open and on the screen].
+
+The mouths of my co-workers dropped open in shock... they seemed to
+think I had been fired. This of course as they were going into a
+meeting with HR and the Suits over the PTO rules. Clever eh? What
+makes it even more clever is that the Suit who called me in
+'mistakenly' called one of my complaining co-workers who transfered
+the call to me... As if he *wanted* my co-worker to know that it was
+he that was calling me in."
+
+"Now in retrospect, I can think of only two people smart enough to
+come up with the script for this little charade. Neither one is in the
+corporate offices. One is an outside 'Management Consultant' I have
+never met but who is in the 'management training and motivational
+leadership' business and the other is the VP of IT who has been with
+the company for twenty years and knows where some of the bodies are
+buried and how to throw select victims to the dogs if it fits her
+agenda.
+
+" First thing after I got home I called a friend who is a partner in
+an IT consulting firm, he didn't have any openings but he has some
+friends that do. So I talked him into looking around for me. After
+thatI spent the weekend fuming and thinking how I could keep the job
+long enough to line-up something else."
+
+"Monday, at the end of a three hour one-on-one marathon with the chief
+suit of my operational division, I was allowed the privilege of
+keeping my job-- on the condition that no futher insurrections of any
+kind from any party in my department occurred... *ever*... whether I
+have any part of it or not..."
+
+"oh and by the way I was told that my sucky attitude [brought on by
+the sucky treatment the suits give the Network/Systems  team] had
+better get straightened out or they will show me the door for that
+too."
+
+No SysAdmins have no use for Suits.
+
+the ded on stopped aranting and turned to the old German barkeep,
+"Ratz, give me one for the road... I gotta date with a server console
+tomorrow so I gotta hang it up for the night..."
+
+The Ded One slammed back the final drink and noticed the silver haired
+lady as she walked back towards rune's table.
+
+"Some people have all the luck... but Rune gets his share too..."
+
+ded-T
+
+
+In article <9vko5v8pd1uq92udl4utm8ambve17vqjlm@4ax.com>,
+ ded-T <bogus@mail.com> wrote:
+
+> The Ded One slammed back the final drink and noticed the silver haired
+> lady as she walked back towards rune's table.
+>
+> "Some people have all the luck... but Rune gets his share too..."
+
+
+tadpol drops himself down at the table where the old one ranted.  Waving
+a waitress (er, or is that one a waiter?) to get a refill as the rant
+closes, he turns back to the ded.  "Sysadmins never get enough for the
+abuse they take.  Is why I got out of the line of work."  clearing the
+last swallow from his glass, "Noone ever notices you until its broken,
+and they never understand the need to fix any *before* it breaks."
+
+With a half laugh as his eyes try to find out what is hold up his next
+drink tadpol adds, "So I move into software design where I usually get
+to sometimes be creative.  In between the times when I am explaining
+that something will take four days - will take four days from when I
+*start*, not from when I first said four days."  Tad drums his fingers a
+bit as the waiter (uh, waitress?) returns with a puzzled look and a
+drink. "Yeah I don't know either." tad tells the waitperson (definitly
+human) "But its dark and fermented and not killing me instantly." and
+takes a sip. "yep, same as what I had before.  oh well."
+
+--
+tadpol
+- _ -
+
+Snow looks over from her table and says, "Yeah, I know how it goes. Doesn't just hit IT though. I was hired as a consultant on a bit of technology by Ramer Batzel, something to do with their involvement in the Multinational Space Initiative. Well I shot my mouth off at the wrong time and got hijacked by their parent Corp, Ronin DigiTronics and put in charge of an infrastructure project. Not cuz I was management material or anything, but because I was from the outside and they figured they could use me as the puppet to get the work done. It wasn't bad at first, it's a delightful mix of programming and integration and quite challenging. The project was the darling of a couple high-ups and we got what we needed, but cuz we're infrastructure that changed as soon as the quarterlies went down. Now it's the usual - we're taking another of your team and moving up the go-live for the project anyway..."
+
+She smiles bitterly and sighs, "Ah well..." Then she downs the last of her drink and motions to the approaching wait-person. "Another please."
+
+

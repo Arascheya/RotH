@@ -1,0 +1,413 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<title>  Looking into latest live metrics</title>
+	<meta name="generator" content="WordPress"> <!-- leave this for stats -->
+	<meta name="robots" content="noodp">
+
+
+	<style type="text/css" media="screen">
+		@import url( http://www.mattcutts.com/blog/wp-content/themes/almost-spring/style.css );
+	</style>
+	
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.mattcutts.com/blog/feed/">
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.mattcutts.com/blog/feed/rss/">
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.mattcutts.com/blog/feed/atom/">
+	<link rel="pingback" href="http://www.mattcutts.com/blog/xmlrpc.php">
+
+		<link rel="archives" title="April 2009" href="http://www.mattcutts.com/blog/2009/04/">
+	<link rel="archives" title="March 2009" href="http://www.mattcutts.com/blog/2009/03/">
+	<link rel="archives" title="February 2009" href="http://www.mattcutts.com/blog/2009/02/">
+	<link rel="archives" title="January 2009" href="http://www.mattcutts.com/blog/2009/01/">
+	<link rel="archives" title="December 2008" href="http://www.mattcutts.com/blog/2008/12/">
+	<link rel="archives" title="November 2008" href="http://www.mattcutts.com/blog/2008/11/">
+	<link rel="archives" title="October 2008" href="http://www.mattcutts.com/blog/2008/10/">
+	<link rel="archives" title="September 2008" href="http://www.mattcutts.com/blog/2008/09/">
+	<link rel="archives" title="August 2008" href="http://www.mattcutts.com/blog/2008/08/">
+	<link rel="archives" title="July 2008" href="http://www.mattcutts.com/blog/2008/07/">
+	<link rel="archives" title="June 2008" href="http://www.mattcutts.com/blog/2008/06/">
+	<link rel="archives" title="May 2008" href="http://www.mattcutts.com/blog/2008/05/">
+	<link rel="archives" title="April 2008" href="http://www.mattcutts.com/blog/2008/04/">
+	<link rel="archives" title="March 2008" href="http://www.mattcutts.com/blog/2008/03/">
+	<link rel="archives" title="February 2008" href="http://www.mattcutts.com/blog/2008/02/">
+	<link rel="archives" title="January 2008" href="http://www.mattcutts.com/blog/2008/01/">
+	<link rel="archives" title="December 2007" href="http://www.mattcutts.com/blog/2007/12/">
+	<link rel="archives" title="November 2007" href="http://www.mattcutts.com/blog/2007/11/">
+	<link rel="archives" title="October 2007" href="http://www.mattcutts.com/blog/2007/10/">
+	<link rel="archives" title="September 2007" href="http://www.mattcutts.com/blog/2007/09/">
+	<link rel="archives" title="August 2007" href="http://www.mattcutts.com/blog/2007/08/">
+	<link rel="archives" title="July 2007" href="http://www.mattcutts.com/blog/2007/07/">
+	<link rel="archives" title="June 2007" href="http://www.mattcutts.com/blog/2007/06/">
+	<link rel="archives" title="May 2007" href="http://www.mattcutts.com/blog/2007/05/">
+	<link rel="archives" title="April 2007" href="http://www.mattcutts.com/blog/2007/04/">
+	<link rel="archives" title="March 2007" href="http://www.mattcutts.com/blog/2007/03/">
+	<link rel="archives" title="February 2007" href="http://www.mattcutts.com/blog/2007/02/">
+	<link rel="archives" title="January 2007" href="http://www.mattcutts.com/blog/2007/01/">
+	<link rel="archives" title="December 2006" href="http://www.mattcutts.com/blog/2006/12/">
+	<link rel="archives" title="November 2006" href="http://www.mattcutts.com/blog/2006/11/">
+	<link rel="archives" title="October 2006" href="http://www.mattcutts.com/blog/2006/10/">
+	<link rel="archives" title="September 2006" href="http://www.mattcutts.com/blog/2006/09/">
+	<link rel="archives" title="August 2006" href="http://www.mattcutts.com/blog/2006/08/">
+	<link rel="archives" title="July 2006" href="http://www.mattcutts.com/blog/2006/07/">
+	<link rel="archives" title="June 2006" href="http://www.mattcutts.com/blog/2006/06/">
+	<link rel="archives" title="May 2006" href="http://www.mattcutts.com/blog/2006/05/">
+	<link rel="archives" title="April 2006" href="http://www.mattcutts.com/blog/2006/04/">
+	<link rel="archives" title="March 2006" href="http://www.mattcutts.com/blog/2006/03/">
+	<link rel="archives" title="February 2006" href="http://www.mattcutts.com/blog/2006/02/">
+	<link rel="archives" title="January 2006" href="http://www.mattcutts.com/blog/2006/01/">
+	<link rel="archives" title="December 2005" href="http://www.mattcutts.com/blog/2005/12/">
+	<link rel="archives" title="November 2005" href="http://www.mattcutts.com/blog/2005/11/">
+	<link rel="archives" title="October 2005" href="http://www.mattcutts.com/blog/2005/10/">
+	<link rel="archives" title="September 2005" href="http://www.mattcutts.com/blog/2005/09/">
+	<link rel="archives" title="August 2005" href="http://www.mattcutts.com/blog/2005/08/">
+	<link rel="archives" title="July 2005" href="http://www.mattcutts.com/blog/2005/07/">
+
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mattcutts.com/blog/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.mattcutts.com/blog/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 2.6.5">
+
+<link rel="stylesheet" href="Looking%20into%20latest%20live%20metrics_files/ee3878df4a44e2a39c1eb77d9185c332.css" type="text/css" media="screen">
+	<!-- Added By Democracy Plugin. Version 2.0.1 -->
+	<script type="text/javascript" src="Looking%20into%20latest%20live%20metrics_files/democracy.js"></script>
+	<link rel="stylesheet" href="Looking%20into%20latest%20live%20metrics_files/basic.css" type="text/css">
+	<link rel="stylesheet" href="Looking%20into%20latest%20live%20metrics_files/style.css" type="text/css">
+	<script type="text/javascript" src="Looking%20into%20latest%20live%20metrics_files/friendconnect.js"></script>
+	
+</head><body>
+
+<div id="wrapper">
+
+<div id="header">
+<h1><a href="http://www.mattcutts.com/blog">Matt Cutts: Gadgets, Google, and SEO</a></h1>
+</div>
+
+<div id="content">
+
+			
+		<div class="post">
+	
+			<h2 class="posttitle" id="post-2294"><a href="http://www.mattcutts.com/blog/looking-into-latest-live-metrics/" rel="bookmark" title="Permanent link to Looking into latest live metrics">Looking into latest live metrics</a></h2>
+
+			<p class="postmeta"> 
+			April 1, 2009 @ 11:46 am 
+			· Filed under <a href="http://www.mattcutts.com/blog/type/googleseo/" title="View all posts in Google/SEO" rel="category tag">Google/SEO</a>						</p>
+			
+			<div class="postentry">
+			<p>(Doing the “type up a quick blog post” thing. Let me know if I had any typos.)</p>
+<p>Thanks to everyone that contacted me in the last few minutes and
+hours about changes in our search products and quality; we’re seeing
+the <a href="http://analytics.blogspot.com/2009/04/cadies-google-analytics-reports.html">impact in our metrics</a>
+as well. I hear your feedback loud and clear–no need to keep emailing
+or contacting me about this. Google researchers recently activated a
+new tasked-array learning cluster. The formal name is “Cognitive
+Autoheuristic Distributed-Intelligence Entity” or <a href="http://www.google.com/intl/en/landing/cadie/index.html">CADIE</a>
+for short. Ultimately this technology has a lot of potential for an
+exponential increase in search quality and other Google properties.</p>
+<p>Unfortunately, the launch looks like it hit complications. This new entity has involved herself in Google’s products, and the <a href="http://analytics.blogspot.com/2009/04/cadies-google-analytics-reports.html">early evaluation from our live metrics</a>
+suggests that the first few hours have been decidedly suboptimal. We’re
+getting a handle on the full extent of the CADIE issue, but assessing
+the full impact is difficult because CADIE moves and reacts much faster
+than we expected.</p>
+<p>The bottom line is that we hear your feedback about recent changes
+and senior engineers are looking into these problems. Don’t be alarmed;
+we hope to have a fix live by the end of the day. I’ll post more
+details as I get them, but again: don’t panic.</p>
+
+
+<strong>Related Posts: </strong><ul><li><a href="http://www.mattcutts.com/blog/page-view-metrics-bah-humbug/" rel="bookmark" title="Permanent Link: Page view metrics? Bah, humbug!">Page view metrics? Bah, humbug!</a><br>(A
+personal, non-work mini-rant about page view metrics.) I want to come
+to Yahoo's defense about something. A recent spate of reports says that
+Yahoo...</li></ul>						</div>
+			
+			<p class="postfeedback">
+			<a href="http://www.mattcutts.com/blog/looking-into-latest-live-metrics/" rel="bookmark" title="Permanent link to Looking into latest live metrics" class="permalink">Permalink</a>
+			</p>
+			
+		</div>
+		
+		
+<!-- You can start editing here. -->
+
+
+	<h2 id="comments">
+	4 Comments		<a href="#postcomment" title="Jump to the comments form">»</a>
+		</h2>
+	
+	<ol id="commentlist">
+
+	
+		<li class="alt" id="comment-299060">
+		
+		<h3 class="commenttitle"><a href="http://www.mediafortemarketing.com/" rel="external nofollow">Lisa Williams</a> Said,</h3>
+		
+		<p class="commentmeta">
+			April 1, 2009 
+			@ <a href="#comment-299060" title="Permanent link to this comment">11:52 am</a>
+					</p>
+		
+		<p>Thank you for keeping us in the loop.  cheers</p>
+		
+		</li>
+
+		
+	
+		<li class="" id="comment-299067">
+		
+		<h3 class="commenttitle">Razib Ahmed Said,</h3>
+		
+		<p class="commentmeta">
+			April 1, 2009 
+			@ <a href="#comment-299067" title="Permanent link to this comment">12:01 pm</a>
+					</p>
+		
+		<p>I
+apologize deeply for an off topic question. Many people like me are
+eagerly waiting for Google Page Rank Update and we felt that it should
+have already happened yesterday or today. Can you say anything about it?<br>
+Sorry again.</p>
+		
+		</li>
+
+		
+	
+		<li class="alt" id="comment-299117">
+		
+		<h3 class="commenttitle"><a href="http://www.fonerbooks.com/" rel="external nofollow">Morris Rosenthal</a> Said,</h3>
+		
+		<p class="commentmeta">
+			April 1, 2009 
+			@ <a href="#comment-299117" title="Permanent link to this comment">12:40 pm</a>
+					</p>
+		
+		<p>So much for my Fools post:-)</p>
+<p>Morris</p>
+		
+		</li>
+
+		
+	
+		<li class="" id="comment-299193">
+		
+		<h3 class="commenttitle"><a href="http://www.scottblogs.com/" rel="external nofollow">Scott</a> Said,</h3>
+		
+		<p class="commentmeta">
+			April 1, 2009 
+			@ <a href="#comment-299193" title="Permanent link to this comment">1:41 pm</a>
+					</p>
+		
+		<p>Hey Lisa, this is all part of Google’s annual April Fools Joke. <img src="Looking%20into%20latest%20live%20metrics_files/icon_smile.gif" alt=":-)" class="wp-smiley"></p>
+		
+		</li>
+
+		
+	
+	</ol>
+	
+	<p class="small">
+	<a href="http://www.mattcutts.com/blog/looking-into-latest-live-metrics/feed/"><abbr title="Really Simple Syndication">RSS</abbr> feed for comments on this post</a>		</p>
+
+
+
+	<h2 id="postcomment">Got
+a webmaster-related question or suggestion that is not directly related
+to the topic of this entry? Instead of posting it here, your best bet
+is our official Google forum linked from <a href="http://www.google.com/webmasters/">http://www.google.com/webmasters/</a> <br><br>Also, I pre-moderate first-time commenters. Please review my <a href="http://www.mattcutts.com/blog/guidelines-for-comments-march-24-2006/">comment policy</a> before leaving a comment.</h2>
+	
+		
+		<form action="http://www.mattcutts.com/blog/wp-comments-post.php" method="post" id="commentform">
+		
+			
+		<p>
+		<input style="background-color: rgb(255, 255, 160);" name="author" id="author" value="" size="30" tabindex="1" type="text">
+		<label for="author">Name (required)</label>
+		</p>
+		
+		<p>
+		<input style="background-color: rgb(255, 255, 160);" name="email" id="email" value="" size="30" tabindex="2" type="text">
+		<label for="email">E-mail (required, never displayed)</label>
+		</p>
+		
+		<p>
+		<input style="background-color: rgb(255, 255, 160);" name="url" id="url" value="" size="30" tabindex="3" type="text">
+		<label for="url"><abbr title="Uniform Resource Identifier">URI</abbr></label>
+		</p>
+
+                
+		
+	<p>
+	<textarea name="comment" id="comment" cols="70" rows="10" tabindex="4"></textarea>
+	</p>
+
+	<p>
+	<input name="submit" id="submit" tabindex="5" value="Submit Comment" type="submit">
+	<input name="comment_post_ID" value="2294" type="hidden">
+	</p>
+
+	
+	</form>
+
+	
+				
+	
+</div>
+
+<div id="sidebar">
+
+<ul>
+		<p><a href="http://www.mattcutts.com/">About me</a><br>
+	<a href="http://www.mattcutts.com/blog/disclaimer">Disclaimer</a></p>
+	<p><a href="http://www.mattcutts.com/blog/feed/atom/"><img src="Looking%20into%20latest%20live%20metrics_files/small-rss.png" width="16" height="16"></a> <a href="http://www.mattcutts.com/blog/feed/atom/">Subscribe to me</a></p>
+	<p>Follow me on:<br>-&nbsp;<a href="http://friendfeed.com/mattcutts">FriendFeed</a><br>
+	-&nbsp;<a href="http://twitter.com/mattcutts">Twitter</a></p>
+	<li>
+		<h2>Categories</h2>
+		<ul>
+			<li class="cat-item cat-item-3"><a href="http://www.mattcutts.com/blog/type/booksmagazines/" title="View all posts filed under Books/Magazines">Books/Magazines</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.mattcutts.com/blog/type/chrome/" title="View all posts filed under Chrome">Chrome</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.mattcutts.com/blog/type/food/" title="View all posts filed under Food">Food</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.mattcutts.com/blog/type/fun/" title="View all posts filed under Fun">Fun</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.mattcutts.com/blog/type/gadgetshack/" title="View all posts filed under Gadgets/Hack">Gadgets/Hack</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.mattcutts.com/blog/type/games/" title="View all posts filed under Games">Games</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.mattcutts.com/blog/type/glossarydefinitions/" title="View all posts filed under Glossary/Definitions">Glossary/Definitions</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://www.mattcutts.com/blog/type/googleseo/" title="View all posts filed under Google/SEO">Google/SEO</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.mattcutts.com/blog/type/how-to/" title="View all posts filed under How to">How to</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.mattcutts.com/blog/type/iphone/" title="View all posts filed under iPhone">iPhone</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.mattcutts.com/blog/type/leftovers/" title="View all posts filed under Leftovers">Leftovers</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.mattcutts.com/blog/type/linux/" title="View all posts filed under Linux/Ubuntu">Linux/Ubuntu</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.mattcutts.com/blog/type/movies/" title="View all posts filed under Movies/Videos">Movies/Videos</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.mattcutts.com/blog/type/music/" title="View all posts filed under Music">Music</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.mattcutts.com/blog/type/personal/" title="View all posts filed under Personal">Personal</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.mattcutts.com/blog/type/productivity/" title="View all posts filed under Productivity">Productivity</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.mattcutts.com/blog/type/television/" title="View all posts filed under Television">Television</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.mattcutts.com/blog/type/travel/" title="View all posts filed under Travel">Travel</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.mattcutts.com/blog/type/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.mattcutts.com/blog/type/webnet/" title="View all posts filed under Web/Net">Web/Net</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.mattcutts.com/blog/type/weblogblog/" title="View all posts filed under Weblog/blog">Weblog/blog</a>
+</li>
+ 
+		</ul>
+	</li>
+	<li>
+		<h2>Search</h2>
+		<form method="get" action="http://www.google.com/search">
+<p>
+<input name="as_sitesearch" value="mattcutts.com" type="hidden">
+<input value="" name="as_q" id="as_q" type="text">
+<input value="Search" type="submit">
+</p>
+</form>
+	</li>
+	
+	
+	<li>
+		<h2>Meta</h2>
+		<ul>
+						<li><a href="http://www.mattcutts.com/blog/wp-login.php">Log in</a></li>
+			<li><a href="http://www.mattcutts.com/blog/feed/" title="Syndicate this site using RSS 2.0"><abbr title="Really Simple Syndication">RSS</abbr> 2.0</a></li>
+			<li><a href="http://www.mattcutts.com/blog/feed/atom/" title="Syndicate this site using Atom">Atom</a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress</a></li>
+					</ul>
+	</li>
+		
+	
+	<li>
+		<h2>Archives</h2>
+		<ul>
+			<li><a href="http://www.mattcutts.com/blog/2009/04/" title="April 2009">April 2009</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2009/03/" title="March 2009">March 2009</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2009/02/" title="February 2009">February 2009</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2009/01/" title="January 2009">January 2009</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/12/" title="December 2008">December 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/11/" title="November 2008">November 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/10/" title="October 2008">October 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/09/" title="September 2008">September 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/08/" title="August 2008">August 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/07/" title="July 2008">July 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/06/" title="June 2008">June 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/05/" title="May 2008">May 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/04/" title="April 2008">April 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/03/" title="March 2008">March 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/02/" title="February 2008">February 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2008/01/" title="January 2008">January 2008</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/12/" title="December 2007">December 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/11/" title="November 2007">November 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/10/" title="October 2007">October 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/09/" title="September 2007">September 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/08/" title="August 2007">August 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/07/" title="July 2007">July 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/06/" title="June 2007">June 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/05/" title="May 2007">May 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/04/" title="April 2007">April 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/03/" title="March 2007">March 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/02/" title="February 2007">February 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2007/01/" title="January 2007">January 2007</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/12/" title="December 2006">December 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/11/" title="November 2006">November 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/10/" title="October 2006">October 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/09/" title="September 2006">September 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/08/" title="August 2006">August 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/07/" title="July 2006">July 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/06/" title="June 2006">June 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/05/" title="May 2006">May 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/04/" title="April 2006">April 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/03/" title="March 2006">March 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/02/" title="February 2006">February 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2006/01/" title="January 2006">January 2006</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2005/12/" title="December 2005">December 2005</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2005/11/" title="November 2005">November 2005</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2005/10/" title="October 2005">October 2005</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2005/09/" title="September 2005">September 2005</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2005/08/" title="August 2005">August 2005</a></li>
+	<li><a href="http://www.mattcutts.com/blog/2005/07/" title="July 2005">July 2005</a></li>
+		</ul>
+	</li>
+</ul>
+
+</div>
+
+<script src="Looking%20into%20latest%20live%20metrics_files/uJBW.js" type="text/javascript" charset="utf-8"></script><script src="Looking%20into%20latest%20live%20metrics_files/uJBW.htm" type="text/javascript"></script>
+
+<div id="footer">
+<p>
+<a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional"><abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a>
+·
+<a href="http://jigsaw.w3.org/css-validator/check/referer" title="This page validates as CSS"><abbr title="Cascading Style Sheets">CSS</abbr></a>
+</p>
+</div>
+
+</div>
+
+<script src="Looking%20into%20latest%20live%20metrics_files/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-52812-1";
+urchinTracker();
+</script>
+
+
+<!-- Dynamic Page Served (once) in 0.985 seconds -->
+<!-- super cache --></body></html>

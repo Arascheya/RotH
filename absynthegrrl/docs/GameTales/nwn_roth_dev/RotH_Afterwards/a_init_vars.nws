@@ -1,0 +1,127 @@
+//::///////////////////////////////////////////////
+//:: Name a_init_vars
+//:: Created by Koriana Kent.
+//:://////////////////////////////////////////////
+#include "a_debug_utils"
+
+/*
+    create Door table in module
+    sets the door table into the variable section of the module
+*/
+void SetModDoorTable(object oHutModule);
+
+/*
+    create vars to track Vault Keys
+*/
+void SetVaultKeys(object oHutModule);
+
+/*
+    create vars for tracking various puzzles
+*/
+void SetPuzzleKeys(object oHutModule);
+
+/*
+    set various map markers hidden to start
+*/
+void SetMapPinsOff();
+
+void InitVariables()
+{
+    object oHutModule = GetModule();
+
+    // set Module dynamic door links
+    SetModDoorTable(oHutModule);
+
+    // set initial Vault key conditions
+    SetVaultKeys(oHutModule);
+
+    // set Map Pin states
+    SetMapPinsOff();
+}
+
+void SetModDoorTable(object oHutModule)
+{
+    // module specific - create as needed for Vault access and any other dynamic doors
+    SetLocalString(oHutModule, "sElzarthTent",         "CityFieldsETent");
+    SetLocalString(oHutModule, "sPCRoom",              "toPCRoom1");
+    SetLocalString(oHutModule, "stoPCRoom1",           "PCRoom");
+    SetLocalString(oHutModule, "sPCWell",              "PC_HOME_LOWER");
+    SetLocalString(oHutModule, "sMomRoomLab",          "MomLab");
+    SetLocalString(oHutModule, "sMomLab",              "MomRoomLab");
+    SetLocalString(oHutModule, "sToVaultFromLab",      "wpRMLab");
+    SetLocalString(oHutModule, "sRMLab",               "ToVaultFromLab");
+    SetLocalString(oHutModule, "sResVault01",          "VaultM1Res");
+    SetLocalString(oHutModule, "sVaultM1VaultM2",      "");
+    SetLocalString(oHutModule, "sVaultM1Res",          "ResVault01");
+    SetLocalString(oHutModule, "sVaultM1False1",       "CityReturn05");
+    SetLocalString(oHutModule, "sVaultM1False2",       "CityReturn03");
+    SetLocalString(oHutModule, "sVaultM1False3",       "ReturnPt01");
+    SetLocalString(oHutModule, "sVaultM1False4",       "ReturnPt02");
+    SetLocalString(oHutModule, "sVaultM1False5",       "CityReturn04");
+    SetLocalString(oHutModule, "sVaultM1False6",       "CityReturn01");
+    SetLocalString(oHutModule, "sVaultM3CityCntr",     "wpCityCntrVaultM3");
+    SetLocalString(oHutModule, "sCityCntrVaultM3",     "wpVaultM3CityCntr");
+    SetLocalString(oHutModule, "sPoolOfTears",         "wpCityCntrPool");
+    SetLocalString(oHutModule, "sCityCntrPool",        "wpPoolOfTears");
+
+    SetLocalString(oHutModule, "sCmndrETent",          "CmndrETentCityFields");
+    SetLocalString(oHutModule, "sCmndrETentCityFields","wpCityFieldsETent");
+
+    SetLocalString(oHutModule, "sLadyATent",           "LadyATentCityFields");
+    SetLocalString(oHutModule, "sLadyATentCityFields", "wpCityFieldsLadyTent");
+
+    // Tomanas
+    //SetLocalString(oHutModule, "UnderTTomanasUnderT",  "wpTomanasUnderTUnderT");
+    SetLocalString(oHutModule, "sTomanasUnderTUnderT", "wpUnderTTomanasUnderT");
+    SetLocalString(oHutModule, "sTomanasTrapDoor",     "TomanasUnderTunnels");
+    SetLocalString(oHutModule, "sTomanasUnderTunnels", "wpTomanasTrapDoor");
+    SetLocalString(oHutModule, "sTomanasGate",         "wpTUnknown");
+    SetLocalString(oHutModule, "sUnknownGate",         "wpTDwarven");
+
+    // Main Vault links - many in - one back
+    // in
+    SetLocalString(oHutModule, "sPoolTearsMainVault",  "VaultMainEntry");
+    // back
+    SetLocalString(oHutModule, "sVaultMainReturn",     "wpPoolTearsMainVault");
+
+    // inner - final - vault links
+    SetLocalString(oHutModule, "sMainVaultInnerVault", "wpInnerVaultMainVault");
+    SetLocalString(oHutModule, "sInnerVaultMainVault", "wpMainVaultInnerVault");
+}
+
+void SetVaultKeys(object oHutModule)
+{
+    // by tracking these as Module Variables either the PC or Lady Ayrthane can aquire
+    // the various Vault Keys allowing for them to have to negotiate each group has
+    // some of the keys when the last one is found
+    // Lady A will aquire keys at certain time-counts as the module runs, if the PC
+    // hasn't already found that key
+    SetLocalInt(oHutModule, "iVaultKey1", 0);
+    SetLocalInt(oHutModule, "iVaultKey2", 0);
+    SetLocalInt(oHutModule, "iVaultKey3", 0);
+    SetLocalInt(oHutModule, "iVaultKey4", 0);
+    SetLocalInt(oHutModule, "iVaultKey5", 0);
+    SetLocalInt(oHutModule, "iVaultKey6", 0);
+    SetLocalInt(oHutModule, "iVaultKey7", 0);
+}
+
+void SetPuzzleKeys(object oHutModule)
+{
+    SetLocalInt(oHutModule, "iRunePuzzle1", 0);
+}
+
+void SetMapPinsOff()
+{
+    SetMapPinEnabled(GetObjectByTag("mapCentralGardens"), 0);
+    SetMapPinEnabled(GetObjectByTag("mapResearchStation"), 0);
+    SetMapPinEnabled(GetObjectByTag("mapLPriest"), 0);
+    SetMapPinEnabled(GetObjectByTag("mapLibrary"), 0);
+    SetMapPinEnabled(GetObjectByTag("mapDDesire"), 0);
+    SetMapPinEnabled(GetObjectByTag("mapWellTears"), 0);
+}
+
+// target locations:
+/*
+    CityReturn01 - CityReturn06
+*/
+

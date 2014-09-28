@@ -1,0 +1,48 @@
+Marker Locations (34) - numbers indicate sequence for Irena
+
+Green Markers - in sequence found
+G1 - GZO
+G2 - Classroom
+G3 - Eggroom
+G4 - By waterfall
+G5 - Light Garden
+G6 - Outside the lecture hall
+G7 - Ferry Terminal tunnel - Main City
+G8 - At the bottom of the Great Stair - Main City
+G9 - At end of Docks - Main City
+G10 - By the Museum - Hood city - main city was too laggy - need IC reason for returning to the hood instance
+G11 - Inside Museum
+G12 - On the ledge over Takotah Alley Nexus Terminal
+G13 - On the landing of the Great Stair near Kahlo Pub
+G14 - In Kahlo Pub rubble
+G15 - In Kahlo Pub over a table
+
+
+Red Markers - in sequence found
+R1 - GZ - under the stairs
+R2 - On Stairs past the Hall of Kings
+R3 - On walkway between the "bridge" and the Hall of Kings
+R4 - On walkway between the "bridge" and the Library
+R5 - By barriers behind the Library
+R6 - Inside the Library
+R7 - On the Rope Bridge
+R8 - On the stairs between the Concert Hall and Takotah Alley
+R9 - Gallery
+R10 - By the Great Curtain
+R11 - Baron's City Office
+R12, R13 - Takotah Rooftop
+R14 - Palace Canyon Balcony (Curved)
+R15 - Classroom Rooftop (via page in Bevin Book)
+
+City Proper (19):
+ - In the cravasse in Takotah Alley
+
+Descent (1):
+ - By the closed door, some see it, some don't, most hear it though Question
+
+City Links Book (5):
+ - Palace Rooftop (Rectangular)
+
+Bevin (7):
+ - Bevin Balcony (via page in Bevin Book)
+

@@ -1,0 +1,41 @@
+The Windows 8 keyboard-shortcut cheat sheet
+Based on data found here: http://windows.microsoft.com/en-us/windows-8/new-keyboard-shortcuts
+
+If there’s one feature of Windows 8 that plays no favorites with finger-swiping on touch screens, it’s the vastly expanded keyboard shortcuts. Although most work with a combination of the Windows key (shortened below to WinKey) and one other key, the Ctrl and Alt keys are there to help you navigate quickly, too.
+
+    WinKey - The most important keyboard shortcut; toggles between Metro and Desktop
+    WinKey + B - Go to the Desktop from the Metro Start Screen
+    WinKey + C - Bring up the Charms menu (where you can search, share, and change settings)
+    WinKey + D - Go to the Desktop from the Start screen
+    WinKey + E - Launch File Explorer with Computer view displayed
+    WinKey + F - Bring up the Files search box
+    WinKey + H - Open the Start Share panel
+    WinKey + I - Open the Settings panel (to adjust settings for the current app, change volume, access wireless networks, shut down, or adjust the brightness)
+    WinKey + J - Switch focus between snapped Start applications (see further Window Snap navigation below)
+    WinKey + K - Open the Devices panel (for connecting to a projector or some other device)
+    WinKey + L - Lock PC and return to Lock screen
+    WinKey + M - Minimize all Windows on the desktop
+    WinKey + O - Lock device orientation on tablets
+    WinKey + P - Choose between available displays if you have the proper graphics card and an additional monitor attached.
+    WinKey + Q - Bring up the Start App Search screen
+    WinKey + R - Switch to Desktop and display the Run box
+    WinKey + U - Switch to Desktop and launch the Ease of Access Center
+    WinKey + V - Cycle through app notifications (these appear in the upper-right corner when appropriate to a particular app)
+    WinKey + W - Bring up the Start Settings search box
+    WinKey + X - Launch Start shortcuts menu
+    WinKey + Y - Temporarily peek at the desktop
+    WinKey + Z - Open the App bar for the current Start application
+    WinKey + Tab - Open the Metro application switcher menu (toggles between applications)
+    WinKey + Page Up/Down - Moves tiles to the left or right
+    WinKey + , (comma) - Aero Peek at the desktop
+    WinKey + . (period)* - snap right
+    WinKey + Shift + , (comma)* - snap left
+    * On keyboards with separate arrow and numeric keypads, use WinKey + right or left arrow.
+    Ctrl + Tab - Show the Apps window
+    Ctrl + F1 - Expand the ribbon in File Explorer, Paint, and other native Win8 apps
+    Ctrl + + (plus) - Zoom in
+    Ctrl + - (minus) - Zoom out (or hold down Ctrl and use Mouse wheel to zoom in and out)
+    Alt + F4 - Close an application
+    WS contributing editor Michael Lasky is a freelance writer based in Oakland, California, who has 20 years of computer-magazine experience, most recently as senior editor at PC World.
+    
+Logout User - available from User Icon on Metro desktop - click icon and select desired option

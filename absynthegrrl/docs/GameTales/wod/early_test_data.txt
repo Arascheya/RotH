@@ -1,0 +1,59 @@
+SENT:
+First Impressions:
+
+Looking good so far!
+Movement is clear - although persistence of custom key mappings between sessions isn't working yet - I like using arrow keys for movement as a left-hand mouse person, so I tend to map common actions to Number Pad and arrows
+
+Combat seems like it would be simple to engage in - haven't figured out where to go to engage yet, but I'm still wandering around, so should stumble over it soon...
+Beginning Haven is good, enough apartment-like design to feel real. I am looking forward to the appointments in them to get the true sense of the place.
+Some of the tutorial steps are not clear - but can be puzzled out - rather expected for very early...<g>
+I thought I found a way to change zones from New York to Amsterdam, but I can't remember how/where I found the method. Could you refresh my memory? (I will let you know if I stumble on it again)
+
+Not sure I like taking damage from falling, having gotten used to being able to walk away from insane falls/jumps in Secret World, but it makes the ladders and roof-jumps something to be careful with, so probably good overall.
+
+I like the UI - very clean, uncluttered, and simple.
+The one textured building looks good, nice tones and excellent dark feel.
+Harvesting works reasonably well. I really like the ease of watching progress vs Willpower consumed, very nice and easy to read. Same for damage taken.
+I see you borrowed a bit from Secret World in the hotbar - I like it, keeps it from getting overwhelming in terms of choices.
+I really like the way of spending experience on Disciplines, Attributes, Hunting Skills, and the rest. Allows me to focus and chose rather than the "class based methods".
+
+Crazy Thought:
+Let incapacitated characters crawl slowly around to try and find a mortal to feed from.
+Background:
+I was testing basic things, like do I die if I jump off a building...which I did...
+As I was laying there, waiting for the ability to go back to my home, I thought it would be quite amusing if I could drag myself around to try and find revival/food.
+
+Update:
+Found the Subway Entrance - I just wasn't looking in the right place.
+
+Ran into one combat instance - I like the mechanism - not complicated, yet has a great deal of customization available with the various Aspects that can be equipped. Very Secret World like and very cool!
+
+I love the "underground" playfields, particularly the multiple levels and things to run along, jump to, and climb. I can't wait to see the artwork for those spaces!
+
+Harvesting:
+Trove harvesting is slower than paint drying. I understand the desire to allow time for interruption or conflict, but you might consider shortening the time a bit. I found I was reluctant to try on a Trove, even in a non-conflict heavy area, because it was just too boring to wait for the success/failure.
+I am not suggesting making it too fast, just shortening a bit to not discourage players trying.
+
+The regular caches are fine in terms of time.
+
+I guess I am playing in a low population area since no one has tried to prevent me harvesting, regardless of who owns the nearest Hunting Ground. I am assuming conflict for resources was part of the Harvesting concept.
+
+A couple of questions:
+
+I know it's too early for emotes, but is there a plan on how they work?
+I've not found a system that is particularly good - command line entry is clunky, plus you have to remember the freaking emote names, UI methods always end up cluttering up the rest of the UI and get in the way of seeing the other person, keyboard mappings don't seem all that good either, given the small number of keys and the larger amount of emotes. Wish I had some good ideas...sigh
+If the chat/emote panel could be moved to a second monitor, that would help quite a bit, especially with games that have Voice Chat options.
+
+How does seamless zoning work, i.e. World of Warcraft style? I really like it and wish more games would do it. I get rather tired of waiting through load screens. I suspect there are serious technical issues with area painting that get in the way, but would like to know if that is right or not.
+
+Does anyone know how many gamers run with two monitors, or do the really hard core not do it for performance reasons? I am always looking for ways to unclutter the UI so I can appreciate the beauty of the worlds I am in.
+
+Map pins/notes would be good - it's nice to be able to drop reminders of where key things are - entries to the underground,good hunting, etc.
+
+
+RAW THOUGHTS:
+Casual Play
+Thoughts on ways to play that would work for time limited players.
+One possibility - collect crafting items and craft things for the brood. I didn't think to offer this up or try it in the last test because I thought of it after the test.
+
+Staff for various social clubs in the city. Not sure how this would play out, though, in terms of experienceand interaction. Maybe through intelligence gathering.
