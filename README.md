@@ -11,7 +11,7 @@ There are two primary sections linked in the Index.
 
 #### Release Notes:
 
-Items seeing the most work are Tearing the Veil, Angelique - Still Life with Vampyr, Alexandra - A Tale of the Dark Carnival, and Angelique Lestrade.
+Items seeing the most work are Tearing the Veil, project for Betsy in FanFic dir, Angelique - Still Life with Vampyr, Alexandra - A Tale of the Dark Carnival, and Angelique Lestrade.
 
 The most complete story is The Further Adventures of Ennui and Dimentia
 
