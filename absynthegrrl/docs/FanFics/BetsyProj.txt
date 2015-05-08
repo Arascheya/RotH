@@ -1,3 +1,5 @@
+/* BEGIN */
+/* FINAL - Release version */
 Alicia - Searching for the Dead
 
 I stared down at my aunt Aunt Jane, lying in the hospital bed, hooked up to tubes and wires. Uncle Dan had found her, face up on the floor, eyes staring sightlessly at the ceiling, when he came home from the night shift. The paramedicas had found her breathing shallowly but otherwise unresponsive.
@@ -56,7 +58,7 @@ Monica returned fifteen minutes later wth a cup of water. "Drink this, then tell
 
 I sipped the water and levered myself out of the chair. "Look, I can stand now."
 
-"You need to take better care of yourself. You won't do your aunt any good if you are sick yourself," Monica said. A flicker of distaste crossed her face before she spoke again, "I need to warn you about something that's a recent changein hospital policy. In the next few days, a couple of 'counsellors' will come in to encourage you to take your aunt off life support. It's a new thing, started just under a year ago. I think it has something to do with the insurance companies and cost reductions. In any case, it's been creeping out a lot of people since the representatives seem completely devoid of compassion."
+"You need to take better care of yourself. You won't do your aunt any good if you are sick yourself," Monica said. A flicker of distaste crossed her face before she spoke again, "I need to warn you about something that's a recent change in hospital policy. In the next few days, a couple of 'counsellors' will come in to encourage you to take your aunt off life support. It's a new thing, started just under a year ago. I think it has something to do with the insurance companies and cost reductions. In any case, it's been creeping out a lot of people since the representatives seem completely devoid of compassion."
 
 "Is there any way to refuse this kind of thing?"
 
@@ -246,10 +248,7 @@ My uncle found me in the chair by her bed. "When did you get here? Where were yo
 
 ------------------------------------------------------------------------
 
-
-Dev Note - Alicia
-
-access soul merchants through vortex - inside "offices", so don't see that this is actually in the Discord
+/* END - of Released version */
 
 
 --------------------------------------------------------------------------------------------
@@ -269,11 +268,11 @@ Consider Condrin Tavern in Bloomfield hood as
 
 Seraphina
 
-I stared down at my aunt Aunt Elizabeta, lying in the hospital bed, hooked up to tubes and wires. Uncle Arthur had found her, face up on the floor, eyes staring sightlessly at the ceiling, when she hadn't come downto help open the deli. The paramedicas had found her breathing shallowly but otherwise unresponsive.
+I stared down at my aunt Aunt Elizabeta, lying in the hospital bed, hooked up to tubes and wires. Uncle Arthur had found her, face up on the floor, eyes staring sightlessly at the ceiling, when she hadn't come down to help open the deli. The paramedicas had found her breathing shallowly but otherwise unresponsive.
 
 She had been pronounced brain dead at the hospital, but Uncle Arthur had refused to believe it and insisted on keeping her on life support. He spent every day at her side, reading to her and holding her hand. I would keep the deli open during the day and then head to the hospital, so my uncle could get some rest.
 
-The third night after Aunt Elizabeta's collapse, I was in my usual place, sitting beside her, reading from the current book. The toll of opening, running, and closing the deli was starting to take its toll. My eyes would drift closed every few minutes. They had drifted closed for the fifth time in twenty minutes, but longer than before, almost into sleep, when a noise in the hall startled me awake again. As my eyes opened, I saw a swirling dark vortex where Aunt Elizabeta's face should have been. It was hypnotic, pulling my gaze deep into itself and drawing me from my chair. The edge of the bed jarred me as I bumped it. For just a moment I saw a flicker of something, at the far depths, dark, forbidding, jagged mountains beyond a shattered city. Then it was gone and my aunt's face swam back into focus.
+The third night after Aunt Elizabeta's collapse, I was in my usual place, sitting beside her, reading from the current book. The stress of opening, running, and closing the deli was starting to take its toll. My eyes would drift closed every few minutes. They had drifted closed for the fifth time in twenty minutes, but longer than before, almost into sleep, when a noise in the hall startled me awake again. As my eyes opened, I saw a swirling dark vortex where Aunt Elizabeta's face should have been. It was hypnotic, pulling my gaze deep into itself and drawing me from my chair. The edge of the bed jarred me as I bumped it. For just a moment I saw a flicker of something, at the far depths, dark, forbidding, jagged mountains beyond a shattered city. Then it was gone and my aunt's face swam back into focus.
 
 I stared at her, trying to shake the flash, then slowly backed up until I hit the chair, sitting abruptly. I lifted the book, but couldn't shake the view, staring at her instead of reading. Slowly, my eyes dropped shut again.
 
